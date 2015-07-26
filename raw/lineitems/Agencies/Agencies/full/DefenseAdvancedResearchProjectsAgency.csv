@@ -1,0 +1,16 @@
+2,0601101E,Defense Research Sciences,01,283318,309051,309051,315033,Basic Research
+4,0601117E,Basic Operational Medical Research Science,01,44445,39676,39676,49500,Basic Research
+9,0602115E,Biomedical Technology,02,95661,110900,110900,114790,Applied Research
+14,0602303E,Information & Communications Technology,02,343383,392421,392421,413260,Applied Research
+15,0602304E,Cognitive Computing Systems,02,46020,30424,30424,16330,Applied Research
+17,0602383E,Biological Warfare Defense,02,30844,19236,19236,24537,Applied Research
+22,0602702E,Tactical Technology,02,202735,233209,233209,225977,Applied Research
+23,0602715E,Materials and Biological Technology,02,203826,166067,166067,166654,Applied Research
+24,0602716E,Electronics Technology,02,216102,222416,222416,243469,Applied Research
+37,0603286E,Advanced Aerospace Systems,03,94303,174316,174316,149804,Advanced Technology Development
+38,0603287E,Space Programs and Technology,03,99138,159704,159704,172546,Advanced Technology Development
+55,0603739E,Advanced Electronics Technologies,03,144047,111008,111008,117080,Advanced Technology Development
+57,0603760E,Command Control and Communications Systems,03,246476,237859,237859,239078,Advanced Technology Development
+59,0603766E,Network-Centric Warfare Technology,03,195582,236883,236883,259006,Advanced Technology Development
+60,0603767E,Sensor Technology,03,267900,299438,299438,286364,Advanced Technology Development
+164,0605898E,Management HQ - R&D,06,66689,69767,69767,71659,Management Support

@@ -1,0 +1,3 @@
+1 0605118OTE Operational Test and Evaluation								  06	   62444		72501					   72501		75720  RDTE Management Support
+2 0605131OTE Live Fire Test and Evaluation									  06	   12126		49201					   49201		48423  RDTE Management Support
+3 0605814OTE Operational Test Activities and Analyses						  06	  113467		63566					   63566		62157  RDTE Management Support

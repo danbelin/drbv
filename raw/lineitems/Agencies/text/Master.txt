@@ -1,0 +1,188 @@
+1 0601000BR	 DTRA Basic Research Initiative									  01	   47712		45071					   45071		45837  Basic Research
+2 0601101E	 Defense Research Sciences										  01	  283318	   309051					  309051	   315033  Basic Research
+3 0601110D8Z Basic Research Initiatives										  01		7170		19405					   19405		11171  Basic Research
+4 0601117E	 Basic Operational Medical Research Science						  01	   44445		39676					   39676		49500  Basic Research
+5 0601120D8Z National Defense Education Program								  01	   87874		87979					   87979		84271  Basic Research
+6 0601228D8Z Historically Black Colleges and Universities/Minority Institutions			  01															   30895  Basic Research
+7 0601384BP	 Chemical and Biological Defense Program						  01	   46561		50566					   50566		51426  Basic Research
+8 0602000D8Z Joint Munitions Technology										  02	   20298		20615					   20615		20065  Applied Research
+9 0602115E	 Biomedical Technology											  02	   95661	   110900					  110900	   114790  Applied Research
+11 0602234D8Z Lincoln Laboratory Research Program							  02	   34444		36826					   36826		46875  Applied Research
+13 0602251D8Z Applied Research for the Advancement of S&T Priorities			  02															   45000  Applied Research
+14 0602303E	 Information & Communications Technology						  02	  343383	   392421					  392421	   413260  Applied Research
+15 0602304E	 Cognitive Computing Systems									  02	   46020		30424					   30424		16330  Applied Research
+17 0602383E	 Biological Warfare Defense										  02	   30844		19236					   19236		24537  Applied Research
+18 0602384BP	 Chemical and Biological Defense Program						  02	  223009	   223269					  223269	   227065  Applied Research
+20 0602668D8Z Cyber Security Research										  02		5280		18985					   18985		18908  Applied Research
+21 0602670D8Z Human Social and Culture Behavior Modeling (HSCB) Applied Research		 02		   7658			6771					   6771				   Applied Research
+22 0602702E	 Tactical Technology											  02	  202735	   233209					  233209	   225977  Applied Research
+23 0602715E	 Materials and Biological Technology							  02	  203826	   166067					  166067	   166654  Applied Research
+24 0602716E	 Electronics Technology											  02	  216102	   222416					  222416	   243469  Applied Research
+25 0602718BR	 Weapons of Mass Destruction Defeat Technologies				  02	  193189	   172352					  172352	   175282  Applied Research
+26 0602751D8Z Software Engineering Institute (SEI) Applied Research			  02															   11107  Applied Research
+27 1160401BB	 Special Operations Technology Development						  02	   40517		28739					   28739		29246  Applied Research
+28 0603000D8Z Joint Munitions Advanced Technology							  03	   14590		25612					   25612		26646  Advanced Technology Development
+29 0603121D8Z SO/LIC Advanced Development									  03	   44186		26324					   26324		19420  Advanced Technology Development
+30 0603122D8Z Combating Terrorism Technology Support							  03	   74563		77144					   77144		77792  Advanced Technology Development
+31 0603160BR	 Counterproliferation Initiatives - Proliferation Prevention and Defeat  03	  279166	   275022					  275022	   274033  Advanced Technology Development
+32 0603175C	 Ballistic Missile Defense Technology							  03	   67921		79975					   79975	   309203  Advanced Technology Development
+34 0603225D8Z Joint DoD-DoE Munitions Technology Development					  03	   19538		20032					   20032		19305  Advanced Technology Development
+35 0603264S	 Agile Transportation for the 21st Century (AT21) - Theater	Capability	  03		  987		  3892						 3892		  7565	Advanced Technology Development
+36 0603274C	 Special Program - MDA Technology								  03	   61371		36685					   36685		40426  Advanced Technology Development
+37 0603286E	 Advanced Aerospace Systems										  03	   94303	   174316					  174316	   149804  Advanced Technology Development
+38 0603287E	 Space Programs and Technology									  03	   99138	   159704					  159704	   172546  Advanced Technology Development
+39 0603384BP	 Chemical and Biological Defense Program - Advanced Development	  03	  225441	   234280					  234280	   170847  Advanced Technology Development
+40 0603618D8Z Joint Electronic Advanced Technology							  03		6588		 6983						6983		 9009  Advanced Technology Development
+41 0603648D8Z Joint Capability Technology Demonstrations						  03	  192297	   158263					  158263	   174428  Advanced Technology Development
+42 0603662D8Z Networked Communications Capabilities							  03	   20856		25393					   25393		20000  Advanced Technology Development
+45 0603668D8Z Cyber Security Advanced Research								  03		5836		19935					   19935		19668  Advanced Technology Development
+46 0603670D8Z Human Social and Culture Behavior Modeling (HSCB) Advanced Development		 03		  12153			8235					   8235				   Advanced Technology Development
+47 0603680D8Z Defense-Wide Manufacturing Science and Technology Program		  03	   49026		21966					   21966		34041  Advanced Technology Development
+48 0603699D8Z Emerging Capabilities Technology Development					  03	   43377		24662					   24662		61971  Advanced Technology Development
+50 0603712S	 Generic Logistics R&D Technology Demonstrations				  03	   23236		24605					   24605		20000  Advanced Technology Development
+51 0603713S	 Deployment and Distribution Enterprise Technology				  03	   29710		30678					   30678		30256  Advanced Technology Development
+52 0603716D8Z Strategic Environmental Research Program						  03	   64220		65282					   65282		72324  Advanced Technology Development
+53 0603720S	 Microelectronics Technology Development and Support			  03	   60397		72234					   72234		82700  Advanced Technology Development
+54 0603727D8Z Joint Warfighting Program										  03	   10276		 8403						8403		 8431  Advanced Technology Development
+55 0603739E	 Advanced Electronics Technologies								  03	  144047	   111008					  111008	   117080  Advanced Technology Development
+57 0603760E	 Command Control and Communications Systems						 03		 246476		  237859					 237859		  239078  Advanced Technology Development
+59 0603766E	 Network-Centric Warfare Technology								  03	  195582	   236883					  236883	   259006  Advanced Technology Development
+60 0603767E	 Sensor Technology												  03	  267900	   299438					  299438	   286364  Advanced Technology Development
+61 0603769SE	 Distributed Learning Advanced Technology Development			  03	   13133		12195					   12195		12116  Advanced Technology Development
+62 0603781D8Z Software Engineering Institute									  03	   27189		30036					   30036		19008  Advanced Technology Development
+63 0603826D8Z Quick Reaction Special Projects								  03	   63029	   107002					  107002		78532  Advanced Technology Development
+65 0603828J	 Joint Experimentation											  03					 21230						21230		 12667	Advanced Technology Development
+66 0603832D8Z DoD Modeling and Simulation Management Office					  03	   29860		47433					   47433		41370  Advanced Technology Development
+69 0603941D8Z Test & Evaluation Science & Technology							  03	   96622		92602					   92602		92508  Advanced Technology Development
+70 0604055D8Z Operational Energy Capability Improvement						  03	   23909		26244					   26244		52001  Advanced Technology Development
+71 0303310D8Z CWMD Systems													  03		4117		53946					   53946		52053  Advanced Technology Development
+72 1160402BB	 Special Operations Advanced Technology Development				  03	   31689		45317					   45317		46809  Advanced Technology Development
+75 0603161D8Z Nuclear and Conventional Physical Security Equipment RDT&E ADC&P 04	   29792		33234					   33234		63641  Advanced Component Development And Prototypes
+76 0603527D8Z RETRACT LARCH													  04	   20431		21023					   21023		19152  Advanced Component Development And Prototypes
+77 0603600D8Z WALKOFF														  04	   90665		94624					   94624		70763  Advanced Component Development And Prototypes
+79 0603714D8Z Advanced Sensors Application Program							  04	   18402		16958					   16958		17230  Advanced Component Development And Prototypes
+80 0603851D8Z Environmental Security Technical Certification Program			  04	   61838		75941					   75941		71453  Advanced Component Development And Prototypes
+81 0603881C	 Ballistic Missile Defense Terminal Defense Segment				  04	  381041	   316929					  316929	   268990  Advanced Component Development And Prototypes
+82 0603882C	 Ballistic Missile Defense Midcourse Defense Segment			  04	1143313		  903172					 903172		1033903	 Advanced Component Development And Prototypes
+83 0603884BP	 Chemical and Biological Defense Program - Dem/Val				  04	  201871	   179023					  179023	   196237  Advanced Component Development And Prototypes
+84 0603884C	 Ballistic Missile Defense Sensors								  04	  222696	   347012					  347012	   315183  Advanced Component Development And Prototypes
+86 0603890C	 BMD Enabling Programs											  04	  404311	   362711					  362711	   377605  Advanced Component Development And Prototypes
+87 0603891C	 Special Programs - MDA											  04	  287056	   272387					  272387	   286613  Advanced Component Development And Prototypes
+88 0603892C	 AEGIS BMD														  04	1139019		  992407					 992407		  937056  Advanced Component Development And Prototypes
+89 0603893C	 Space Tracking & Surveillance System							  04	   86278		51313					   51313		44947  Advanced Component Development And Prototypes
+90 0603895C	 Ballistic Missile Defense System Space Programs				  04		7940		 6912						6912		 6515  Advanced Component Development And Prototypes
+91 0603896C	 Ballistic Missile Defense Command and Control Battle Management and Communications			 04		 356900		  366552					 366552		  418355  Advanced Component Development And Prototypes
+92 0603898C	 Ballistic Missile Defense Joint Warfighter Support				  04	   36684		55550					   55550		47419  Advanced Component Development And Prototypes
+93 0603904C	 Missile Defense Integration & Operations Center (MDIOC)		  04	   58970		63043					   63043		52131  Advanced Component Development And Prototypes
+94 0603906C	 Regarding Trench												  04	   15075		11371					   11371		13864  Advanced Component Development And Prototypes
+95 0603907C	 Sea Based X-Band Radar (SBX)									  04	  183506		 9730						9730		44478  Advanced Component Development And Prototypes
+96 0603913C	 Israeli Cooperative Programs									  04	  235655		99836					   99836		95782  Advanced Component Development And Prototypes
+97 0603914C	 Ballistic Missile Defense Test									  04	  484838	   454400					  454400	   375866  Advanced Component Development And Prototypes
+98 0603915C	 Ballistic Missile Defense Targets								  04	  497550	   435747					  435747	   495257  Advanced Component Development And Prototypes
+99 0603920D8Z Humanitarian Demining											  04	   14540		13231					   13231		11704  Advanced Component Development And Prototypes
+100 0603923D8Z Coalition Warfare												  04	   11389		11398					   11398		 9842  Advanced Component Development And Prototypes
+101 0604016D8Z Department of Defense Corrosion Program						  04	   34249		 3283						3283		 3312  Advanced Component Development And Prototypes
+102 0604250D8Z Advanced Innovative Technologies								  04															  130000  Advanced Component Development And Prototypes
+103 0604400D8Z Department of Defense (DoD) Unmanned Aircraft System (UAS) Common Development		  04	   24161		12368					   12368		 8300  Advanced Component Development And Prototypes
+104 0604445J	 Wide Area Surveillance											  04															   30000  Advanced Component Development And Prototypes
+108 0604787J	 Joint Systems Integration										  04					  3273						 3273		  7402	Advanced Component Development And Prototypes
+110 0604828J	 Joint FIRES Integration and Interoperability Team				  04					  7364						 7364		  7506	Advanced Component Development And Prototypes
+111 0604880C	 Land-Based SM-3 (LBSM3)										  04	  299012	   276338					  276338	   129374  Advanced Component Development And Prototypes
+112 0604881C	 AEGIS SM-3 Block IIA Co-Development							  04	  457529	   420630					  420630	   308522  Advanced Component Development And Prototypes
+115 0303191D8Z Joint Electromagnetic Technology (JET) Program					  04		3357		 3158						3158		 3169  Advanced Component Development And Prototypes
+116 0305103C	 Cyber Security Initiative										  04																  946  Advanced Component Development And Prototypes
+118 0604161D8Z Nuclear and Conventional Physical Security Equipment RDT&E SDD	  05		6977		 6817						6817		 8155  System Development And Demonstration
+119 0604165D8Z Prompt Global Strike Capability Development					  05	  174077	   110383					  110383		65440  System Development And Demonstration
+120 0604384BP	 Chemical and Biological Defense Program - EMD					  05	  308791	   311071					  311071	   451306  System Development And Demonstration
+122 0604764K	 Advanced IT Services Joint Program Office (AITS-JPO)			  05	   36253		25787					   25787		29138  System Development And Demonstration
+123 0604771D8Z Joint Tactical Information Distribution System (JTIDS)			  05	   16775		20688					   20688		19475  System Development And Demonstration
+124 0605000BR	 Weapons of Mass Destruction Defeat Capabilities				  05		5750		 5749						5749		12901  System Development And Demonstration
+125 0605013BL	 Information Technology Development								  05	   12228		12699					   12699		13812  System Development And Demonstration
+126 0605021SE	 Homeland Personnel Security Initiative							  05		  378			387							387			  386  System Development And Demonstration
+127 0605022D8Z Defense Exportability Program									  05		1915		 1859						1859		 3763  System Development And Demonstration
+128 0605027D8Z OUSD(C) IT Development Initiatives								  05		4845		 7010						7010		 6788  System Development And Demonstration
+129 0605070S	 DOD Enterprise Systems Development and Demonstration			  05	   94155	   133104					  133104		27917  System Development And Demonstration
+130 0605075D8Z DCMO Policy and Integration									  05	   27594		25269					   25269		22297  System Development And Demonstration
+131 0605080S	 Defense Agency Intiatives (DAI) - Financial System				  05															   51689  System Development And Demonstration
+132 0605210D8Z Defense-Wide Electronic Procurement Capabilities				  05	   14408		10238					   10238		 6184  System Development And Demonstration
+133 0303141K	 Global Combat Support System									  05	   19208		19670					   19670		12083  System Development And Demonstration
+134 0305304D8Z DoD Enterprise Energy Information Management (EEIM)			  05					  3556						 3556		  3302	System Development And Demonstration
+135 0604774D8Z Defense Readiness Reporting System (DRRS)						  06		6598		 6383						6383		 6393  Management Support
+136 0604875D8Z Joint Systems Architecture Development							  06		4545		 3845						3845		 2479  Management Support
+137 0604940D8Z Central Test and Evaluation Investment Development (CTEIP)		  06	  156249	   144109					  144109	   240213  Management Support
+138 0604942D8Z Assessments and Evaluations									  06		2574		 2419						2419		 2127  Management Support
+139 0604943D8Z Thermal Vicar													  06		7658		 8214						8214		 8287  Management Support
+140 0605100D8Z Joint Mission Environment Test Capability (JMETC)				  06	   10215		19380					   19380		31000  Management Support
+141 0605104D8Z Technical Studies Support and Analysis							 06		  33001		   32266					  32266		   24379  Management Support
+143 0605117D8Z Foreign Materiel Acquisition and Exploitation					  06	   64505		56012					   56012		54311  Management Support
+144 0605126J	 Joint Integrated Air and Missile Defense Organization (JIAMDO)	  06	   79532		55508					   55508		47462  Management Support
+146 0605130D8Z Foreign Comparative Testing									  06	   18616		18174					   18174		12134  Management Support
+147 0605142D8Z Systems Engineering											  06	   39118		43195					   43195		44237  Management Support
+148 0605151D8Z Studies and Analysis Support - OSD								  06					  6457						 6457		  5871	Management Support
+149 0605161D8Z Nuclear Matters-Physical Security								  06		3824		 4901						4901		 5028  Management Support
+150 0605170D8Z Support to Networks and Information Integration				  06		9119		 6307						6307		 6301  Management Support
+151 0605200D8Z General Support to USD (Intelligence)							  06	   17644		 6601						6601		 6504  Management Support
+152 0605384BP	 Chemical and Biological Defense Program						  06	  116705		92849					   92849		92046  Management Support
+158 0605790D8Z Small Business Innovation Research (SBIR)/ Small Business Technology Transfer (STTR)		  06		1911		 1857						1857		 1868  Management Support
+159 0605798D8Z Defense Technology Analysis									  06	   16858		12056					   12056		 8362  Management Support
+160 0605801KA	 Defense Technical Information Center (DTIC)					  06	   56269		55454					   55454		56024  Management Support
+161 0605803SE	 R&D in Support of DoD Enlistment Testing and Evaluation		 06		  50143		   16364					  16364			6908  Management Support
+162 0605804D8Z Development Test and Evaluation								  06	   18389		15110					   15110		15451  Management Support
+164 0605898E	 Management HQ - R&D											  06	   66689		69767					   69767		71659  Management Support
+165 0606100D8Z Budget and Program Assessments									  06		4431		 4454						4454		 4083  Management Support
+167 0203345D8Z Defense Operations Security Initiative (DOSI)					  06		1720		 2637						2637		 5306  Management Support
+168 0204571J	 Joint Staff Analytical Support									  06																2097  Management Support
+172 0303166J	 Support to Information Operations (IO) Capabilities			  06					  8238						 8238		  8394	Management Support
+175 0305193D8Z Cyber Intelligence												  06	   14997		16041					   16041		 7624  Management Support
+178 0804767D8Z COCOM Exercise Engagement and Training Transformation (CE2T2)	  06	   37244		77475					   77475		43247  Management Support
+179 0901598C	 Management HQ - MDA											  06	   28824		34855					   34855		37712  Management Support
+180 0901598D8W Management Headquarters WHS									  06		  167			104							104			  607  Management Support
+9999 9999999999 Classified Programs													   82466		64255					   64255		54914  Management Support
+182 0604130V	 Enterprise Security System (ESS)								  07		6206		 8866						8866		 7552  Operational System Development
+183 0605127T	 Regional International Outreach (RIO) and Partnership for Peace  07		2165		 3238						3238		 3270  Operational System Development
+184 0605147T	 Overseas Humanitarian Assistance Shared Information System (OHASIS)		  07		  288			288							288			  287  Operational System Development
+185 0607210D8Z Industrial Base Analysis and Sustainment Support				  07															   14000  Operational System Development
+186 0607310D8Z Operational Systems Development								  07																1955  Operational System Development
+187 0607327T	 Global Theater Security Cooperation Management Information	Systems (G-TSCMIS)	  07															   13250  Operational System Development
+188 0607384BP	 Chemical and Biological Defense (Operational Systems Development)			  07	   17837		14745					   14745		13026  Operational System Development
+190 0607828J	 Joint Integration and Interoperability							  07					  5013						 5013		 12652	Operational System Development
+191 0208043J	 Planning and Decision Aid System (PDAS)						  07		2402		 3922						3922		 3061  Operational System Development
+192 0208045K	 C4I Interoperability											  07	   75745		72574					   72574		72726  Operational System Development
+194 0301144K	 Joint/Allied Coalition Information Sharing						  07		6766		 6214						6214		 6524  Operational System Development
+201 0302016K	 National Military Command System-Wide Support					  07		  481			499							499			  512  Operational System Development
+202 0302019K	 Defense Info Infrastructure Engineering and Integration		  07	   15307		14498					   14498		12867  Operational System Development
+203 0303126K	 Long-Haul Communications - DCS									  07	   27003		26164					   26164		36565  Operational System Development
+204 0303131K	 Minimum Essential Emergency Communications Network (MEECN)		  07	   15014		12931					   12931		13144  Operational System Development
+205 0303135G	 Public Key Infrastructure (PKI)								  07		6548		 6296						6296		 1060  Operational System Development
+206 0303136G	 Key Management Infrastructure (KMI)							  07	   33751		30948					   30948		33279  Operational System Development
+207 0303140D8Z Information Systems Security Program							  07	   11348		11780					   11780		10673  Operational System Development
+208 0303140G	 Information Systems Security Program							  07	  380762	   191452					  191452	   181567  Operational System Development
+210 0303150K	 Global Command and Control System								  07	   47345		36575					   36575		34288  Operational System Development
+211 0303153K	 Defense Spectrum Organization									  07	   28124		24278					   24278		 7741  Operational System Development
+212 0303170K	 Net-Centric Enterprise Services (NCES)							  07		1830		 2924						2924		 3325  Operational System Development
+213 0303260D8Z Defense Military Deception Program Office (DMDPO)				  07		1206		 1294						1294		 1246  Operational System Development
+214 0303610K	 Teleport Program												  07		5418		 6050						6050		 5147  Operational System Development
+216 0304210BB	 Special Applications for Contingencies							  07		4915		17058					   17058		17352  Operational System Development
+220 0305103K	 Cyber Security Initiative										  07		4141		 4189						4189		 3658  Operational System Development
+221 0305125D8Z Critical Infrastructure Protection (CIP)						  07	   12814		10462					   10462		 9752  Operational System Development
+225 0305186D8Z Policy R&D Programs											  07		6718		 6360						6360		 3210  Operational System Development
+227 0305199D8Z Net Centricity													  07	   14528		21190					   21190		21602  Operational System Development
+230 0305208BB	 Distributed Common Ground/Surface Systems						  07		1303		 7114						7114		 5195  Operational System Development
+233 0305208K	 Distributed Common Ground/Surface Systems						  07		3154		 3247						3247		 3348  Operational System Development
+235 0305219BB	 MQ-1 Predator A UAV											  07		2999		 1355						1355		   641	Operational System Development
+238 0305387D8Z Homeland Defense Technology Transfer Program					  07		2630		 2303						2303		 2338  Operational System Development
+239 0305600D8Z International Intelligence Technology and Architectures		  07		1444		 1478						1478		 4372  Operational System Development
+247 0708011S	 Industrial Preparedness										  07	   22478		27044					   27044		24691  Operational System Development
+248 0708012S	 Logistics Support Activities									  07		2458		 4711						4711		 4659  Operational System Development
+249 0902298J	 Management HQ - OJCS											  07		2730		 4100						4100		 3533  Operational System Development
+250 1105219BB	 MQ-9 UAV														  07		2434		 3002						3002		 1314  Operational System Development
+254 1160403BB	 Aviation Systems												  07	   75703		97267					   97267	   156561  Operational System Development
+256 1160405BB	 Special Operations Intelligence Systems Development			  07	   27916		25935					   25935		 7705  Operational System Development
+257 1160408BB	 SOF Operational Enhancements									  07	   75010		51700					   51700		42620  Operational System Development
+261 1160431BB	 Warrior Systems												  07															   17970  Operational System Development
+262 1160432BB	 Special Programs												  07																7424  Operational System Development
+268 1160480BB	 SOF Tactical Vehicles											  07		4931		11325					   11325		 2206  Operational System Development
+271 1160483BB	 Maritime Systems												  07	   66657		26405					   26405		18325  Operational System Development
+274 1160489BB	 SOF Global Video Surveillance Activities						  07		8923		 7620						7620		 3304  Operational System Development
+275 1160490BB	 SOF Operational Enhancements Intelligence						  07		8479		16386					   16386		16021  Operational System Development
+9999 9999999999 Classified Programs													4064069		3754516		  107387	 3861903	 3773704  Operational System Development

@@ -1,0 +1,193 @@
+1,0601102F,Defense Research Sciences,01,347833,361787,361787,373151,Basic Research
+2,0601103F,University Research Initiatives,01,131957,141153,141153,138333,Basic Research
+3,0601108F,High Energy Laser Research Initiatives,01,13819,13094,13094,13286,Basic Research
+4,0602102F,Materials,02,142417,114166,114166,116846,Applied Research
+5,0602201F,Aerospace Vehicle Technologies,02,145392,120719,120719,119672,Applied Research
+6,0602202F,Human Effectiveness Applied Research,02,93034,89319,89319,89483,Applied Research
+7,0602203F,Aerospace Propulsion,02,207768,232547,232547,197546,Applied Research
+8,0602204F,Aerospace Sensors,02,136327,127637,127637,127539,Applied Research
+9,0602601F,Space Technology,02,117986,98375,98375,104063,Applied Research
+10,0602602F,Conventional Munitions,02,60725,77175,77175,81521,Applied Research
+11,0602605F,Directed Energy Technology,02,139769,106196,106196,112845,Applied Research
+12,0602788F,Dominant Information Sciences and Methods,02,139980,104362,104362,138161,Applied Research
+13,0602890F,High Energy Laser Research,02,52186,38557,38557,40217,Applied Research
+14,0603112F,Advanced Materials for Weapon Systems,03,60626,47890,47890,39572,Advanced Technology Development
+15,0603199F,Sustainment Science and Technology (S&T),03,5618,6565,6565,12800,Advanced Technology Development
+16,0603203F,Advanced Aerospace Sensors,03,119227,37657,37657,30579,Advanced Technology Development
+17,0603211F,Aerospace Technology Dev/Demo,03,64544,81376,81376,77347,Advanced Technology Development
+18,0603216F,Aerospace Propulsion and Power Technology,03,115725,151152,151152,149321,Advanced Technology Development
+19,0603270F,Electronic Combat Technology,03,21896,32941,32941,49128,Advanced Technology Development
+20,0603401F,Advanced Spacecraft Technology,03,70643,64557,64557,68071,Advanced Technology Development
+21,0603444F,Maui Space Surveillance System (MSSS),03,13313,29256,29256,26299,Advanced Technology Development
+22,0603456F,Human Effectiveness Advanced Technology Development,03,24082,21523,21523,20967,Advanced Technology Development
+23,0603601F,Conventional Weapons Technology,03,44057,36352,36352,33996,Advanced Technology Development
+24,0603605F,Advanced Weapons Technology,03,45823,19004,19004,19000,Advanced Technology Development
+25,0603680F,Manufacturing Technology Program,03,39165,37045,37045,41353,Advanced Technology Development
+26,0603788F,Battlespace Knowledge Development and Demonstration,03,36944,31419,31419,49093,Advanced Technology Development
+28,0603260F,Intelligence Advanced Development,04,4013,3866,3866,3983,Advanced Component Development & Prototypes
+29,0603287F,Physical Security Equipment,04,476,3704,3704,3874,Advanced Component Development & Prototypes
+32,0603438F,Space Control Technology,04,43553,25144,25144,27024,Advanced Component Development & Prototypes
+33,0603742F,Combat Identification Technology,04,37039,32243,32243,15899,Advanced Component Development & Prototypes
+34,0603790F,NATO Research and Development,04,4424,4507,4507,4568,Advanced Component Development & Prototypes
+35,0603791F,International Space Cooperative R&D,04,615,652,652,379,Advanced Component Development & Prototypes
+36,0603830F,Space Protection Program (SPP),04,7074,10429,10429,28764,Advanced Component Development & Prototypes
+38,0603851F,Intercontinental Ballistic Missile - Dem/Val,04,71824,71181,71181,86737,Advanced Component Development & Prototypes
+40,0603859F,Pollution Prevention - Dem/Val,04,2300,2054,2054,953,Advanced Component Development & Prototypes
+42,0604015F,Long Range Strike,04,289573,291742,291742,379437,Advanced Component Development & Prototypes
+44,0604317F,Technology Transfer,04,2474,2576,2576,2606,Advanced Component Development & Prototypes
+45,0604327F,Hard and Deeply Buried Target Defeat System (HDBTDS) Program,04,120838,16711,16711,103,Advanced Component Development & Prototypes
+47,0604337F,Requirements Analysis and Maturation,04,22794,16343,16343,16018,Advanced Component Development & Prototypes
+49,0604458F,Air & Space Ops Center,04,58861,Advanced Component Development & Prototypes
+50,0604618F,Joint Direct Attack Munition,04,2500,Advanced Component Development & Prototypes
+51,0604635F,Ground Attack Weapons Fuze Development,04,23729,9423,9423,21175,Advanced Component Development & Prototypes
+53,0604858F,Tech Transition Program,04,2683,37558,37558,13636,Advanced Component Development & Prototypes
+54,0105921F,Service Support to STRATCOM - Space Activities,04,2799,Advanced Component Development & Prototypes
+55,0207455F,Three Dimensional Long-Range Radar (3DELRR),04,70160,Advanced Component Development & Prototypes
+56,0305164F,NAVSTAR Global Positioning System (User Equipment) (SPACE),04,96840,96840,137233,Advanced Component Development & Prototypes
+58,0603260F,Intelligence Advanced Development,05,977,System Development & Demonstration
+61,0604233F,Specialized Undergraduate Flight Training,05,19725,6583,6583,3601,System Development & Demonstration
+62,0604270F,Electronic Warfare Development,05,16397,1975,1975,1971,System Development & Demonstration
+64,0604281F,Tactical Data Networks Enterprise,05,45104,24534,24534,51456,System Development & Demonstration
+65,0604287F,Physical Security Equipment,05,51,51,51,50,System Development & Demonstration
+66,0604329F,Small Diameter Bomb (SDB) - EMD,05,133902,143000,143000,115000,System Development & Demonstration
+67,0604421F,Counterspace Systems,05,28946,28797,28797,23930,System Development & Demonstration
+68,0604425F,Space Situation Awareness Systems,05,216212,267252,267252,400258,System Development & Demonstration
+69,0604429F,Airborne Electronic Attack,05,31821,4118,4118,4575,System Development & Demonstration
+70,0604441F,Space Based Infrared System (SBIRS) High EMD,05,621629,448594,448594,352532,System Development & Demonstration
+71,0604602F,Armament/Ordnance Development,05,7755,9951,9951,16284,System Development & Demonstration
+72,0604604F,Submunitions,05,2427,2567,2567,2564,System Development & Demonstration
+73,0604617F,Agile Combat Support,05,7649,13059,13059,17036,System Development & Demonstration
+74,0604706F,Life Support Systems,05,8017,9720,9720,7273,System Development & Demonstration
+75,0604735F,Combat Training Ranges,05,7869,9222,9222,33200,System Development & Demonstration
+78,0604800F,F-35 - EMD,05,1366147,1210306,1210306,816335,System Development & Demonstration
+79,0604851F,Intercontinental Ballistic Missile - EMD,05,129728,135437,135437,145442,System Development & Demonstration
+80,0604853F,Evolved Expendable Launch Vehicle Program (SPACE) - EMD,05,14081,7980,7980,27963,System Development & Demonstration
+81,0604932F,Long Range Standoff Weapon,05,2004,2004,5000,System Development & Demonstration
+82,0604933F,ICBM Fuze Modernization,05,73512,73512,129411,System Development & Demonstration
+83,0605213F,F-22 Modernization Increment 3.2B,05,140100,140100,131100,System Development & Demonstration
+84,0605221F,KC-46,05,818947,1815588,1815588,1558590,System Development & Demonstration
+85,0605229F,CSAR HH-60 Recapitalization,05,11113,123210,123210,393558,System Development & Demonstration
+86,0605278F,HC/MC-130 Recap RDT&E,05,21554,19039,19039,6242,System Development & Demonstration
+87,0605431F,Advanced EHF MILSATCOM (SPACE),05,272872,System Development & Demonstration
+88,0605432F,Polar MILSATCOM (SPACE),05,124805,System Development & Demonstration
+89,0605433F,Wideband Global SATCOM (SPACE),05,13948,System Development & Demonstration
+90,0605931F,B-2 Defensive Management System,05,281056,281056,303500,System Development & Demonstration
+91,0101125F,Nuclear Weapons Modernization,05,91269,80200,80200,67874,System Development & Demonstration
+94,0207701F,Full Combat Mission Training,05,28917,14861,14861,4663,System Development & Demonstration
+97,0401318F,CV-22,05,12836,28027,28027,46705,System Development & Demonstration
+99,0604256F,Threat Simulator Development,06,26473,22812,22812,17690,Management Support
+100,0604759F,Major T&E Investment,06,60388,42236,42236,34841,Management Support
+101,0605101F,RAND Project Air Force,06,32057,25579,25579,32956,Management Support
+103,0605712F,Initial Operational Test & Evaluation,06,17754,16197,16197,13610,Management Support
+104,0605807F,Test and Evaluation Support,06,737697,722071,722071,742658,Management Support
+105,0605860F,Rocket Systems Launch Program (SPACE),06,146536,16200,16200,14203,Management Support
+106,0605864F,Space Test Program (STP),06,44308,10051,10051,13000,Management Support
+107,0605976F,Facilities Restoration and Modernization - Test and Evaluation Support,06,44547,42597,42597,44160,Management Support
+108,0605978F,Facilities Sustainment - Test and Evaluation Support,06,27953,27301,27301,27643,Management Support
+109,0606323F,Multi-Service Systems Engineering Initiative,06,13532,13964,13964,13935,Management Support
+110,0606392F,Space and Missile Center (SMC) Civilian Workforce,06,158589,203766,203766,192348,Management Support
+111,0702806F,Acquisition and Management Support,06,35830,42430,42430,28647,Management Support
+112,0804731F,General Skill Training,06,1463,1294,1294,315,Management Support
+114,1001004F,International Activities,06,3798,3851,3851,3785,Management Support
+115,0603423F,Global Positioning System III - Operational Control Segment,07,352023,371595,371595,383500,Operational Systems Development
+117,0604445F,Wide Area Surveillance,07,5000,Operational Systems Development
+118,0605018F,AF Integrated Personnel and Pay System (AF-IPPS),07,78850,91697,91697,90097,Operational Systems Development
+119,0605024F,Anti-Tamper Technology Executive Agency,07,35245,17037,17037,32086,Operational Systems Development
+121,0101113F,B-52 Squadrons,07,84171,53208,53208,24007,Operational Systems Development
+122,0101122F,Air-Launched Cruise Missile (ALCM),07,782,431,431,450,Operational Systems Development
+123,0101126F,B-1B Squadrons,07,32087,16265,16265,19589,Operational Systems Development
+124,0101127F,B-2 Squadrons,07,201688,35970,35970,100194,Operational Systems Development
+125,0101313F,Strat War Planning System - USSTRATCOM,07,22089,30889,30889,37448,Operational Systems Development
+128,0102326F,Region/Sector Operation Control Center Modernization Program,07,6283,5609,5609,1700,Operational Systems Development
+130,0203761F,Warfighter Rapid Acquisition Process (WRAP) Rapid Transition Fund,07,10280,15098,15098,3844,Operational Systems Development
+131,0205219F,MQ-9 UAV,07,107576,147971,147971,128328,Operational Systems Development
+133,0207131F,A-10 Squadrons,07,11006,13538,13538,9614,Operational Systems Development
+134,0207133F,F-16 Squadrons,07,128503,190257,190257,177298,Operational Systems Development
+135,0207134F,F-15E Squadrons,07,184665,192677,192677,244289,Operational Systems Development
+136,0207136F,Manned Destructive Suppression,07,8515,13683,13683,13138,Operational Systems Development
+137,0207138F,F-22A Squadrons,07,531767,371667,371667,328542,Operational Systems Development
+138,0207142F,F-35 Squadrons,07,9682,8117,8117,33000,Operational Systems Development
+139,0207161F,Tactical AIM Missiles,07,7885,8234,8234,15460,Operational Systems Development
+140,0207163F,Advanced Medium Range Air-to-Air Missile (AMRAAM),07,75282,87041,87041,84172,Operational Systems Development
+142,0207224F,Combat Rescue and Recovery,07,2292,2095,2095,2582,Operational Systems Development
+143,0207227F,Combat Rescue - Pararescue,07,914,1119,1119,542,Operational Systems Development
+144,0207247F,AF TENCAP,07,20727,63853,63853,89816,Operational Systems Development
+145,0207249F,Precision Attack Systems Procurement,07,3034,1063,1063,1075,Operational Systems Development
+146,0207253F,Compass Call,07,19229,12094,12094,10782,Operational Systems Development
+147,0207268F,Aircraft Engine Component Improvement Program,07,168390,187984,187984,139369,Operational Systems Development
+149,0207325F,Joint Air-to-Surface Standoff Missile (JASSM),07,5654,7950,7950,6373,Operational Systems Development
+150,0207410F,Air & Space Operations Center (AOC),07,116858,76315,76315,22820,Operational Systems Development
+151,0207412F,Control and Reporting Center (CRC),07,3288,8653,8653,7029,Operational Systems Development
+152,0207417F,Airborne Warning and Control System (AWACS),07,111779,65200,65200,186256,Operational Systems Development
+153,0207418F,Tactical Airborne Control Systems,07,7931,5767,5767,743,Operational Systems Development
+156,0207431F,Combat Air Intelligence System Activities,07,5428,5756,5756,4471,Operational Systems Development
+158,0207444F,Tactical Air Control Party-Mod,07,8939,16226,16226,10250,Operational Systems Development
+159,0207448F,C2ISR Tactical Data Link,07,1489,1633,1633,1431,Operational Systems Development
+160,0207449F,Command and Control (C2) Constellation,07,20075,18086,18086,7329,Operational Systems Development
+161,0207452F,DCAPES,07,15690,15690,15081,Operational Systems Development
+162,0207581F,Joint Surveillance/Target Attack Radar System (JSTARS),07,71991,24241,24241,13248,Operational Systems Development
+163,0207590F,Seek Eagle,07,18599,22654,22654,24342,Operational Systems Development
+164,0207601F,USAF Modeling and Simulation,07,22113,15501,15501,10448,Operational Systems Development
+165,0207605F,Wargaming and Simulation Centers,07,5617,5699,5699,5512,Operational Systems Development
+166,0207697F,Distributed Training and Exercises,07,3147,4425,4425,3301,Operational Systems Development
+167,0208006F,Mission Planning Systems,07,61207,69377,69377,62605,Operational Systems Development
+169,0208059F,Cyber Command Activities,07,680,66888,66888,68099,Operational Systems Development
+170,0208087F,AF Offensive Cyberspace Operations,07,14047,Operational Systems Development
+171,0208088F,AF Defensive Cyberspace Operations,07,5853,Operational Systems Development
+179,0301400F,Space Superiority Intelligence,07,8866,12056,12056,12197,Operational Systems Development
+180,0302015F,E-4B National Airborne Operations Center (NAOC),07,5101,4159,4159,18267,Operational Systems Development
+181,0303131F,Minimum Essential Emergency Communications Network (MEECN),07,23445,20124,20124,36288,Operational Systems Development
+182,0303140F,Information Systems Security Program,07,88257,69133,69133,90231,Operational Systems Development
+183,0303141F,Global Combat Support System,07,435,6512,6512,725,Operational Systems Development
+185,0303601F,MILSATCOM Terminals,07,235769,107237,107237,140170,Operational Systems Development
+187,0304260F,Airborne SIGINT Enterprise,07,108313,129106,129106,117110,Operational Systems Development
+190,0305099F,Global Air Traffic Management (GATM),07,4604,4461,4461,4430,Operational Systems Development
+191,0305103F,Cyber Security Initiative,07,1920,2055,2055,2048,Operational Systems Development
+192,0305105F,DoD Cyber Crime Center,07,274,285,285,288,Operational Systems Development
+193,0305110F,Satellite Control Network (SPACE),07,17788,33773,33773,35698,Operational Systems Development
+194,0305111F,Weather Service,07,29977,29048,29048,24667,Operational Systems Development
+195,0305114F,Air Traffic Control Approach and Landing System (ATCALS),07,20644,43187,43187,35674,Operational Systems Development
+196,0305116F,Aerial Targets,07,27708,50496,50496,21186,Operational Systems Development
+199,0305128F,Security and Investigative Activities,07,355,354,354,195,Operational Systems Development
+200,0305145F,Arms Control Implementation,07,4000,4000,1430,Operational Systems Development
+201,0305146F,Defense Joint Counterintelligence Activities,07,39,342,342,330,Operational Systems Development
+206,0305173F,Space and Missile Test and Evaluation Center,07,1542,3680,3680,3696,Operational Systems Development
+207,0305174F,Space Innovation Integration and Rapid Technology Development,07,2862,2430,2430,2469,Operational Systems Development
+208,0305179F,Integrated Broadcast Service (IBS),07,8289,Operational Systems Development
+209,0305182F,Spacelift Range System (SPACE),07,9245,8760,8760,13345,Operational Systems Development
+211,0305202F,Dragon U-2,07,23644,23644,18700,Operational Systems Development
+212,0305205F,Endurance Unmanned Aerial Vehicles,07,108021,21000,21000,3000,Operational Systems Development
+213,0305206F,Airborne Reconnaissance Systems,07,115471,96735,96735,37828,Operational Systems Development
+214,0305207F,Manned Reconnaissance Systems,07,13049,13316,13316,13491,Operational Systems Development
+215,0305208F,Distributed Common Ground/Surface Systems,07,82348,63501,63501,7498,Operational Systems Development
+216,0305219F,MQ-1 Predator A UAV,07,51642,9122,9122,3326,Operational Systems Development
+217,0305220F,RQ-4 UAV,07,423301,236265,236265,134406,Operational Systems Development
+218,0305221F,Network-Centric Collaborative Targeting,07,7192,7367,7367,7413,Operational Systems Development
+219,0305236F,Common Data Link (CDL),07,38094,38094,40503,Operational Systems Development
+220,0305238F,NATO AGS,07,210109,210109,264134,Operational Systems Development
+221,0305240F,Support to DCGS Enterprise,07,24500,24500,23016,Operational Systems Development
+222,0305265F,GPS III Space Segment,07,444840,318992,318992,221276,Operational Systems Development
+223,0305614F,JSPOC Mission System,07,75749,54645,54645,58523,Operational Systems Development
+224,0305881F,Rapid Cyber Acquisition,07,4007,4007,2218,Operational Systems Development
+226,0305913F,NUDET Detection System (SPACE),07,81989,64965,64965,50547,Operational Systems Development
+227,0305940F,Space Situation Awareness Operations,07,29720,19586,19586,18807,Operational Systems Development
+229,0308699F,Shared Early Warning (SEW),07,1663,1175,1175,1079,Operational Systems Development
+230,0401115F,C-130 Airlift Squadron,07,6321,5000,5000,400,Operational Systems Development
+231,0401119F,C-5 Airlift Squadrons (IF),07,12941,35115,35115,61492,Operational Systems Development
+232,0401130F,C-17 Aircraft (IF),07,81938,99225,99225,109134,Operational Systems Development
+233,0401132F,C-130J Program,07,38345,30652,30652,22443,Operational Systems Development
+234,0401134F,Large Aircraft IR Countermeasures (LAIRCM),07,8838,7758,7758,4116,Operational Systems Development
+238,0401314F,Operational Support Airlift,07,41346,7471,7471,44553,Operational Systems Development
+239,0408011F,Special Tactics / Combat Control,07,5040,4984,4984,6213,Operational Systems Development
+240,0702207F,Depot Maintenance (Non-IF),07,1531,1588,1588,1605,Operational Systems Development
+242,0708610F,Logistics Information Technology (LOGIT),07,47141,119327,119327,95238,Operational Systems Development
+243,0708611F,Support Systems Development,07,50990,15873,15873,10925,Operational Systems Development
+244,0804743F,Other Flight Training,07,322,349,349,1347,Operational Systems Development
+245,0808716F,Other Personnel Activities,07,110,117,117,65,Operational Systems Development
+246,0901202F,Joint Personnel Recovery Agency,07,2407,2018,2018,1083,Operational Systems Development
+247,0901218F,Civilian Compensation Program,07,1581,1561,1561,1577,Operational Systems Development
+248,0901220F,Personnel Administration,07,1010,7634,7634,5990,Operational Systems Development
+249,0901226F,Air Force Studies and Analysis Agency,07,900,1175,1175,786,Operational Systems Development
+250,0901279F,Facilities Operation - Administrative,07,11745,3491,3491,654,Operational Systems Development
+251,0901538F,Financial Management Information Systems Development,07,76207,100160,100160,135735,Operational Systems Development
+9999,9999999999,Classified Programs,12045846,11172183,53150,11225333,11874528,Operational Systems Development

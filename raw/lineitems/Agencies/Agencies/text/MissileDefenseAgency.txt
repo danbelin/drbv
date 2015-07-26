@@ -1,0 +1,22 @@
+32 0603175C	 Ballistic Missile Defense Technology							  03	   67921		79975					   79975	   309203  Advanced Technology Development
+36 0603274C	 Special Program - MDA Technology								  03	   61371		36685					   36685		40426  Advanced Technology Development
+81 0603881C	 Ballistic Missile Defense Terminal Defense Segment				  04	  381041	   316929					  316929	   268990  Advanced Component Development And Prototypes
+82 0603882C	 Ballistic Missile Defense Midcourse Defense Segment			  04	1143313		  903172					 903172		1033903	 Advanced Component Development And Prototypes
+84 0603884C	 Ballistic Missile Defense Sensors								  04	  222696	   347012					  347012	   315183  Advanced Component Development And Prototypes
+86 0603890C	 BMD Enabling Programs											  04	  404311	   362711					  362711	   377605  Advanced Component Development And Prototypes
+87 0603891C	 Special Programs - MDA											  04	  287056	   272387					  272387	   286613  Advanced Component Development And Prototypes
+88 0603892C	 AEGIS BMD														  04	1139019		  992407					 992407		  937056  Advanced Component Development And Prototypes
+89 0603893C	 Space Tracking & Surveillance System							  04	   86278		51313					   51313		44947  Advanced Component Development And Prototypes
+90 0603895C	 Ballistic Missile Defense System Space Programs				  04		7940		 6912						6912		 6515  Advanced Component Development And Prototypes
+91 0603896C	 Ballistic Missile Defense Command and Control Battle Management and Communications			 04		 356900		  366552					 366552		  418355  Advanced Component Development And Prototypes
+92 0603898C	 Ballistic Missile Defense Joint Warfighter Support				  04	   36684		55550					   55550		47419  Advanced Component Development And Prototypes
+93 0603904C	 Missile Defense Integration & Operations Center (MDIOC)		  04	   58970		63043					   63043		52131  Advanced Component Development And Prototypes
+94 0603906C	 Regarding Trench												  04	   15075		11371					   11371		13864  Advanced Component Development And Prototypes
+95 0603907C	 Sea Based X-Band Radar (SBX)									  04	  183506		 9730						9730		44478  Advanced Component Development And Prototypes
+96 0603913C	 Israeli Cooperative Programs									  04	  235655		99836					   99836		95782  Advanced Component Development And Prototypes
+97 0603914C	 Ballistic Missile Defense Test									  04	  484838	   454400					  454400	   375866  Advanced Component Development And Prototypes
+98 0603915C	  Ballistic Missile Defense Targets								   04	   497550		435747					   435747		495257	Advanced Component Development And Prototypes
+111 0604880C	 Land-Based SM-3 (LBSM3)										  04	  299012	   276338					  276338	   129374  Advanced Component Development And Prototypes
+112 0604881C	 AEGIS SM-3 Block IIA Co-Development							  04	  457529	   420630					  420630	   308522  Advanced Component Development And Prototypes
+116 0305103C	 Cyber Security Initiative										  04																  946  Advanced Component Development And Prototypes
+179 0901598C	 Management HQ - MDA											  06	   28824		34855					   34855		37712  Management Support

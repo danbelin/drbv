@@ -1,0 +1,167 @@
+1,0601101A,In-House Laboratory Independent Research,01,21803,Basic Research
+2,0601102A,Defense Research Sciences,01,221901,Basic Research
+3,0601103A,University Research Initiatives,01,79359,Basic Research
+4,0601104A,University and Industry Research Centers,01,113662,Basic Research
+5,0602105A,Materials Technology,02,26585,Applied Research
+6,0602120A,Sensors and Electronic Survivability,02,43170,Applied Research
+7,0602122A,TRACTOR HIP,02,36293,Applied Research
+8,0602211A,Aviation Technology,02,55615,Applied Research
+9,0602270A,Electronic Warfare Technology,02,17585,Applied Research
+10,0602303A,Missile Technology,02,51528,Applied Research
+11,0602307A,Advanced Weapons Technology,02,26162,Applied Research
+12,0602308A,Advanced Concepts and Simulation,02,24063,Applied Research
+13,0602601A,Combat Vehicle and Automotive Technology,02,64589,Applied Research
+14,0602618A,Ballistics Technology,02,68300,Applied Research
+15,0602622A,Chemical Smoke and Equipment Defeating Technology,02,4490,Applied Research
+16,0602623A,Joint Service Small Arms Program,02,7818,Applied Research
+17,0602624A,Weapons and Munitions Technology,02,37798,Applied Research
+18,0602705A,Electronics and Electronic Devices,02,59021,Applied Research
+19,0602709A,Night Vision Technology,02,43426,Applied Research
+20,0602712A,Countermine Systems,02,20574,Applied Research
+21,0602716A,Human Factors Engineering Technology,02,21339,Applied Research
+22,0602720A,Environmental Quality Technology,02,20316,Applied Research
+23,0602782A,Command Control Communications Technology,02,34209,Applied Research
+24,0602783A,Computer and Software Technology,02,10439,Applied Research
+25,0602784A,Military Engineering Technology,02,70064,Applied Research
+26,0602785A,Manpower/Personnel/Training Technology,02,17654,Applied Research
+27,0602786A,Warfighter Technology,02,31546,Applied Research
+28,0602787A,Medical Technology,02,93340,Applied Research
+29,0603001A,Warfighter Advanced Technology,03,56056,Advanced Technology Development
+30,0603002A,Medical Advanced Technology,03,62032,Advanced Technology Development
+31,0603003A,Aviation Advanced Technology,03,81080,Advanced Technology Development
+32,0603004A,Weapons and Munitions Advanced Technology,03,63919,Advanced Technology Development
+33,0603005A,Combat Vehicle and Automotive Advanced Technology,03,97043,Advanced Technology Development
+34,0603006A,Space Application Advanced Technology,03,5866,Advanced Technology Development
+35,0603007A,Manpower Personnel and Training Advanced Technology,03,7800,Advanced Technology Development
+36,0603008A,Electronic Warfare Advanced Technology,03,40416,Advanced Technology Development
+37,0603009A,TRACTOR HIKE,03,9166,Advanced Technology Development
+38,0603015A,Next Generation Training & Simulation Systems,03,13627,Advanced Technology Development
+39,0603020A,TRACTOR ROSE,03,10667,Advanced Technology Development
+41,0603125A,Combating Terrorism - Technology Development,03,15054,Advanced Technology Development
+42,0603130A,TRACTOR NAIL,03,3194,Advanced Technology Development
+43,0603131A,TRACTOR EGGS,03,2367,Advanced Technology Development
+44,0603270A,Electronic Warfare Technology,03,25348,Advanced Technology Development
+45,0603313A,Missile and Rocket Advanced Technology,03,64009,Advanced Technology Development
+46,0603322A,TRACTOR CAGE,03,11083,Advanced Technology Development
+47,0603461A,High Performance Computing Modernization Program,03,180662,Advanced Technology Development
+48,0603606A,Landmine Warfare and Barrier Advanced Technology,03,22806,Advanced Technology Development
+49,0603607A,Joint Service Small Arms Program,03,5030,Advanced Technology Development
+50,0603710A,Night Vision Advanced Technology,03,36407,Advanced Technology Development
+51,0603728A,Environmental Quality Technology Demonstrations,03,11745,Advanced Technology Development
+52,0603734A,Military Engineering Advanced Technology,03,23717,Advanced Technology Development
+53,0603772A,Advanced Tactical Computer Science and Sensor Technology,03,33012,Advanced Technology Development
+54,0603305A,Army Missle Defense Systems Integration,04,15301,Advanced Component Development & Prototypes
+55,0603308A,Army Space Systems Integration,04,13592,Advanced Component Development & Prototypes
+56,0603619A,Landmine Warfare and Barrier - Adv Dev,04,10625,Advanced Component Development & Prototypes
+58,0603639A,Tank and Medium Caliber Ammunition,04,30612,Advanced Component Development & Prototypes
+59,0603653A,Advanced Tank Armament System (ATAS),04,49989,Advanced Component Development & Prototypes
+60,0603747A,Soldier Support and Survivability,04,6703,Advanced Component Development & Prototypes
+61,0603766A,Tactical Electronic Surveillance System - Adv Dev,04,6894,Advanced Component Development & Prototypes
+62,0603774A,Night Vision Systems Advanced Development,04,9066,Advanced Component Development & Prototypes
+63,0603779A,Environmental Quality Technology - Dem/Val,04,2633,Advanced Component Development & Prototypes
+64,0603782A,Warfighter Information Network-Tactical - DEM/VAL,04,272384,Advanced Component Development & Prototypes
+65,0603790A,NATO Research and Development,04,3874,Advanced Component Development & Prototypes
+66,0603801A,Aviation - Adv Dev,04,5018,Advanced Component Development & Prototypes
+67,0603804A,Logistics and Engineer Equipment - Adv Dev,04,11556,Advanced Component Development & Prototypes
+69,0603807A,Medical Systems - Adv Dev,04,15603,Advanced Component Development & Prototypes
+70,0603827A,Soldier Systems - Advanced Development,04,14159,Advanced Component Development & Prototypes
+71,0603850A,Integrated Broadcast Service,04,79,Advanced Component Development & Prototypes
+72,0604115A,Technology Maturation Initiatives,04,55605,Advanced Component Development & Prototypes
+74,0604319A,Indirect Fire Protection Capability Increment 2-Intercept,04,79232,Advanced Component Development & Prototypes
+75,0604785A,Integrated Base Defense (Budget Activity 4),04,4476,Advanced Component Development & Prototypes
+76,0305205A,Endurance UAVs,04,28991,Advanced Component Development & Prototypes
+77,0604201A,Aircraft Avionics,05,76588,System Development & Demonstration
+78,0604220A,Armed Deployable Helos,05,73309,System Development & Demonstration
+79,0604270A,Electronic Warfare Development,05,154621,System Development & Demonstration
+80,0604280A,Joint Tactical Radio,05,31826,System Development & Demonstration
+81,0604290A,Mid-tier Networking Vehicular Radio (MNVR),05,23341,System Development & Demonstration
+82,0604321A,All Source Analysis System,05,4839,System Development & Demonstration
+83,0604328A,TRACTOR CAGE,05,23841,System Development & Demonstration
+84,0604601A,Infantry Support Weapons,05,79855,System Development & Demonstration
+85,0604604A,Medium Tactical Vehicles,05,2140,System Development & Demonstration
+86,0604611A,JAVELIN,05,5002,System Development & Demonstration
+87,0604622A,Family of Heavy Tactical Vehicles,05,21321,System Development & Demonstration
+88,0604633A,Air Traffic Control,05,514,System Development & Demonstration
+93,0604710A,Night Vision Systems - Eng Dev,05,43405,System Development & Demonstration
+94,0604713A,Combat Feeding Clothing and Equipment,05,1939,System Development & Demonstration
+95,0604715A,Non-System Training Devices - Eng Dev,05,18980,System Development & Demonstration
+97,0604741A,Air Defense Command Control and Intelligence - Eng Dev,05,18294,System Development & Demonstration
+98,0604742A,Constructive Simulation Systems Development,05,17013,System Development & Demonstration
+99,0604746A,Automatic Test Equipment Development,05,6701,System Development & Demonstration
+100,0604760A,Distributive Interactive Simulations (DIS) - Eng Dev,05,14575,System Development & Demonstration
+101,0604780A,Combined Arms Tactical Trainer (CATT) Core,05,27634,System Development & Demonstration
+102,0604798A,Brigade Analysis Integration and Evaluation,05,193748,System Development & Demonstration
+103,0604802A,Weapons and Munitions - Eng Dev,05,15721,System Development & Demonstration
+104,0604804A,Logistics and Engineer Equipment - Eng Dev,05,41703,System Development & Demonstration
+105,0604805A,Command Control Communications Systems - Eng Dev,05,7379,System Development & Demonstration
+106,0604807A,Medical Materiel/Medical Biological Defense Equipment - Eng Dev,05,39468,System Development & Demonstration
+107,0604808A,Landmine Warfare/Barrier - Eng Dev,05,92285,System Development & Demonstration
+108,0604814A,Artillery Munitions - EMD,05,8209,System Development & Demonstration
+109,0604818A,Army Tactical Command & Control Hardware & Software,05,22958,System Development & Demonstration
+110,0604820A,Radar Development,05,1549,System Development & Demonstration
+111,0604822A,General Fund Enterprise Business System (GFEBS),05,17342,System Development & Demonstration
+112,0604823A,Firefinder,05,47221,System Development & Demonstration
+113,0604827A,Soldier Systems - Warrior Dem/Val,05,48477,System Development & Demonstration
+114,0604854A,Artillery Systems - EMD,05,80613,System Development & Demonstration
+117,0605013A,Information Technology Development,05,68814,System Development & Demonstration
+118,0605018A,Integrated Personnel and Pay System-Army (IPPS-A),05,137290,System Development & Demonstration
+119,0605028A,Armored Multi-Purpose Vehicle (AMPV),05,116298,System Development & Demonstration
+120,0605030A,Joint Tactical Network Center (JTNC),05,68148,System Development & Demonstration
+121,0605380A,AMF Joint Tactical Radio System (JTRS),05,33219,System Development & Demonstration
+122,0605450A,Joint Air-to-Ground Missile (JAGM),05,15127,System Development & Demonstration
+124,0605456A,PAC-3/MSE Missile,05,68843,System Development & Demonstration
+125,0605457A,Army Integrated Air and Missile Defense (AIAMD),05,364649,System Development & Demonstration
+126,0605625A,Manned Ground Vehicle,05,592201,System Development & Demonstration
+127,0605626A,Aerial Common Sensor,05,10382,System Development & Demonstration
+128,0605766A,National Capabilities Integration (MIP),05,21143,System Development & Demonstration
+129,0605812A,Joint Light Tactical Vehicle (JLTV) Engineering/Man.,05,84230,System Development & Demonstration
+130,0303032A,TROJAN - RH12,05,3465,System Development & Demonstration
+131,0304270A,Electronic Warfare Development,05,10806,System Development & Demonstration
+132,0604256A,Threat Simulator Development,06,16934,Management Support
+133,0604258A,Target Systems Development,06,13488,Management Support
+134,0604759A,Major T&E Investment,06,46672,Management Support
+135,0605103A,Rand Arroyo Center,06,11919,Management Support
+136,0605301A,Army Kwajalein Atoll,06,193658,Management Support
+137,0605326A,Concepts Experimentation Program,06,37158,Management Support
+139,0605601A,Army Test Ranges and Facilities,06,340659,Management Support
+140,0605602A,Army Technical Test Instrumentation and Targets,06,66061,Management Support
+141,0605604A,Survivability/Lethality Analysis,06,43280,Management Support
+143,0605606A,Aircraft Certification,06,6025,Management Support
+144,0605702A,Meteorological Support to RDT&E Activities,06,7349,Management Support
+145,0605706A,Materiel Systems Analysis,06,19809,Management Support
+146,0605709A,Exploitation of Foreign Items,06,5941,Management Support
+147,0605712A,Support of Operational Testing,06,55504,Management Support
+148,0605716A,Army Evaluation Center,06,65274,Management Support
+149,0605718A,Army Modeling & Sim X-Cmd Collaboration & Integ,06,1283,Management Support
+150,0605801A,Programwide Activities,06,82035,Management Support
+151,0605803A,Technical Information Activities,06,33853,Management Support
+152,0605805A,Munitions Standardization Effectiveness and Safety,06,53340,Management Support
+153,0605857A,Environmental Quality Technology Mgmt Support,06,5193,Management Support
+154,0605898A,Management HQ - R&D,06,54175,Management Support
+156,0603778A,MLRS Product Improvement Program,07,110576,Operational Systems Development
+157,0607141A,Logistics Automation,07,3717,Operational Systems Development
+159,0607865A,Patriot Product Improvement,07,70053,Operational Systems Development
+160,0102419A,Aerostat Joint Project Office,07,98450,Operational Systems Development
+161,0203726A,Adv Field Artillery Tactical Data System,07,30940,Operational Systems Development
+162,0203735A,Combat Vehicle Improvement Programs,07,177532,Operational Systems Development
+163,0203740A,Maneuver Control System,07,36495,Operational Systems Development
+164,0203744A,Aircraft Modifications/Product Improvement Programs,07,257187,Operational Systems Development
+165,0203752A,Aircraft Engine Component Improvement Program,07,315,Operational Systems Development
+166,0203758A,Digitization,07,6186,Operational Systems Development
+167,0203801A,Missile/Air Defense Product Improvement Program,07,1578,Operational Systems Development
+168,0203802A,Other Missile Product Improvement Programs,07,62100,Operational Systems Development
+169,0203808A,TRACTOR CARD,07,18778,Operational Systems Development
+170,0208053A,Joint Tactical Ground System,07,7108,Operational Systems Development
+173,0303028A,Security and Intelligence Activities,07,7600,Operational Systems Development
+174,0303140A,Information Systems Security Program,07,9357,Operational Systems Development
+175,0303141A,Global Combat Support System,07,41225,Operational Systems Development
+176,0303142A,SATCOM Ground Environment (SPACE),07,18197,Operational Systems Development
+177,0303150A,WWMCCS/Global Command and Control System,07,14215,Operational Systems Development
+179,0305204A,Tactical Unmanned Aerial Vehicles,07,33533,Operational Systems Development
+180,0305208A,Distributed Common Ground/Surface Systems,07,27622,Operational Systems Development
+181,0305219A,MQ-1C Gray Eagle UAS,07,10901,Operational Systems Development
+182,0305232A,RQ-11 UAV,07,2321,Operational Systems Development
+183,0305233A,RQ-7 UAV,07,12031,Operational Systems Development
+185,0307665A,Biometrics Enabled Intelligence,07,12449,Operational Systems Development
+186,0708045A,End Item Industrial Preparedness Activities,07,56136,Operational Systems Development
+9999,9999999999,Classified Programs,4536,4717,Operational Systems Development

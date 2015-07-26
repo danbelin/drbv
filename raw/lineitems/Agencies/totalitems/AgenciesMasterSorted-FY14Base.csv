@@ -1,0 +1,181 @@
+1,0601000BR,DTRA Basic Research Initiative,01,45837,Basic Research
+2,0601101E,Defense Research Sciences,01,315033,Basic Research
+3,0601110D8Z,Basic Research Initiatives,01,11171,Basic Research
+4,0601117E,Basic Operational Medical Research Science,01,49500,Basic Research
+5,0601120D8Z,National Defense Education Program,01,84271,Basic Research
+6,0601228D8Z,Historically Black Colleges and Universities/Minority Institutions,01,30895,Basic Research
+7,0601384BP,Chemical and Biological Defense Program,01,51426,Basic Research
+8,0602000D8Z,Joint Munitions Technology,02,20065,Applied Research
+9,0602115E,Biomedical Technology,02,114790,Applied Research
+11,0602234D8Z,Lincoln Laboratory Research Program,02,46875,Applied Research
+13,0602251D8Z,Applied Research for the Advancement of S&T Priorities,02,45000,Applied Research
+14,0602303E,Information & Communications Technology,02,413260,Applied Research
+15,0602304E,Cognitive Computing Systems,02,16330,Applied Research
+17,0602383E,Biological Warfare Defense,02,24537,Applied Research
+18,0602384BP,Chemical and Biological Defense Program,02,227065,Applied Research
+20,0602668D8Z,Cyber Security Research,02,18908,Applied Research
+22,0602702E,Tactical Technology,02,225977,Applied Research
+23,0602715E,Materials and Biological Technology,02,166654,Applied Research
+24,0602716E,Electronics Technology,02,243469,Applied Research
+25,0602718BR,Weapons of Mass Destruction Defeat Technologies,02,175282,Applied Research
+26,0602751D8Z,Software Engineering Institute (SEI) Applied Research,02,11107,Applied Research
+27,1160401BB,Special Operations Technology Development,02,29246,Applied Research
+28,0603000D8Z,Joint Munitions Advanced Technology,03,26646,Advanced Technology Development
+29,0603121D8Z,SO/LIC Advanced Development,03,19420,Advanced Technology Development
+30,0603122D8Z,Combating Terrorism Technology Support,03,77792,Advanced Technology Development
+31,0603160BR,Counterproliferation Initiatives - Proliferation Prevention and Defeat,03,274033,Advanced Technology Development
+32,0603175C,Ballistic Missile Defense Technology,03,309203,Advanced Technology Development
+34,0603225D8Z,Joint DoD-DoE Munitions Technology Development,03,19305,Advanced Technology Development
+35,0603264S,Agile Transportation for the,21st,7565,Advanced Technology Development
+36,0603274C,Special Program - MDA Technology,03,40426,Advanced Technology Development
+37,0603286E,Advanced Aerospace Systems,03,149804,Advanced Technology Development
+38,0603287E,Space Programs and Technology,03,172546,Advanced Technology Development
+39,0603384BP,Chemical and Biological Defense Program - Advanced Development,03,170847,Advanced Technology Development
+40,0603618D8Z,Joint Electronic Advanced Technology,03,9009,Advanced Technology Development
+41,0603648D8Z,Joint Capability Technology Demonstrations,03,174428,Advanced Technology Development
+42,0603662D8Z,Networked Communications Capabilities,03,20000,Advanced Technology Development
+45,0603668D8Z,Cyber Security Advanced Research,03,19668,Advanced Technology Development
+47,0603680D8Z,Defense-Wide Manufacturing Science and Technology Program,03,34041,Advanced Technology Development
+48,0603699D8Z,Emerging Capabilities Technology Development,03,61971,Advanced Technology Development
+50,0603712S,Generic Logistics R&D Technology Demonstrations,03,20000,Advanced Technology Development
+51,0603713S,Deployment and Distribution Enterprise Technology,03,30256,Advanced Technology Development
+52,0603716D8Z,Strategic Environmental Research Program,03,72324,Advanced Technology Development
+53,0603720S,Microelectronics Technology Development and Support,03,82700,Advanced Technology Development
+54,0603727D8Z,Joint Warfighting Program,03,8431,Advanced Technology Development
+55,0603739E,Advanced Electronics Technologies,03,117080,Advanced Technology Development
+57,0603760E,Command Control and Communications Systems,03,239078,Advanced Technology Development
+59,0603766E,Network-Centric Warfare Technology,03,259006,Advanced Technology Development
+60,0603767E,Sensor Technology,03,286364,Advanced Technology Development
+61,0603769SE,Distributed Learning Advanced Technology Development,03,12116,Advanced Technology Development
+62,0603781D8Z,Software Engineering Institute,03,19008,Advanced Technology Development
+63,0603826D8Z,Quick Reaction Special Projects,03,78532,Advanced Technology Development
+65,0603828J,Joint Experimentation,03,12667,Advanced Technology Development
+66,0603832D8Z,DoD Modeling and Simulation Management Office,03,41370,Advanced Technology Development
+69,0603941D8Z,Test & Evaluation Science & Technology,03,92508,Advanced Technology Development
+70,0604055D8Z,Operational Energy Capability Improvement,03,52001,Advanced Technology Development
+71,0303310D8Z,CWMD Systems,03,52053,Advanced Technology Development
+72,1160402BB,Special Operations Advanced Technology Development,03,46809,Advanced Technology Development
+75,0603161D8Z,Nuclear and Conventional Physical Security Equipment RDT&E ADC&P,04,63641,Advanced Component Development And Prototypes
+76,0603527D8Z,RETRACT LARCH,04,19152,Advanced Component Development And Prototypes
+77,0603600D8Z,WALKOFF,04,70763,Advanced Component Development And Prototypes
+79,0603714D8Z,Advanced Sensors Application Program,04,17230,Advanced Component Development And Prototypes
+80,0603851D8Z,Environmental Security Technical Certification Program,04,71453,Advanced Component Development And Prototypes
+81,0603881C,Ballistic Missile Defense Terminal Defense Segment,04,268990,Advanced Component Development And Prototypes
+82,0603882C,Ballistic Missile Defense Midcourse Defense Segment,04,1033903,Advanced Component Development And Prototypes
+83,0603884BP,Chemical and Biological Defense Program - Dem/Val,04,196237,Advanced Component Development And Prototypes
+84,0603884C,Ballistic Missile Defense Sensors,04,315183,Advanced Component Development And Prototypes
+86,0603890C,BMD Enabling Programs,04,377605,Advanced Component Development And Prototypes
+87,0603891C,Special Programs - MDA,04,286613,Advanced Component Development And Prototypes
+88,0603892C,AEGIS BMD,04,937056,Advanced Component Development And Prototypes
+89,0603893C,Space Tracking & Surveillance System,04,44947,Advanced Component Development And Prototypes
+90,0603895C,Ballistic Missile Defense System Space Programs,04,6515,Advanced Component Development And Prototypes
+91,0603896C,Ballistic Missile Defense Command and Control Battle Management and Communications,04,418355,Advanced Component Development And Prototypes
+92,0603898C,Ballistic Missile Defense Joint Warfighter Support,04,47419,Advanced Component Development And Prototypes
+93,0603904C,Missile Defense Integration & Operations Center (MDIOC),04,52131,Advanced Component Development And Prototypes
+94,0603906C,Regarding Trench,04,13864,Advanced Component Development And Prototypes
+95,0603907C,Sea Based X-Band Radar (SBX),04,44478,Advanced Component Development And Prototypes
+96,0603913C,Israeli Cooperative Programs,04,95782,Advanced Component Development And Prototypes
+97,0603914C,Ballistic Missile Defense Test,04,375866,Advanced Component Development And Prototypes
+98,0603915C,Ballistic Missile Defense Targets,04,495257,Advanced Component Development And Prototypes
+99,0603920D8Z,Humanitarian Demining,04,11704,Advanced Component Development And Prototypes
+100,0603923D8Z,Coalition Warfare,04,9842,Advanced Component Development And Prototypes
+101,0604016D8Z,Department of Defense Corrosion Program,04,3312,Advanced Component Development And Prototypes
+102,0604250D8Z,Advanced Innovative Technologies,04,130000,Advanced Component Development And Prototypes
+103,0604400D8Z,Department of Defense (DoD) Unmanned Aircraft System (UAS) Common Development,04,8300,Advanced Component Development And Prototypes
+104,0604445J,Wide Area Surveillance,04,30000,Advanced Component Development And Prototypes
+108,0604787J,Joint Systems Integration,04,7402,Advanced Component Development And Prototypes
+110,0604828J,Joint FIRES Integration and Interoperability Team,04,7506,Advanced Component Development And Prototypes
+111,0604880C,Land-Based SM-3 (LBSM3),04,129374,Advanced Component Development And Prototypes
+112,0604881C,AEGIS SM-3 Block IIA Co-Development,04,308522,Advanced Component Development And Prototypes
+115,0303191D8Z,Joint Electromagnetic Technology (JET) Program,04,3169,Advanced Component Development And Prototypes
+116,0305103C,Cyber Security Initiative,04,946,Advanced Component Development And Prototypes
+118,0604161D8Z,Nuclear and Conventional Physical Security Equipment RDT&E SDD,05,8155,System Development And Demonstration
+119,0604165D8Z,Prompt Global Strike Capability Development,05,65440,System Development And Demonstration
+120,0604384BP,Chemical and Biological Defense Program - EMD,05,451306,System Development And Demonstration
+122,0604764K,Advanced IT Services Joint Program Office (AITS-JPO),05,29138,System Development And Demonstration
+123,0604771D8Z,Joint Tactical Information Distribution System (JTIDS),05,19475,System Development And Demonstration
+124,0605000BR,Weapons of Mass Destruction Defeat Capabilities,05,12901,System Development And Demonstration
+125,0605013BL,Information Technology Development,05,13812,System Development And Demonstration
+126,0605021SE,Homeland Personnel Security Initiative,05,386,System Development And Demonstration
+127,0605022D8Z,Defense Exportability Program,05,3763,System Development And Demonstration
+128,0605027D8Z,OUSD(C) IT Development Initiatives,05,6788,System Development And Demonstration
+129,0605070S,DOD Enterprise Systems Development and Demonstration,05,27917,System Development And Demonstration
+130,0605075D8Z,DCMO Policy and Integration,05,22297,System Development And Demonstration
+131,0605080S,Defense Agency Intiatives (DAI) - Financial System,05,51689,System Development And Demonstration
+132,0605210D8Z,Defense-Wide Electronic Procurement Capabilities,05,6184,System Development And Demonstration
+133,0303141K,Global Combat Support System,05,12083,System Development And Demonstration
+134,0305304D8Z,DoD Enterprise Energy Information Management (EEIM),05,3302,System Development And Demonstration
+135,0604774D8Z,Defense Readiness Reporting System (DRRS),06,6393,Management Support
+136,0604875D8Z,Joint Systems Architecture Development,06,2479,Management Support
+137,0604940D8Z,Central Test and Evaluation Investment Development (CTEIP),06,240213,Management Support
+138,0604942D8Z,Assessments and Evaluations,06,2127,Management Support
+139,0604943D8Z,Thermal Vicar,06,8287,Management Support
+140,0605100D8Z,Joint Mission Environment Test Capability (JMETC),06,31000,Management Support
+141,0605104D8Z,Technical Studies Support and Analysis,06,24379,Management Support
+143,0605117D8Z,Foreign Materiel Acquisition and Exploitation,06,54311,Management Support
+144,0605126J,Joint Integrated Air and Missile Defense Organization (JIAMDO),06,47462,Management Support
+146,0605130D8Z,Foreign Comparative Testing,06,12134,Management Support
+147,0605142D8Z,Systems Engineering,06,44237,Management Support
+148,0605151D8Z,Studies and Analysis Support - OSD,06,5871,Management Support
+149,0605161D8Z,Nuclear Matters-Physical Security,06,5028,Management Support
+150,0605170D8Z,Support to Networks and Information Integration,06,6301,Management Support
+151,0605200D8Z,General Support to USD (Intelligence),06,6504,Management Support
+152,0605384BP,Chemical and Biological Defense Program,06,92046,Management Support
+158,0605790D8Z,Small Business Innovation Research (SBIR)/ Small Business Technology Transfer (STTR),06,1868,Management Support
+159,0605798D8Z,Defense Technology Analysis,06,8362,Management Support
+160,0605801KA,Defense Technical Information Center (DTIC),06,56024,Management Support
+161,0605803SE,R&D in Support of DoD Enlistment Testing and Evaluation,06,6908,Management Support
+162,0605804D8Z,Development Test and Evaluation,06,15451,Management Support
+164,0605898E,Management HQ - R&D,06,71659,Management Support
+165,0606100D8Z,Budget and Program Assessments,06,4083,Management Support
+167,0203345D8Z,Defense Operations Security Initiative (DOSI),06,5306,Management Support
+168,0204571J,Joint Staff Analytical Support,06,2097,Management Support
+172,0303166J,Support to Information Operations (IO) Capabilities,06,8394,Management Support
+175,0305193D8Z,Cyber Intelligence,06,7624,Management Support
+178,0804767D8Z,COCOM Exercise Engagement and Training Transformation (CE2T2),06,43247,Management Support
+179,0901598C,Management HQ - MDA,06,37712,Management Support
+180,0901598D8W,Management Headquarters WHS,06,607,Management Support
+182,0604130V,Enterprise Security System (ESS),07,7552,Operational System Development
+183,0605127T,Regional International Outreach (RIO) and Partnership for Peace,07,3270,Operational System Development
+184,0605147T,Overseas Humanitarian Assistance Shared Information System (OHASIS),07,287,Operational System Development
+185,0607210D8Z,Industrial Base Analysis and Sustainment Support,07,14000,Operational System Development
+186,0607310D8Z,Operational Systems Development,07,1955,Operational System Development
+187,0607327T,Global Theater Security Cooperation Management Information Systems (G-TSCMIS),07,13250,Operational System Development
+188,0607384BP,Chemical and Biological Defense (Operational Systems Development),07,13026,Operational System Development
+190,0607828J,Joint Integration and Interoperability,07,12652,Operational System Development
+191,0208043J,Planning and Decision Aid System (PDAS),07,3061,Operational System Development
+192,0208045K,C4I Interoperability,07,72726,Operational System Development
+194,0301144K,Joint/Allied Coalition Information Sharing,07,6524,Operational System Development
+201,0302016K,National Military Command System-Wide Support,07,512,Operational System Development
+202,0302019K,Defense Info Infrastructure Engineering and Integration,07,12867,Operational System Development
+203,0303126K,Long-Haul Communications - DCS,07,36565,Operational System Development
+204,0303131K,Minimum Essential Emergency Communications Network (MEECN),07,13144,Operational System Development
+207,0303140D8Z,Information Systems Security Program,07,10673,Operational System Development
+210,0303150K,Global Command and Control System,07,34288,Operational System Development
+211,0303153K,Defense Spectrum Organization,07,7741,Operational System Development
+212,0303170K,Net-Centric Enterprise Services (NCES),07,3325,Operational System Development
+213,0303260D8Z,Defense Military Deception Program Office (DMDPO),07,1246,Operational System Development
+214,0303610K,Teleport Program,07,5147,Operational System Development
+216,0304210BB,Special Applications for Contingencies,07,17352,Operational System Development
+220,0305103K,Cyber Security Initiative,07,3658,Operational System Development
+221,0305125D8Z,Critical Infrastructure Protection (CIP),07,9752,Operational System Development
+225,0305186D8Z,Policy R&D Programs,07,3210,Operational System Development
+227,0305199D8Z,Net Centricity,07,21602,Operational System Development
+230,0305208BB,Distributed Common Ground/Surface Systems,07,5195,Operational System Development
+233,0305208K,Distributed Common Ground/Surface Systems,07,3348,Operational System Development
+235,0305219BB,MQ-1 Predator A UAV,07,641,Operational System Development
+238,0305387D8Z,Homeland Defense Technology Transfer Program,07,2338,Operational System Development
+239,0305600D8Z,International Intelligence Technology and Architectures,07,4372,Operational System Development
+247,0708011S,Industrial Preparedness,07,24691,Operational System Development
+248,0708012S,Logistics Support Activities,07,4659,Operational System Development
+249,0902298J,Management HQ - OJCS,07,3533,Operational System Development
+250,1105219BB,MQ-9 UAV,07,1314,Operational System Development
+254,1160403BB,Aviation Systems,07,156561,Operational System Development
+256,1160405BB,Special Operations Intelligence Systems Development,07,7705,Operational System Development
+257,1160408BB,SOF Operational Enhancements,07,42620,Operational System Development
+261,1160431BB,Warrior Systems,07,17970,Operational System Development
+262,1160432BB,Special Programs,07,7424,Operational System Development
+268,1160480BB,SOF Tactical Vehicles,07,2206,Operational System Development
+271,1160483BB,Maritime Systems,07,18325,Operational System Development
+274,1160489BB,SOF Global Video Surveillance Activities,07,3304,Operational System Development
+275,1160490BB,SOF Operational Enhancements Intelligence,07,16021,Operational System Development

@@ -1,0 +1,204 @@
+1,0601103N,University Research Initiatives,01,126836,113690,113690,112617,Basic Research
+2,0601152N,In-House Laboratory Independent Research,01,17642,18261,18261,18230,Basic Research
+3,0601153N,Defense Research Sciences,01,446141,473070,473070,484459,Basic Research
+4,0602114N,Power Projection Applied Research,02,98452,89189,89189,104513,Applied Research
+5,0602123N,Force Protection Applied Research,02,194050,143301,143301,145307,Applied Research
+6,0602131M,Marine Corps Landing Force Technology,02,43901,46528,46528,47334,Applied Research
+7,0602235N,Common Picture Applied Research,02,70935,41696,41696,34163,Applied Research
+8,0602236N,Warfighter Sustainment Applied Research,02,97107,44127,44127,49689,Applied Research
+9,0602271N,Electromagnetic Systems Applied Research,02,104457,78228,78228,97701,Applied Research
+10,0602435N,Ocean Warfighting Environment Applied Research,02,46891,49635,49635,45685,Applied Research
+11,0602651M,Joint Non-Lethal Weapons Applied Research,02,4652,5973,5973,6060,Applied Research
+12,0602747N,Undersea Warfare Applied Research,02,114251,96814,96814,103050,Applied Research
+13,0602750N,Future Naval Capabilities Applied Research,02,162417,162417,169710,Applied Research
+14,0602782N,Mine and Expeditionary Warfare Applied Research,02,37835,32394,32394,31326,Applied Research
+15,0603114N,Power Projection Advanced Technology,03,103710,56543,56543,48201,Advanced Technology Development
+16,0603123N,Force Protection Advanced Technology,03,41666,18616,18616,28328,Advanced Technology Development
+19,0603271N,Electromagnetic Systems Advanced Technology,03,125674,54858,54858,56179,Advanced Technology Development
+20,0603640M,USMC Advanced Technology Demonstration (ATD),03,120141,130598,130598,132400,Advanced Technology Development
+21,0603651M,Joint Non-Lethal Weapons Technology Development,03,12035,11706,11706,11854,Advanced Technology Development
+22,0603673N,Future Naval Capabilities Advanced Technology Development,03,256382,256382,247931,Advanced Technology Development
+23,0603729N,Warfighter Protection Advanced Technology,03,55867,3880,3880,4760,Advanced Technology Development
+25,0603758N,Navy Warfighting Experiments and Demonstrations,03,50062,51819,51819,51463,Advanced Technology Development
+26,0603782N,Mine and Expeditionary Warfare Advanced Technology,03,5804,2000,Advanced Technology Development
+27,0603207N,Air/Ocean Tactical Applications,04,46274,34085,34085,42246,Advanced Component Development & Prototypes
+28,0603216N,Aviation Survivability,04,10720,8783,8783,5591,Advanced Component Development & Prototypes
+29,0603237N,Deployable Joint Command and Control,04,3418,3773,3773,3262,Advanced Component Development & Prototypes
+30,0603251N,Aircraft Systems,04,10040,24512,24512,74,Advanced Component Development & Prototypes
+31,0603254N,ASW Systems Development,04,7610,8090,8090,7964,Advanced Component Development & Prototypes
+32,0603261N,Tactical Airborne Reconnaissance,04,8294,5301,5301,5257,Advanced Component Development & Prototypes
+33,0603382N,Advanced Combat Systems Technology,04,1107,1506,1506,1570,Advanced Component Development & Prototypes
+34,0603502N,Surface and Shallow Water Mine Countermeasures,04,126760,190622,190622,168040,Advanced Component Development & Prototypes
+35,0603506N,Surface Ship Torpedo Defense,04,122311,93346,93346,88649,Advanced Component Development & Prototypes
+36,0603512N,Carrier Systems Development,04,61909,108871,108871,83902,Advanced Component Development & Prototypes
+37,0603525N,PILOT FISH,04,98052,101169,101169,108713,Advanced Component Development & Prototypes
+38,0603527N,RETRACT LARCH,04,80180,74312,74312,9316,Advanced Component Development & Prototypes
+39,0603536N,RETRACT JUNIPER,04,120904,90730,90730,77108,Advanced Component Development & Prototypes
+40,0603542N,Radiological Control,04,1312,777,777,762,Advanced Component Development & Prototypes
+41,0603553N,Surface ASW,04,38943,6704,6704,2349,Advanced Component Development & Prototypes
+42,0603561N,Advanced Submarine System Development,04,843646,555123,555123,852977,Advanced Component Development & Prototypes
+43,0603562N,Submarine Tactical Warfare Systems,04,9008,9368,9368,8764,Advanced Component Development & Prototypes
+44,0603563N,Ship Concept Advanced Design,04,16837,24609,24609,20501,Advanced Component Development & Prototypes
+45,0603564N,Ship Preliminary Design & Feasibility Studies,04,17611,13710,13710,27052,Advanced Component Development & Prototypes
+46,0603570N,Advanced Nuclear Power Systems,04,463683,249748,249748,428933,Advanced Component Development & Prototypes
+47,0603573N,Advanced Surface Machinery Systems,04,17721,29897,29897,27154,Advanced Component Development & Prototypes
+48,0603576N,CHALK EAGLE,04,573676,509988,509988,519140,Advanced Component Development & Prototypes
+49,0603581N,Littoral Combat Ship (LCS),04,297125,429420,429420,406389,Advanced Component Development & Prototypes
+50,0603582N,Combat System Integration,04,48999,56551,56551,36570,Advanced Component Development & Prototypes
+51,0603609N,Conventional Munitions,04,4660,7342,7342,8404,Advanced Component Development & Prototypes
+52,0603611M,Marine Corps Assault Vehicles,04,37000,95182,95182,136967,Advanced Component Development & Prototypes
+53,0603635M,Marine Corps Ground Combat/Support System,04,52992,10496,10496,1489,Advanced Component Development & Prototypes
+54,0603654N,Joint Service Explosive Ordnance Development,04,33012,52331,4600,56931,38422,Advanced Component Development & Prototypes
+55,0603658N,Cooperative Engagement,04,54422,56512,56512,69312,Advanced Component Development & Prototypes
+56,0603713N,Ocean Engineering Technology Development,04,9802,7029,7029,9196,Advanced Component Development & Prototypes
+57,0603721N,Environmental Protection,04,21407,21080,21080,18850,Advanced Component Development & Prototypes
+58,0603724N,Navy Energy Program,04,69844,55324,55324,45618,Advanced Component Development & Prototypes
+59,0603725N,Facilities Improvement,04,3754,3401,3401,3019,Advanced Component Development & Prototypes
+60,0603734N,CHALK CORAL,04,76540,45966,45966,144951,Advanced Component Development & Prototypes
+61,0603739N,Navy Logistic Productivity,04,4054,3811,3811,5797,Advanced Component Development & Prototypes
+62,0603746N,RETRACT MAPLE,04,272049,341305,341305,308131,Advanced Component Development & Prototypes
+63,0603748N,LINK PLUMERIA,04,54816,181220,181220,195189,Advanced Component Development & Prototypes
+64,0603751N,RETRACT ELM,04,114374,174014,174014,56358,Advanced Component Development & Prototypes
+65,0603764N,LINK EVERGREEN,04,142858,68654,68654,55378,Advanced Component Development & Prototypes
+66,0603787N,Special Processes,04,42805,44487,44487,48842,Advanced Component Development & Prototypes
+67,0603790N,NATO Research and Development,04,9402,9389,9389,7509,Advanced Component Development & Prototypes
+68,0603795N,Land Attack Technology,04,411,16132,16132,5075,Advanced Component Development & Prototypes
+69,0603851M,Joint Non-Lethal Weapons Testing,04,40189,44994,44994,51178,Advanced Component Development & Prototypes
+70,0603860N,Joint Precision Approach and Landing Systems - Dem/Val,04,95097,137369,137369,205615,Advanced Component Development & Prototypes
+72,0604272N,Tactical Air Directional Infrared Countermeasures (TADIRCM),04,71738,73934,73934,37227,Advanced Component Development & Prototypes
+73,0604279N,ASE Self-Protection Optimization,04,676,711,711,169,Advanced Component Development & Prototypes
+74,0604653N,Joint Counter Radio Controlled IED Electronic Warfare (JCREW),04,60853,71300,71300,20874,Advanced Component Development & Prototypes
+75,0604659N,Precision Strike Weapons Development Program,04,3381,5654,5654,2257,Advanced Component Development & Prototypes
+76,0604707N,Space and Electronic Warfare (SEW) Architecture/Engineering Support,04,39250,31549,31549,38327,Advanced Component Development & Prototypes
+77,0604786N,Offensive Anti-Surface Warfare Weapon Development,04,86801,86801,135985,Advanced Component Development & Prototypes
+78,0605812M,Joint Light Tactical Vehicle (JLTV) Engineering/Man.,04,44500,44500,50362,Advanced Component Development & Prototypes
+79,0303354N,ASW Systems Development - MIP,04,1078,13172,13172,8448,Advanced Component Development & Prototypes
+80,0304270N,Electronic Warfare Development - MIP,04,11775,643,643,153,Advanced Component Development & Prototypes
+81,0604212N,Other Helo Development,05,41473,33978,33978,40558,System Development & Demonstration
+82,0604214N,AV-8B Aircraft - Eng Dev,05,22810,32789,32789,35825,System Development & Demonstration
+83,0604215N,Standards Development,05,47406,84988,84988,99891,System Development & Demonstration
+84,0604216N,Multi-Mission Helicopter Upgrade Development,05,16876,6866,6866,17565,System Development & Demonstration
+85,0604218N,Air/Ocean Equipment Engineering,05,5492,4060,4060,4026,System Development & Demonstration
+86,0604221N,P-3 Modernization Program,05,3294,3451,3451,1791,System Development & Demonstration
+87,0604230N,Warfare Support System,05,9761,13071,13071,11725,System Development & Demonstration
+88,0604231N,Tactical Command System,05,75683,71645,71645,68463,System Development & Demonstration
+89,0604234N,Advanced Hawkeye,05,129414,119065,119065,152041,System Development & Demonstration
+90,0604245N,H-1 Upgrades,05,65617,31105,31105,47123,System Development & Demonstration
+91,0604261N,Acoustic Search Sensors,05,49353,34299,34299,30208,System Development & Demonstration
+92,0604262N,V-22A,05,71938,54412,54412,43084,System Development & Demonstration
+93,0604264N,Air Crew Systems Development,05,2620,2717,2717,11401,System Development & Demonstration
+94,0604269N,EA-18,05,14770,13009,13009,11138,System Development & Demonstration
+95,0604270N,Electronic Warfare Development,05,93692,51304,51304,34964,System Development & Demonstration
+96,0604273N,VH-71A Executive Helo Development,05,58994,61163,61163,94238,System Development & Demonstration
+97,0604274N,Next Generation Jammer (NGJ),05,160793,187024,187024,257796,System Development & Demonstration
+98,0604280N,Joint Tactical Radio System - Navy (JTRS-Navy),05,601347,337480,337480,3302,System Development & Demonstration
+99,0604307N,Surface Combatant Combat System Engineering,05,211968,260616,260616,240298,System Development & Demonstration
+100,0604311N,LPD-17 Class Systems Integration,05,858,824,824,1214,System Development & Demonstration
+101,0604329N,Small Diameter Bomb (SDB),05,23188,31064,31064,46007,System Development & Demonstration
+102,0604366N,Standard Missile Improvements,05,55546,63891,63891,75592,System Development & Demonstration
+103,0604373N,Airborne MCM,05,48614,73246,73246,117854,System Development & Demonstration
+104,0604376M,Marine Air Ground Task Force (MAGTF) Electronic Warfare (EW) for Aviation,05,10568,10568,10080,System Development & Demonstration
+105,0604378N,Naval Integrated Fire Control - Counter Air Systems Engineering,05,28279,39974,39974,21413,System Development & Demonstration
+106,0604404N,Unmanned Carrier Launched Airborne Surveillance and Strike System,05,71182,122481,122481,146683,System Development & Demonstration
+107,0604501N,Advanced Above Water Sensors,05,245946,255516,255516,275871,System Development & Demonstration
+108,0604503N,SSN-688 and Trident Modernization,05,89083,82620,82620,89672,System Development & Demonstration
+109,0604504N,Air Control,05,6116,5633,5633,13754,System Development & Demonstration
+110,0604512N,Shipboard Aviation Systems,05,47903,55826,55826,69615,System Development & Demonstration
+111,0604518N,Combat Information Center Conversion,05,3315,918,918,System Development & Demonstration
+112,0604558N,New Design SSN,05,109117,165230,165230,121566,System Development & Demonstration
+113,0604562N,Submarine Tactical Warfare System,05,47318,49141,49141,49143,System Development & Demonstration
+114,0604567N,Ship Contract Design/ Live Fire T&E,05,121008,196737,196737,155254,System Development & Demonstration
+115,0604574N,Navy Tactical Computer Resources,05,3003,3889,3889,3689,System Development & Demonstration
+116,0604601N,Mine Development,05,3874,8335,8335,5041,System Development & Demonstration
+117,0604610N,Lightweight Torpedo Development,05,25457,49818,49818,26444,System Development & Demonstration
+118,0604654N,Joint Service Explosive Ordnance Development,05,11954,10099,10099,8897,System Development & Demonstration
+119,0604703N,Personnel Training Simulation and Human Factors,05,12552,7348,7348,6233,System Development & Demonstration
+120,0604727N,Joint Standoff Weapon Systems,05,7303,5518,5518,442,System Development & Demonstration
+121,0604755N,Ship Self Defense (Detect & Control),05,71094,87662,87662,130360,System Development & Demonstration
+122,0604756N,Ship Self Defense (Engage: Hard Kill),05,20041,64079,64079,50209,System Development & Demonstration
+123,0604757N,Ship Self Defense (Engage: Soft Kill/EW),05,179033,151489,151489,164799,System Development & Demonstration
+124,0604761N,Intelligence Engineering,05,2196,1984,System Development & Demonstration
+125,0604771N,Medical Development,05,32118,12707,2173,14880,9458,System Development & Demonstration
+126,0604777N,Navigation/ID System,05,38389,47764,47764,51430,System Development & Demonstration
+127,0604800M,Joint Strike Fighter (JSF) - EMD,05,617695,737149,737149,512631,System Development & Demonstration
+128,0604800N,Joint Strike Fighter (JSF) - EMD,05,632042,743926,743926,534187,System Development & Demonstration
+129,0605013M,Information Technology Development,05,19080,12143,12143,5564,System Development & Demonstration
+130,0605013N,Information Technology Development,05,28919,72209,72209,69659,System Development & Demonstration
+132,0605212N,CH-53K RDTE,05,606255,606204,606204,503180,System Development & Demonstration
+133,0605450N,Joint Air-to-Ground Missile (JAGM),05,108395,5500,System Development & Demonstration
+134,0605500N,Multi-mission Maritime Aircraft (MMA),05,595532,421102,421102,317358,System Development & Demonstration
+135,0204202N,DDG-1000,05,249780,124655,124655,187910,System Development & Demonstration
+136,0304231N,Tactical Command System - MIP,05,979,1170,1170,2140,System Development & Demonstration
+137,0304785N,Tactical Cryptologic Systems,05,31740,23255,23255,9406,System Development & Demonstration
+138,0305124N,Special Applications Program,05,100000,22800,System Development & Demonstration
+139,0604256N,Threat Simulator Development,06,27687,30790,30790,43261,Management Support
+140,0604258N,Target Systems Development,06,52561,59221,59221,71872,Management Support
+141,0604759N,Major T&E Investment,06,36670,35894,35894,38033,Management Support
+142,0605126N,Joint Theater Air and Missile Defense Organization,06,2896,7573,7573,1352,Management Support
+143,0605152N,Studies and Analysis Support - Navy,06,18431,20963,20963,5566,Management Support
+144,0605154N,Center for Naval Analyses,06,46312,46856,46856,48345,Management Support
+146,0605804N,Technical Information Services,06,1230,796,796,637,Management Support
+147,0605853N,Management Technical & International Support,06,56441,32782,32782,76585,Management Support
+148,0605856N,Strategic Technical Support,06,3192,3306,3306,3221,Management Support
+149,0605861N,RDT&E Science and Technology Management,06,72778,70302,70302,72725,Management Support
+150,0605863N,RDT&E Ship and Aircraft Support,06,134087,144033,144033,141778,Management Support
+151,0605864N,Test and Evaluation Support,06,333344,342298,342298,331219,Management Support
+152,0605865N,Operational Test and Evaluation Capability,06,16464,16399,16399,16565,Management Support
+153,0605866N,Navy Space and Electronic Warfare (SEW) Support,06,4152,4579,5200,9779,3265,Management Support
+154,0605867N,SEW Surveillance/Reconnaissance Support,06,7642,8000,8000,7134,Management Support
+155,0605873M,Marine Corps Program Wide Support,06,26303,18490,18490,24082,Management Support
+156,0305885N,Tactical Cryptologic Activities,06,1198,2795,2795,497,Management Support
+159,0604227N,HARPOON Modifications,07,699,Operational Systems Development
+160,0604402N,Unmanned Combat Air Vehicle (UCAV) Advanced Component and Prototype Development,07,202188,142282,142282,20961,Operational Systems Development
+162,0604766M,Marine Corps Data Systems,07,1617,35,Operational Systems Development
+163,0605525N,Carrier Onboard Delivery (COD) Follow On,07,2460,Operational Systems Development
+164,0605555N,Strike Weapons Development,07,9757,Operational Systems Development
+165,0101221N,Strategic Sub & Weapons System Support,07,87454,105892,105892,98057,Operational Systems Development
+166,0101224N,SSBN Security Technology Program,07,32464,34729,34729,31768,Operational Systems Development
+167,0101226N,Submarine Acoustic Warfare Development,07,6210,1434,1434,1464,Operational Systems Development
+168,0101402N,Navy Strategic Communications,07,24075,19208,19208,21729,Operational Systems Development
+169,0203761N,Rapid Technology Transition (RTT),07,32959,25566,25566,13561,Operational Systems Development
+170,0204136N,F/A-18 Squadrons,07,148313,188299,188299,131118,Operational Systems Development
+171,0204152N,E-2 Squadrons,07,11276,8610,8610,1971,Operational Systems Development
+172,0204163N,Fleet Telecommunications (Tactical),07,2035,15695,15695,46155,Operational Systems Development
+173,0204228N,Surface Support,07,3292,4171,4171,2374,Operational Systems Development
+174,0204229N,Tomahawk and Tomahawk Mission Planning Center (TMPC),07,8581,11265,11265,12407,Operational Systems Development
+175,0204311N,Integrated Surveillance System,07,29275,45922,45922,41609,Operational Systems Development
+176,0204413N,Amphibious Tactical Support Units (Displacement Craft),07,5085,8435,8435,7240,Operational Systems Development
+177,0204460M,Ground/Air Task Oriented Radar (G/ATOR),07,75088,75088,78208,Operational Systems Development
+178,0204571N,Consolidated Training Systems Development,07,38055,20229,20229,45124,Operational Systems Development
+179,0204574N,Cryptologic Direct Support,07,1447,1756,1756,2703,Operational Systems Development
+180,0204575N,Electronic Warfare (EW) Readiness Support,07,17686,19843,19843,19563,Operational Systems Development
+181,0205601N,HARM Improvement,07,11748,11477,11477,13586,Operational Systems Development
+182,0205604N,Tactical Data Links,07,62367,118818,118818,197538,Operational Systems Development
+183,0205620N,Surface ASW Combat System Integration,07,28927,27342,27342,31863,Operational Systems Development
+184,0205632N,MK-48 ADCAP,07,45130,28717,28717,12806,Operational Systems Development
+185,0205633N,Aviation Improvements,07,101135,89157,89157,88607,Operational Systems Development
+187,0205675N,Operational Nuclear Power Systems,07,82705,86435,86435,116928,Operational Systems Development
+188,0206313M,Marine Corps Communications Systems,07,313832,219054,219054,178753,Operational Systems Development
+189,0206623M,Marine Corps Ground Combat/Supporting Arms Systems,07,153435,181693,181693,139594,Operational Systems Development
+190,0206624M,Marine Corps Combat Services Support,07,45803,58393,6762,65155,42647,Operational Systems Development
+191,0206625M,USMC Intelligence/Electronic Warfare Systems (MIP),07,19627,22966,22966,34394,Operational Systems Development
+192,0207161N,Tactical AIM Missiles,07,8463,21107,21107,39159,Operational Systems Development
+193,0207163N,Advanced Medium Range Air-to-Air Missile (AMRAAM),07,2803,2857,2857,2613,Operational Systems Development
+194,0208058N,Joint High Speed Vessel (JHSV),07,3991,1932,1932,986,Operational Systems Development
+199,0303109N,Satellite Communications (SPACE),07,258812,188482,188482,66231,Operational Systems Development
+200,0303138N,Consolidated Afloat Network Enterprise Services (CANES),07,24039,16749,16749,24476,Operational Systems Development
+201,0303140N,Information Systems Security Program,07,38747,26307,26307,23531,Operational Systems Development
+206,0305160N,Navy Meteorological and Ocean Sensors-Space (METOC),07,820,810,810,742,Operational Systems Development
+207,0305192N,Military Intelligence Program (MIP) Activities,07,4099,8617,8617,4804,Operational Systems Development
+208,0305204N,Tactical Unmanned Aerial Vehicles,07,9353,9066,9066,8381,Operational Systems Development
+211,0305208M,Distributed Common Ground/Surface Systems,07,22309,25917,25917,5535,Operational Systems Development
+212,0305208N,Distributed Common Ground/Surface Systems,07,27495,14676,14676,19718,Operational Systems Development
+213,0305220N,RQ-4 UAV,07,548617,657483,657483,375235,Operational Systems Development
+214,0305231N,MQ-8 UAV,07,110011,99600,99600,48713,Operational Systems Development
+215,0305232M,RQ-11 UAV,07,979,495,495,102,Operational Systems Development
+216,0305233N,RQ-7 UAV,07,872,863,7600,8463,710,Operational Systems Development
+217,0305234N,Small (Level 0) Tactical UAS (STUASL0),07,20287,9734,9734,5013,Operational Systems Development
+219,0305239M,RQ-21A,07,24201,22343,22343,11122,Operational Systems Development
+220,0305241N,Multi-Intelligence Sensor Development,07,28851,Operational Systems Development
+221,0308601N,Modeling and Simulation Support,07,8072,5908,5908,5116,Operational Systems Development
+222,0702207N,Depot Maintenance (Non-IF),07,24473,27391,27391,28042,Operational Systems Development
+223,0708011N,Industrial Preparedness,07,51778,54879,54879,50933,Operational Systems Development
+224,0708730N,Maritime Technology (MARITECH),07,3923,5000,5000,4998,Operational Systems Development
+9999,9999999999,Classified Programs,1341748,1151159,33784,1184943,1185132,Operational Systems Development
