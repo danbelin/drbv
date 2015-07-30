@@ -1,0 +1,807 @@
+2040A, Army,ARMY,01,Basic Research,1,0601101A,In-House Laboratory Independent Research,Y,13018,U
+2040A, Army,ARMY,01,Basic Research,2,0601102A,Defense Research Sciences,Y,239118,U
+2040A, Army,ARMY,01,Basic Research,3,0601103A,University Research Initiatives,Y,72603,U
+2040A, Army,ARMY,01,Basic Research,4,0601104A,University and Industry Research Centers,Y,100340,U
+2040A, Army,ARMY,02,Applied Research,5,0602105A,Materials Technology,Y,28314,U
+2040A, Army,ARMY,02,Applied Research,6,0602120A,Sensors and Electronic Survivability,Y,38374,U
+2040A, Army,ARMY,02,Applied Research,7,0602122A,TRACTOR HIP,Y,6879,U
+2040A, Army,ARMY,02,Applied Research,8,0602211A,Aviation Technology,Y,56884,U
+2040A, Army,ARMY,02,Applied Research,9,0602270A,Electronic Warfare Technology,Y,19243,U
+2040A, Army,ARMY,02,Applied Research,10,0602303A,Missile Technology,Y,45053,U
+2040A, Army,ARMY,02,Applied Research,11,0602307A,Advanced Weapons Technology,Y,29428,U
+2040A, Army,ARMY,02,Applied Research,12,0602308A,Advanced Concepts and Simulation,Y,27862,U
+2040A, Army,ARMY,02,Applied Research,13,0602601A,Combat Vehicle and Automotive Technology,Y,68839,U
+2040A, Army,ARMY,02,Applied Research,14,0602618A,Ballistics Technology,Y,92801,U
+2040A, Army,ARMY,02,Applied Research,15,0602622A,Chemical Smoke and Equipment Defeating Technology,Y,3866,U
+2040A, Army,ARMY,02,Applied Research,16,0602623A,Joint Service Small Arms Program,Y,5487,U
+2040A, Army,ARMY,02,Applied Research,17,0602624A,Weapons and Munitions Technology,Y,48340,U
+2040A, Army,ARMY,02,Applied Research,18,0602705A,Electronics and Electronic Devices,Y,55301,U
+2040A, Army,ARMY,02,Applied Research,19,0602709A,Night Vision Technology,Y,33807,U
+2040A, Army,ARMY,02,Applied Research,20,0602712A,Countermine Systems,Y,25068,U
+2040A, Army,ARMY,02,Applied Research,21,0602716A,Human Factors Engineering Technology,Y,23681,U
+2040A, Army,ARMY,02,Applied Research,22,0602720A,Environmental Quality Technology,Y,20850,U
+2040A, Army,ARMY,02,Applied Research,23,0602782A,Command Control Communications Technology,Y,36160,U
+2040A, Army,ARMY,02,Applied Research,24,0602783A,Computer and Software Technology,Y,12656,U
+2040A, Army,ARMY,02,Applied Research,25,0602784A,Military Engineering Technology,Y,63409,U
+2040A, Army,ARMY,02,Applied Research,26,0602785A,Manpower/Personnel/Training Technology,Y,24735,U
+2040A, Army,ARMY,02,Applied Research,27,0602786A,Warfighter Technology,Y,35795,U
+2040A, Army,ARMY,02,Applied Research,28,0602787A,Medical Technology,Y,76853,U
+2040A, Army,ARMY,03,Advanced Technology Development,29,0603001A,Warfighter Advanced Technology,Y,46973,U
+2040A, Army,ARMY,03,Advanced Technology Development,30,0603002A,Medical Advanced Technology,Y,69584,U
+2040A, Army,ARMY,03,Advanced Technology Development,31,0603003A,Aviation Advanced Technology,Y,89736,U
+2040A, Army,ARMY,03,Advanced Technology Development,32,0603004A,Weapons and Munitions Advanced Technology,Y,57663,U
+2040A, Army,ARMY,03,Advanced Technology Development,33,0603005A,Combat Vehicle and Automotive Advanced Technology,Y,113071,U
+2040A, Army,ARMY,03,Advanced Technology Development,34,0603006A,Space Application Advanced Technology,Y,5554,U
+2040A, Army,ARMY,03,Advanced Technology Development,35,0603007A,Manpower Personnel and Training Advanced Technology,Y,12636,U
+2040A, Army,ARMY,03,Advanced Technology Development,37,0603009A,TRACTOR HIKE,Y,7502,U
+2040A, Army,ARMY,03,Advanced Technology Development,38,0603015A,Next Generation Training & Simulation Systems,Y,17425,U
+2040A, Army,ARMY,03,Advanced Technology Development,39,0603020A,TRACTOR ROSE,Y,11912,U
+2040A, Army,ARMY,03,Advanced Technology Development,40,0603125A,Combating Terrorism - Technology Development,Y,27520,U
+2040A, Army,ARMY,03,Advanced Technology Development,41,0603130A,TRACTOR NAIL,Y,2381,U
+2040A, Army,ARMY,03,Advanced Technology Development,42,0603131A,TRACTOR EGGS,Y,2431,U
+2040A, Army,ARMY,03,Advanced Technology Development,43,0603270A,Electronic Warfare Technology,Y,26874,U
+2040A, Army,ARMY,03,Advanced Technology Development,44,0603313A,Missile and Rocket Advanced Technology,Y,49449,U
+2040A, Army,ARMY,03,Advanced Technology Development,45,0603322A,TRACTOR CAGE,Y,10999,U
+2040A, Army,ARMY,03,Advanced Technology Development,46,0603461A,High Performance Computing Modernization Program,Y,177159,U
+2040A, Army,ARMY,03,Advanced Technology Development,47,0603606A,Landmine Warfare and Barrier Advanced Technology,Y,13993,U
+2040A, Army,ARMY,03,Advanced Technology Development,48,0603607A,Joint Service Small Arms Program,Y,5105,U
+2040A, Army,ARMY,03,Advanced Technology Development,49,0603710A,Night Vision Advanced Technology,Y,40929,U
+2040A, Army,ARMY,03,Advanced Technology Development,50,0603728A,Environmental Quality Technology Demonstrations,Y,10727,U
+2040A, Army,ARMY,03,Advanced Technology Development,51,0603734A,Military Engineering Advanced Technology,Y,20145,U
+2040A, Army,ARMY,03,Advanced Technology Development,52,0603772A,Advanced Tactical Computer Science and Sensor Technology,Y,38163,U
+2040A, Army,ARMY,03,Advanced Technology Development,53,0603794A,C3 Advanced Technology,Y,37816,U
+2040A, Army,ARMY,04,Advanced Component Development & Prototypes,54,0603305A,Army Missle Defense Systems Integration,Y,10347,U
+2040A, Army,ARMY,04,Advanced Component Development & Prototypes,55,0603308A,Army Space Systems Integration,Y,25061,U
+2040A, Army,ARMY,04,Advanced Component Development & Prototypes,56,0603619A,Landmine Warfare and Barrier - Adv Dev,Y,49636,U
+2040A, Army,ARMY,04,Advanced Component Development & Prototypes,57,0603627A,Smoke Obscurant and Target Defeating Sys-Adv Dev,Y,13426,U
+2040A, Army,ARMY,04,Advanced Component Development & Prototypes,58,0603639A,Tank and Medium Caliber Ammunition,Y,46749,U
+2040A, Army,ARMY,04,Advanced Component Development & Prototypes,60,0603747A,Soldier Support and Survivability,Y,7758,U
+2040A, Army,ARMY,04,Advanced Component Development & Prototypes,61,0603766A,Tactical Electronic Surveillance System - Adv Dev,Y,13472,U
+2040A, Army,ARMY,04,Advanced Component Development & Prototypes,62,0603774A,Night Vision Systems Advanced Development,Y,7292,U
+2040A, Army,ARMY,04,Advanced Component Development & Prototypes,63,0603779A,Environmental Quality Technology - Dem/Val,Y,8813,U
+2040A, Army,ARMY,04,Advanced Component Development & Prototypes,65,0603790A,NATO Research and Development,Y,6075,U
+2040A, Army,ARMY,04,Advanced Component Development & Prototypes,67,0603804A,Logistics and Engineer Equipment - Adv Dev,Y,21233,U
+2040A, Army,ARMY,04,Advanced Component Development & Prototypes,68,0603807A,Medical Systems - Adv Dev,Y,31962,U
+2040A, Army,ARMY,04,Advanced Component Development & Prototypes,69,0603827A,Soldier Systems - Advanced Development,Y,22194,U
+2040A, Army,ARMY,04,Advanced Component Development & Prototypes,71,0604100A,Analysis Of Alternatives,Y,9805,U
+2040A, Army,ARMY,04,Advanced Component Development & Prototypes,72,0604115A,Technology Maturation Initiatives,Y,40917,U
+2040A, Army,ARMY,04,Advanced Component Development & Prototypes,73,0604120A,Assured Positioning Navigation and Timing (PNT),Y,30058,U
+2040A, Army,ARMY,04,Advanced Component Development & Prototypes,74,0604319A,Indirect Fire Protection Capability Increment 2-Intercept (IFPC2),Y,155361,U
+2040A, Army,ARMY,05,System Development & Demonstration,76,0604201A,Aircraft Avionics,Y,12939,U
+2040A, Army,ARMY,05,System Development & Demonstration,78,0604270A,Electronic Warfare Development,Y,18843,U
+2040A, Army,ARMY,05,System Development & Demonstration,79,0604280A,Joint Tactical Radio,Y,9861,U
+2040A, Army,ARMY,05,System Development & Demonstration,80,0604290A,Mid-tier Networking Vehicular Radio (MNVR),Y,8763,U
+2040A, Army,ARMY,05,System Development & Demonstration,81,0604321A,All Source Analysis System,Y,4309,U
+2040A, Army,ARMY,05,System Development & Demonstration,82,0604328A,TRACTOR CAGE,Y,15138,U
+2040A, Army,ARMY,05,System Development & Demonstration,83,0604601A,Infantry Support Weapons,Y,74128,U
+2040A, Army,ARMY,05,System Development & Demonstration,85,0604611A,JAVELIN,Y,3945,U
+2040A, Army,ARMY,05,System Development & Demonstration,87,0604633A,Air Traffic Control,Y,10076,U
+2040A, Army,ARMY,05,System Development & Demonstration,88,0604641A,Tactical Unmanned Ground Vehicle (TUGV),Y,40374,U
+2040A, Army,ARMY,05,System Development & Demonstration,89,0604710A,Night Vision Systems - Eng Dev,Y,67582,U
+2040A, Army,ARMY,05,System Development & Demonstration,90,0604713A,Combat Feeding Clothing and Equipment,Y,1763,U
+2040A, Army,ARMY,05,System Development & Demonstration,91,0604715A,Non-System Training Devices - Eng Dev,Y,27155,U
+2040A, Army,ARMY,05,System Development & Demonstration,92,0604741A,Air Defense Command Control and Intelligence - Eng Dev,Y,24569,U
+2040A, Army,ARMY,05,System Development & Demonstration,93,0604742A,Constructive Simulation Systems Development,Y,23364,U
+2040A, Army,ARMY,05,System Development & Demonstration,94,0604746A,Automatic Test Equipment Development,Y,8960,U
+2040A, Army,ARMY,05,System Development & Demonstration,95,0604760A,Distributive Interactive Simulations (DIS) - Eng Dev,Y,9138,U
+2040A, Army,ARMY,05,System Development & Demonstration,96,0604780A,Combined Arms Tactical Trainer (CATT) Core,Y,21622,U
+2040A, Army,ARMY,05,System Development & Demonstration,97,0604798A,Brigade Analysis Integration and Evaluation,Y,99242,U
+2040A, Army,ARMY,05,System Development & Demonstration,98,0604802A,Weapons and Munitions - Eng Dev,Y,21379,U
+2040A, Army,ARMY,05,System Development & Demonstration,99,0604804A,Logistics and Engineer Equipment - Eng Dev,Y,48339,U
+2040A, Army,ARMY,05,System Development & Demonstration,100,0604805A,Command Control Communications Systems - Eng Dev,Y,2726,U
+2040A, Army,ARMY,05,System Development & Demonstration,101,0604807A,Medical Materiel/Medical Biological Defense Equipment - Eng Dev,Y,45412,U
+2040A, Army,ARMY,05,System Development & Demonstration,102,0604808A,Landmine Warfare/Barrier - Eng Dev,Y,55215,U
+2040A, Army,ARMY,05,System Development & Demonstration,104,0604818A,Army Tactical Command & Control Hardware & Software,Y,163643,U
+2040A, Army,ARMY,05,System Development & Demonstration,105,0604820A,Radar Development,Y,12309,U
+2040A, Army,ARMY,05,System Development & Demonstration,106,0604822A,General Fund Enterprise Business System (GFEBS),Y,15700,U
+2040A, Army,ARMY,05,System Development & Demonstration,107,0604823A,Firefinder,Y,6243,U
+2040A, Army,ARMY,05,System Development & Demonstration,108,0604827A,Soldier Systems - Warrior Dem/Val,Y,18776,U
+2040A, Army,ARMY,05,System Development & Demonstration,109,0604854A,Artillery Systems - EMD,Y,1953,U
+2040A, Army,ARMY,05,System Development & Demonstration,110,0605013A,Information Technology Development,Y,67358,U
+2040A, Army,ARMY,05,System Development & Demonstration,111,0605018A,Integrated Personnel and Pay System-Army (IPPS-A),Y,136011,U
+2040A, Army,ARMY,05,System Development & Demonstration,112,0605028A,Armored Multi-Purpose Vehicle (AMPV),Y,230210,U
+2040A, Army,ARMY,05,System Development & Demonstration,113,0605030A,Joint Tactical Network Center (JTNC),Y,13357,U
+2040A, Army,ARMY,05,System Development & Demonstration,114,0605031A,Joint Tactical Network (JTN),Y,18055,U
+2040A, Army,ARMY,05,System Development & Demonstration,115,0605032A,TRACTOR TIRE,Y,5677,U
+2040A, Army,ARMY,05,System Development & Demonstration,116,0605035A,Common Infrared Countermeasures (CIRCM),Y,77570,U
+2040A, Army,ARMY,05,System Development & Demonstration,117,0605051A,Aircraft Survivability Development,Y,18112,U
+2040A, Army,ARMY,05,System Development & Demonstration,118,0605350A,WIN-T Increment 3 - Full Networking,Y,39700,U
+2040A, Army,ARMY,05,System Development & Demonstration,119,0605380A,AMF Joint Tactical Radio System (JTRS),Y,12987,U
+2040A, Army,ARMY,05,System Development & Demonstration,120,0605450A,Joint Air-to-Ground Missile (JAGM),Y,88866,U
+2040A, Army,ARMY,05,System Development & Demonstration,121,0605456A,PAC-3/MSE Missile,Y,2272,U
+2040A, Army,ARMY,05,System Development & Demonstration,122,0605457A,Army Integrated Air and Missile Defense (AIAMD),Y,214099,U
+2040A, Army,ARMY,05,System Development & Demonstration,123,0605625A,Manned Ground Vehicle,Y,49247,U
+2040A, Army,ARMY,05,System Development & Demonstration,124,0605626A,Aerial Common Sensor,Y,2,U
+2040A, Army,ARMY,05,System Development & Demonstration,125,0605766A,National Capabilities Integration (MIP),Y,10599,U
+2040A, Army,ARMY,05,System Development & Demonstration,126,0605812A,Joint Light Tactical Vehicle (JLTV) Engineering and Manufacturing Development Ph,Y,32486,U
+2040A, Army,ARMY,05,System Development & Demonstration,127,0605830A,Aviation Ground Support Equipment,Y,8880,U
+2040A, Army,ARMY,05,System Development & Demonstration,128,0210609A,Paladin Integrated Management (PIM),Y,152288,U
+2040A, Army,ARMY,05,System Development & Demonstration,129,0303032A,TROJAN - RH12,Y,5022,U
+2040A, Army,ARMY,05,System Development & Demonstration,130,0304270A,Electronic Warfare Development,Y,12686,U
+2040A, Army,ARMY,06,RDT&E Management Support,131,0604256A,Threat Simulator Development,Y,20035,U
+2040A, Army,ARMY,06,RDT&E Management Support,132,0604258A,Target Systems Development,Y,16684,U
+2040A, Army,ARMY,06,RDT&E Management Support,133,0604759A,Major T&E Investment,Y,62580,U
+2040A, Army,ARMY,06,RDT&E Management Support,134,0605103A,Rand Arroyo Center,Y,20853,U
+2040A, Army,ARMY,06,RDT&E Management Support,135,0605301A,Army Kwajalein Atoll,Y,205145,U
+2040A, Army,ARMY,06,RDT&E Management Support,136,0605326A,Concepts Experimentation Program,Y,19430,U
+2040A, Army,ARMY,06,RDT&E Management Support,138,0605601A,Army Test Ranges and Facilities,Y,277646,U
+2040A, Army,ARMY,06,RDT&E Management Support,139,0605602A,Army Technical Test Instrumentation and Targets,Y,51550,U
+2040A, Army,ARMY,06,RDT&E Management Support,140,0605604A,Survivability/Lethality Analysis,Y,33246,U
+2040A, Army,ARMY,06,RDT&E Management Support,141,0605606A,Aircraft Certification,Y,4760,U
+2040A, Army,ARMY,06,RDT&E Management Support,142,0605702A,Meteorological Support to RDT&E Activities,Y,8303,U
+2040A, Army,ARMY,06,RDT&E Management Support,143,0605706A,Materiel Systems Analysis,Y,20403,U
+2040A, Army,ARMY,06,RDT&E Management Support,144,0605709A,Exploitation of Foreign Items,Y,10396,U
+2040A, Army,ARMY,06,RDT&E Management Support,145,0605712A,Support of Operational Testing,Y,49337,U
+2040A, Army,ARMY,06,RDT&E Management Support,146,0605716A,Army Evaluation Center,Y,52694,U
+2040A, Army,ARMY,06,RDT&E Management Support,147,0605718A,Army Modeling & Sim X-Cmd Collaboration & Integ,Y,938,U
+2040A, Army,ARMY,06,RDT&E Management Support,148,0605801A,Programwide Activities,Y,60319,U
+2040A, Army,ARMY,06,RDT&E Management Support,149,0605803A,Technical Information Activities,Y,28478,U
+2040A, Army,ARMY,06,RDT&E Management Support,150,0605805A,Munitions Standardization Effectiveness and Safety,Y,32604,U
+2040A, Army,ARMY,06,RDT&E Management Support,151,0605857A,Environmental Quality Technology Mgmt Support,Y,3186,U
+2040A, Army,ARMY,06,RDT&E Management Support,152,0605898A,Management HQ - R&D,Y,48955,U
+2040A, Army,ARMY,07,Operational Systems Development,154,0603778A,MLRS Product Improvement Program,Y,18397,U
+2040A, Army,ARMY,07,Operational Systems Development,155,0603813A,TRACTOR PULL,Y,9461,U
+2040A, Army,ARMY,07,Operational Systems Development,156,0607131A,Weapons and Munitions Product Improvement Programs,Y,4945,U
+2040A, Army,ARMY,07,Operational Systems Development,157,0607133A,TRACTOR SMOKE,Y,7569,U
+2040A, Army,ARMY,07,Operational Systems Development,158,0607135A,Apache Product Improvement Program,Y,69862,U
+2040A, Army,ARMY,07,Operational Systems Development,159,0607136A,Blackhawk Product Improvement Program,Y,66653,U
+2040A, Army,ARMY,07,Operational Systems Development,160,0607137A,Chinook Product Improvement Program,Y,37407,U
+2040A, Army,ARMY,07,Operational Systems Development,161,0607138A,Fixed Wing Product Improvement Program,Y,1151,U
+2040A, Army,ARMY,07,Operational Systems Development,162,0607139A,Improved Turbine Engine Program,Y,51164,U
+2040A, Army,ARMY,07,Operational Systems Development,163,0607140A,Emerging Technologies from NIE,Y,2481,U
+2040A, Army,ARMY,07,Operational Systems Development,164,0607141A,Logistics Automation,Y,1673,U
+2040A, Army,ARMY,07,Operational Systems Development,166,0607665A,Family of Biometrics,Y,13237,U
+2040A, Army,ARMY,07,Operational Systems Development,167,0607865A,Patriot Product Improvement,Y,105816,U
+2040A, Army,ARMY,07,Operational Systems Development,169,0202429A,Aerostat Joint Project - COCOM Exercise,Y,40565,U
+2040A, Army,ARMY,07,Operational Systems Development,171,0203728A,Joint Automated Deep Operation Coordination System (JADOCS),Y,35719,U
+2040A, Army,ARMY,07,Operational Systems Development,172,0203735A,Combat Vehicle Improvement Programs,Y,257167,U
+2040A, Army,ARMY,07,Operational Systems Development,173,0203740A,Maneuver Control System,Y,15445,U
+2040A, Army,ARMY,07,Operational Systems Development,175,0203752A,Aircraft Engine Component Improvement Program,Y,364,U
+2040A, Army,ARMY,07,Operational Systems Development,176,0203758A,Digitization,Y,4361,U
+2040A, Army,ARMY,07,Operational Systems Development,177,0203801A,Missile/Air Defense Product Improvement Program,Y,3154,U
+2040A, Army,ARMY,07,Operational Systems Development,178,0203802A,Other Missile Product Improvement Programs,Y,35951,U
+2040A, Army,ARMY,07,Operational Systems Development,179,0203808A,TRACTOR CARD,Y,34686,U
+2040A, Army,ARMY,07,Operational Systems Development,180,0205402A,Integrated Base Defense - Operational System Dev,Y,10750,U
+2040A, Army,ARMY,07,Operational Systems Development,181,0205410A,Materials Handling Equipment,Y,402,U
+2040A, Army,ARMY,07,Operational Systems Development,183,0205456A,Lower Tier Air and Missile Defense (AMD) System,Y,64159,U
+2040A, Army,ARMY,07,Operational Systems Development,184,0205778A,Guided Multiple-Launch Rocket System (GMLRS),Y,17527,U
+2040A, Army,ARMY,07,Operational Systems Development,185,0208053A,Joint Tactical Ground System,Y,20515,U
+2040A, Army,ARMY,07,Operational Systems Development,187,0303028A,Security and Intelligence Activities,Y,12368,U
+2040A, Army,ARMY,07,Operational Systems Development,188,0303140A,Information Systems Security Program,Y,31154,U
+2040A, Army,ARMY,07,Operational Systems Development,189,0303141A,Global Combat Support System,Y,12274,U
+2040A, Army,ARMY,07,Operational Systems Development,190,0303142A,SATCOM Ground Environment (SPACE),Y,9355,U
+2040A, Army,ARMY,07,Operational Systems Development,191,0303150A,WWMCCS/Global Command and Control System,Y,7053,U
+2040A, Army,ARMY,07,Operational Systems Development,193,0305179A,Integrated Broadcast Service (IBS),Y,750,U
+2040A, Army,ARMY,07,Operational Systems Development,194,0305204A,Tactical Unmanned Aerial Vehicles,Y,13225,U
+2040A, Army,ARMY,07,Operational Systems Development,195,0305206A,Airborne Reconnaissance Systems,Y,22870,U
+2040A, Army,ARMY,07,Operational Systems Development,196,0305208A,Distributed Common Ground/Surface Systems,Y,25592,U
+2040A, Army,ARMY,07,Operational Systems Development,199,0305233A,RQ-7 UAV,Y,7297,U
+2040A, Army,ARMY,07,Operational Systems Development,201,0310349A,Win-T Increment 2 - Initial Networking,Y,3800,U
+2040A, Army,ARMY,07,Operational Systems Development,202,0708045A,End Item Industrial Preparedness Activities,Y,48442,U
+2040A, Army,ARMY,07,Operational Systems Development,999,9999999999A,Classified Programs,Y,4536,U
+1319N, Navy,NAVY,01,Basic Research,1,0601103N,University Research Initiatives,Y,116196,U
+1319N, Navy,NAVY,01,Basic Research,2,0601152N,In-House Laboratory Independent Research,Y,19126,U
+1319N, Navy,NAVY,01,Basic Research,3,0601153N,Defense Research Sciences,Y,451606,U
+1319N, Navy,NAVY,02,Applied Research,4,0602114N,Power Projection Applied Research,Y,68723,U
+1319N, Navy,NAVY,02,Applied Research,5,0602123N,Force Protection Applied Research,Y,154963,U
+1319N, Navy,NAVY,02,Applied Research,6,0602131M,Marine Corps Landing Force Technology,Y,49001,U
+1319N, Navy,NAVY,02,Applied Research,7,0602235N,Common Picture Applied Research,Y,42551,U
+1319N, Navy,NAVY,02,Applied Research,8,0602236N,Warfighter Sustainment Applied Research,Y,45056,U
+1319N, Navy,NAVY,02,Applied Research,9,0602271N,Electromagnetic Systems Applied Research,Y,115051,U
+1319N, Navy,NAVY,02,Applied Research,10,0602435N,Ocean Warfighting Environment Applied Research,Y,42252,U
+1319N, Navy,NAVY,02,Applied Research,11,0602651M,Joint Non-Lethal Weapons Applied Research,Y,6119,U
+1319N, Navy,NAVY,02,Applied Research,12,0602747N,Undersea Warfare Applied Research,Y,123750,U
+1319N, Navy,NAVY,02,Applied Research,13,0602750N,Future Naval Capabilities Applied Research,Y,179686,U
+1319N, Navy,NAVY,02,Applied Research,14,0602782N,Mine and Expeditionary Warfare Applied Research,Y,37418,U
+1319N, Navy,NAVY,03,Advanced Technology Development,15,0603114N,Power Projection Advanced Technology,Y,37093,U
+1319N, Navy,NAVY,03,Advanced Technology Development,16,0603123N,Force Protection Advanced Technology,Y,38044,U
+1319N, Navy,NAVY,03,Advanced Technology Development,17,0603271N,Electromagnetic Systems Advanced Technology,Y,34899,U
+1319N, Navy,NAVY,03,Advanced Technology Development,18,0603640M,USMC Advanced Technology Demonstration (ATD),Y,137562,U
+1319N, Navy,NAVY,03,Advanced Technology Development,19,0603651M,Joint Non-Lethal Weapons Technology Development,Y,12745,U
+1319N, Navy,NAVY,03,Advanced Technology Development,20,0603673N,Future Naval Capabilities Advanced Technology Development,Y,258860,U
+1319N, Navy,NAVY,03,Advanced Technology Development,21,0603680N,Manufacturing Technology Program,Y,57074,U
+1319N, Navy,NAVY,03,Advanced Technology Development,22,0603729N,Warfighter Protection Advanced Technology,Y,4807,U
+1319N, Navy,NAVY,03,Advanced Technology Development,23,0603747N,Undersea Warfare Advanced Technology,Y,13748,U
+1319N, Navy,NAVY,03,Advanced Technology Development,24,0603758N,Navy Warfighting Experiments and Demonstrations,Y,66041,U
+1319N, Navy,NAVY,03,Advanced Technology Development,25,0603782N,Mine and Expeditionary Warfare Advanced Technology,Y,1991,U
+1319N, Navy,NAVY,04,Advanced Component Development & Prototypes,26,0603207N,Air/Ocean Tactical Applications,Y,41832,U
+1319N, Navy,NAVY,04,Advanced Component Development & Prototypes,27,0603216N,Aviation Survivability,Y,5404,U
+1319N, Navy,NAVY,04,Advanced Component Development & Prototypes,28,0603237N,Deployable Joint Command and  Control,Y,3086,U
+1319N, Navy,NAVY,04,Advanced Component Development & Prototypes,29,0603251N,Aircraft Systems,Y,11643,U
+1319N, Navy,NAVY,04,Advanced Component Development & Prototypes,30,0603254N,ASW Systems Development,Y,5555,U
+1319N, Navy,NAVY,04,Advanced Component Development & Prototypes,31,0603261N,Tactical Airborne Reconnaissance,Y,3087,U
+1319N, Navy,NAVY,04,Advanced Component Development & Prototypes,32,0603382N,Advanced Combat Systems Technology,Y,1636,U
+1319N, Navy,NAVY,04,Advanced Component Development & Prototypes,33,0603502N,Surface and Shallow Water Mine Countermeasures,Y,118588,U
+1319N, Navy,NAVY,04,Advanced Component Development & Prototypes,34,0603506N,Surface Ship Torpedo Defense,Y,77385,U
+1319N, Navy,NAVY,04,Advanced Component Development & Prototypes,35,0603512N,Carrier Systems Development,Y,8348,U
+1319N, Navy,NAVY,04,Advanced Component Development & Prototypes,36,0603525N,PILOT FISH,Y,123246,U
+1319N, Navy,NAVY,04,Advanced Component Development & Prototypes,37,0603527N,RETRACT LARCH,Y,28819,U
+1319N, Navy,NAVY,04,Advanced Component Development & Prototypes,38,0603536N,RETRACT JUNIPER,Y,112678,U
+1319N, Navy,NAVY,04,Advanced Component Development & Prototypes,39,0603542N,Radiological Control,Y,710,U
+1319N, Navy,NAVY,04,Advanced Component Development & Prototypes,40,0603553N,Surface ASW,Y,1096,U
+1319N, Navy,NAVY,04,Advanced Component Development & Prototypes,41,0603561N,Advanced Submarine System Development,Y,87160,U
+1319N, Navy,NAVY,04,Advanced Component Development & Prototypes,42,0603562N,Submarine Tactical Warfare Systems,Y,10371,U
+1319N, Navy,NAVY,04,Advanced Component Development & Prototypes,43,0603563N,Ship Concept Advanced Design,Y,11888,U
+1319N, Navy,NAVY,04,Advanced Component Development & Prototypes,44,0603564N,Ship Preliminary Design & Feasibility Studies,Y,4332,U
+1319N, Navy,NAVY,04,Advanced Component Development & Prototypes,45,0603570N,Advanced Nuclear Power Systems,Y,482040,U
+1319N, Navy,NAVY,04,Advanced Component Development & Prototypes,46,0603573N,Advanced Surface Machinery Systems,Y,25904,U
+1319N, Navy,NAVY,04,Advanced Component Development & Prototypes,47,0603576N,CHALK EAGLE,Y,511802,U
+1319N, Navy,NAVY,04,Advanced Component Development & Prototypes,48,0603581N,Littoral Combat Ship (LCS),Y,118416,U
+1319N, Navy,NAVY,04,Advanced Component Development & Prototypes,49,0603582N,Combat System Integration,Y,35901,U
+1319N, Navy,NAVY,04,Advanced Component Development & Prototypes,50,0603595N,Ohio Replacement,Y,971393,U
+1319N, Navy,NAVY,04,Advanced Component Development & Prototypes,51,0603596N,LCS Mission Modules,Y,206149,U
+1319N, Navy,NAVY,04,Advanced Component Development & Prototypes,52,0603597N,Automated Test and Re-Test (ATRT),Y,8000,U
+1319N, Navy,NAVY,04,Advanced Component Development & Prototypes,53,0603609N,Conventional Munitions,Y,7678,U
+1319N, Navy,NAVY,04,Advanced Component Development & Prototypes,54,0603611M,Marine Corps Assault Vehicles,Y,219082,U
+1319N, Navy,NAVY,04,Advanced Component Development & Prototypes,55,0603635M,Marine Corps Ground Combat/Support System,Y,623,U
+1319N, Navy,NAVY,04,Advanced Component Development & Prototypes,56,0603654N,Joint Service Explosive Ordnance Development,Y,18260,U
+1319N, Navy,NAVY,04,Advanced Component Development & Prototypes,57,0603658N,Cooperative Engagement,Y,76247,U
+1319N, Navy,NAVY,04,Advanced Component Development & Prototypes,58,0603713N,Ocean Engineering Technology Development,Y,4520,U
+1319N, Navy,NAVY,04,Advanced Component Development & Prototypes,59,0603721N,Environmental Protection,Y,20711,U
+1319N, Navy,NAVY,04,Advanced Component Development & Prototypes,60,0603724N,Navy Energy Program,Y,47761,U
+1319N, Navy,NAVY,04,Advanced Component Development & Prototypes,61,0603725N,Facilities Improvement,Y,5226,U
+1319N, Navy,NAVY,04,Advanced Component Development & Prototypes,62,0603734N,CHALK CORAL,Y,182771,U
+1319N, Navy,NAVY,04,Advanced Component Development & Prototypes,63,0603739N,Navy Logistic Productivity,Y,3866,U
+1319N, Navy,NAVY,04,Advanced Component Development & Prototypes,64,0603746N,RETRACT MAPLE,Y,360065,U
+1319N, Navy,NAVY,04,Advanced Component Development & Prototypes,65,0603748N,LINK PLUMERIA,Y,237416,U
+1319N, Navy,NAVY,04,Advanced Component Development & Prototypes,66,0603751N,RETRACT ELM,Y,37944,U
+1319N, Navy,NAVY,04,Advanced Component Development & Prototypes,67,0603764N,LINK EVERGREEN,Y,47312,U
+1319N, Navy,NAVY,04,Advanced Component Development & Prototypes,68,0603787N,Special Processes,Y,17408,U
+1319N, Navy,NAVY,04,Advanced Component Development & Prototypes,69,0603790N,NATO Research and Development,Y,9359,U
+1319N, Navy,NAVY,04,Advanced Component Development & Prototypes,70,0603795N,Land Attack Technology,Y,887,U
+1319N, Navy,NAVY,04,Advanced Component Development & Prototypes,71,0603851M,Joint Non-Lethal Weapons Testing,Y,29448,U
+1319N, Navy,NAVY,04,Advanced Component Development & Prototypes,72,0603860N,Joint Precision Approach and Landing Systems - Dem/Val,Y,91479,U
+1319N, Navy,NAVY,04,Advanced Component Development & Prototypes,73,0603925N,Directed Energy and Electric Weapon Systems,Y,67360,U
+1319N, Navy,NAVY,04,Advanced Component Development & Prototypes,74,0604112N,Gerald R. Ford Class Nuclear Aircraft Carrier (CVN 78 - 80),Y,48105,U
+1319N, Navy,NAVY,04,Advanced Component Development & Prototypes,75,0604122N,Remote Minehunting System (RMS),Y,20089,U
+1319N, Navy,NAVY,04,Advanced Component Development & Prototypes,76,0604272N,Tactical Air Directional Infrared Countermeasures (TADIRCM),Y,18969,U
+1319N, Navy,NAVY,04,Advanced Component Development & Prototypes,77,0604279N,ASE Self-Protection Optimization,Y,7874,U
+1319N, Navy,NAVY,04,Advanced Component Development & Prototypes,78,0604292N,MH-XX,Y,5298,U
+1319N, Navy,NAVY,04,Advanced Component Development & Prototypes,79,0604454N,LX (R),Y,46486,U
+1319N, Navy,NAVY,04,Advanced Component Development & Prototypes,80,0604653N,Joint Counter Radio Controlled IED Electronic Warfare (JCREW),Y,3817,U
+1319N, Navy,NAVY,04,Advanced Component Development & Prototypes,81,0604659N,Precision Strike Weapons Development Program,Y,9595,U
+1319N, Navy,NAVY,04,Advanced Component Development & Prototypes,82,0604707N,Space and Electronic Warfare (SEW) Architecture/Engineering Support,Y,29581,U
+1319N, Navy,NAVY,04,Advanced Component Development & Prototypes,83,0604786N,Offensive Anti-Surface Warfare Weapon Development,Y,285849,U
+1319N, Navy,NAVY,04,Advanced Component Development & Prototypes,84,0605812M,Joint Light Tactical Vehicle (JLTV) Engineering and Manufacturing Development Ph,Y,36656,U
+1319N, Navy,NAVY,04,Advanced Component Development & Prototypes,85,0303354N,ASW Systems Development - MIP,Y,9835,U
+1319N, Navy,NAVY,04,Advanced Component Development & Prototypes,86,0304270N,Electronic Warfare Development - MIP,Y,580,U
+1319N, Navy,NAVY,05,System Development & Demonstration,87,0603208N,Training System Aircraft,Y,21708,U
+1319N, Navy,NAVY,05,System Development & Demonstration,88,0604212N,Other Helo Development,Y,11101,U
+1319N, Navy,NAVY,05,System Development & Demonstration,89,0604214N,AV-8B Aircraft - Eng Dev,Y,39878,U
+1319N, Navy,NAVY,05,System Development & Demonstration,90,0604215N,Standards Development,Y,53059,U
+1319N, Navy,NAVY,05,System Development & Demonstration,91,0604216N,Multi-Mission Helicopter Upgrade Development,Y,21358,U
+1319N, Navy,NAVY,05,System Development & Demonstration,92,0604218N,Air/Ocean Equipment Engineering,Y,4515,U
+1319N, Navy,NAVY,05,System Development & Demonstration,93,0604221N,P-3 Modernization Program,Y,1514,U
+1319N, Navy,NAVY,05,System Development & Demonstration,94,0604230N,Warfare Support System,Y,5875,U
+1319N, Navy,NAVY,05,System Development & Demonstration,95,0604231N,Tactical Command System,Y,81553,U
+1319N, Navy,NAVY,05,System Development & Demonstration,96,0604234N,Advanced Hawkeye,Y,272149,U
+1319N, Navy,NAVY,05,System Development & Demonstration,97,0604245N,H-1 Upgrades,Y,27235,U
+1319N, Navy,NAVY,05,System Development & Demonstration,98,0604261N,Acoustic Search Sensors,Y,35763,U
+1319N, Navy,NAVY,05,System Development & Demonstration,99,0604262N,V-22A,Y,87918,U
+1319N, Navy,NAVY,05,System Development & Demonstration,100,0604264N,Air Crew Systems Development,Y,12679,U
+1319N, Navy,NAVY,05,System Development & Demonstration,101,0604269N,EA-18,Y,56921,U
+1319N, Navy,NAVY,05,System Development & Demonstration,102,0604270N,Electronic Warfare Development,Y,23685,U
+1319N, Navy,NAVY,05,System Development & Demonstration,103,0604273N,Executive Helo Development,Y,507093,U
+1319N, Navy,NAVY,05,System Development & Demonstration,104,0604274N,Next Generation Jammer (NGJ),Y,411767,U
+1319N, Navy,NAVY,05,System Development & Demonstration,105,0604280N,Joint Tactical Radio System - Navy (JTRS-Navy),Y,25071,U
+1319N, Navy,NAVY,05,System Development & Demonstration,106,0604307N,Surface Combatant Combat System Engineering,Y,443433,U
+1319N, Navy,NAVY,05,System Development & Demonstration,107,0604311N,LPD-17 Class Systems Integration,Y,747,U
+1319N, Navy,NAVY,05,System Development & Demonstration,108,0604329N,Small Diameter Bomb (SDB),Y,97002,U
+1319N, Navy,NAVY,05,System Development & Demonstration,109,0604366N,Standard Missile Improvements,Y,129649,U
+1319N, Navy,NAVY,05,System Development & Demonstration,110,0604373N,Airborne MCM,Y,11647,U
+1319N, Navy,NAVY,05,System Development & Demonstration,111,0604376M,Marine Air Ground Task Force (MAGTF) Electronic Warfare (EW) for Aviation,Y,2778,U
+1319N, Navy,NAVY,05,System Development & Demonstration,112,0604378N,Naval Integrated Fire Control - Counter Air Systems Engineering,Y,23695,U
+1319N, Navy,NAVY,05,System Development & Demonstration,113,0604404N,Unmanned Carrier Launched Airborne Surveillance and Strike (UCLASS) System,Y,134708,U
+1319N, Navy,NAVY,05,System Development & Demonstration,114,0604501N,Advanced Above Water Sensors,Y,43914,U
+1319N, Navy,NAVY,05,System Development & Demonstration,115,0604503N,SSN-688 and Trident Modernization,Y,109908,U
+1319N, Navy,NAVY,05,System Development & Demonstration,116,0604504N,Air Control,Y,57928,U
+1319N, Navy,NAVY,05,System Development & Demonstration,117,0604512N,Shipboard Aviation Systems,Y,120217,U
+1319N, Navy,NAVY,05,System Development & Demonstration,118,0604522N,Air and Missile Defense Radar (AMDR) System,Y,241754,U
+1319N, Navy,NAVY,05,System Development & Demonstration,119,0604558N,New Design SSN,Y,122556,U
+1319N, Navy,NAVY,05,System Development & Demonstration,120,0604562N,Submarine Tactical Warfare System,Y,48213,U
+1319N, Navy,NAVY,05,System Development & Demonstration,121,0604567N,Ship Contract Design/ Live Fire T&E,Y,49712,U
+1319N, Navy,NAVY,05,System Development & Demonstration,122,0604574N,Navy Tactical Computer Resources,Y,4096,U
+1319N, Navy,NAVY,05,System Development & Demonstration,123,0604580N,Virginia Payload Module (VPM),Y,167719,U
+1319N, Navy,NAVY,05,System Development & Demonstration,124,0604601N,Mine Development,Y,15122,U
+1319N, Navy,NAVY,05,System Development & Demonstration,125,0604610N,Lightweight Torpedo Development,Y,33738,U
+1319N, Navy,NAVY,05,System Development & Demonstration,126,0604654N,Joint Service Explosive Ordnance Development,Y,8123,U
+1319N, Navy,NAVY,05,System Development & Demonstration,127,0604703N,Personnel Training Simulation and Human Factors,Y,7686,U
+1319N, Navy,NAVY,05,System Development & Demonstration,128,0604727N,Joint Standoff Weapon Systems,Y,405,U
+1319N, Navy,NAVY,05,System Development & Demonstration,129,0604755N,Ship Self Defense (Detect & Control),Y,153836,U
+1319N, Navy,NAVY,05,System Development & Demonstration,130,0604756N,Ship Self Defense (Engage: Hard Kill),Y,99619,U
+1319N, Navy,NAVY,05,System Development & Demonstration,131,0604757N,Ship Self Defense (Engage: Soft Kill/EW),Y,116798,U
+1319N, Navy,NAVY,05,System Development & Demonstration,132,0604761N,Intelligence Engineering,Y,4353,U
+1319N, Navy,NAVY,05,System Development & Demonstration,133,0604771N,Medical Development,Y,9443,U
+1319N, Navy,NAVY,05,System Development & Demonstration,134,0604777N,Navigation/ID System,Y,32469,U
+1319N, Navy,NAVY,05,System Development & Demonstration,135,0604800M,Joint Strike Fighter (JSF) - EMD,Y,537901,U
+1319N, Navy,NAVY,05,System Development & Demonstration,136,0604800N,Joint Strike Fighter (JSF) - EMD,Y,504736,U
+1319N, Navy,NAVY,05,System Development & Demonstration,137,0604810M,Joint Strike Fighter Follow On Development - Marine Corps,Y,59265,U
+1319N, Navy,NAVY,05,System Development & Demonstration,138,0604810N,Joint Strike Fighter Follow On Development - Navy,Y,47579,U
+1319N, Navy,NAVY,05,System Development & Demonstration,139,0605013M,Information Technology Development,Y,5914,U
+1319N, Navy,NAVY,05,System Development & Demonstration,140,0605013N,Information Technology Development,Y,89711,U
+1319N, Navy,NAVY,05,System Development & Demonstration,141,0605212N,CH-53K RDTE,Y,632092,U
+1319N, Navy,NAVY,05,System Development & Demonstration,142,0605220N,Ship to Shore Connector (SSC),Y,7778,U
+1319N, Navy,NAVY,05,System Development & Demonstration,143,0605450N,Joint Air-to-Ground Missile (JAGM),Y,25898,U
+1319N, Navy,NAVY,05,System Development & Demonstration,144,0605500N,Multi-mission Maritime Aircraft (MMA),Y,247929,U
+1319N, Navy,NAVY,05,System Development & Demonstration,145,0204202N,DDG-1000,Y,103199,U
+1319N, Navy,NAVY,05,System Development & Demonstration,146,0304231N,Tactical Command System - MIP,Y,998,U
+1319N, Navy,NAVY,05,System Development & Demonstration,147,0304785N,Tactical Cryptologic Systems,Y,17785,U
+1319N, Navy,NAVY,05,System Development & Demonstration,148,0305124N,Special Applications Program,Y,35905,U
+1319N, Navy,NAVY,06,Management Support,149,0604256N,Threat Simulator Development,Y,30769,U
+1319N, Navy,NAVY,06,Management Support,150,0604258N,Target Systems Development,Y,112606,U
+1319N, Navy,NAVY,06,Management Support,151,0604759N,Major T&E Investment,Y,61234,U
+1319N, Navy,NAVY,06,Management Support,152,0605126N,Joint Theater Air and Missile Defense Organization,Y,6995,U
+1319N, Navy,NAVY,06,Management Support,153,0605152N,Studies and Analysis Support - Navy,Y,4011,U
+1319N, Navy,NAVY,06,Management Support,154,0605154N,Center for Naval Analyses,Y,48563,U
+1319N, Navy,NAVY,06,Management Support,155,0605285N,Next Generation Fighter,Y,5000,U
+1319N, Navy,NAVY,06,Management Support,157,0605804N,Technical Information Services,Y,925,U
+1319N, Navy,NAVY,06,Management Support,158,0605853N,Management Technical  & International Support,Y,78143,U
+1319N, Navy,NAVY,06,Management Support,159,0605856N,Strategic Technical Support,Y,3258,U
+1319N, Navy,NAVY,06,Management Support,160,0605861N,RDT&E Science and Technology Management,Y,76948,U
+1319N, Navy,NAVY,06,Management Support,161,0605863N,RDT&E Ship and Aircraft Support,Y,132122,U
+1319N, Navy,NAVY,06,Management Support,162,0605864N,Test and Evaluation Support,Y,351912,U
+1319N, Navy,NAVY,06,Management Support,163,0605865N,Operational Test and Evaluation Capability,Y,17985,U
+1319N, Navy,NAVY,06,Management Support,164,0605866N,Navy Space and Electronic Warfare (SEW) Support,Y,5316,U
+1319N, Navy,NAVY,06,Management Support,165,0605867N,SEW Surveillance/Reconnaissance Support,Y,6519,U
+1319N, Navy,NAVY,06,Management Support,166,0605873M,Marine Corps Program Wide Support,Y,13649,U
+1319N, Navy,NAVY,07,Operational Systems Development,174,0101221N,Strategic Sub & Weapons System Support,Y,107039,U
+1319N, Navy,NAVY,07,Operational Systems Development,175,0101224N,SSBN Security Technology Program,Y,46506,U
+1319N, Navy,NAVY,07,Operational Systems Development,176,0101226N,Submarine Acoustic Warfare Development,Y,3900,U
+1319N, Navy,NAVY,07,Operational Systems Development,177,0101402N,Navy Strategic Communications,Y,16569,U
+1319N, Navy,NAVY,07,Operational Systems Development,178,0203761N,Rapid Technology Transition (RTT),Y,18632,U
+1319N, Navy,NAVY,07,Operational Systems Development,179,0204136N,F/A-18 Squadrons,Y,133265,U
+1319N, Navy,NAVY,07,Operational Systems Development,181,0204163N,Fleet Telecommunications (Tactical),Y,62867,U
+1319N, Navy,NAVY,07,Operational Systems Development,182,0204228N,Surface Support,Y,36045,U
+1319N, Navy,NAVY,07,Operational Systems Development,183,0204229N,Tomahawk and Tomahawk Mission Planning Center (TMPC),Y,25228,U
+1319N, Navy,NAVY,07,Operational Systems Development,184,0204311N,Integrated Surveillance System,Y,54218,U
+1319N, Navy,NAVY,07,Operational Systems Development,185,0204413N,Amphibious Tactical Support Units (Displacement Craft),Y,11335,U
+1319N, Navy,NAVY,07,Operational Systems Development,186,0204460M,Ground/Air Task Oriented Radar (G/ATOR),Y,80129,U
+1319N, Navy,NAVY,07,Operational Systems Development,187,0204571N,Consolidated Training Systems Development,Y,39087,U
+1319N, Navy,NAVY,07,Operational Systems Development,188,0204574N,Cryptologic Direct Support,Y,1915,U
+1319N, Navy,NAVY,07,Operational Systems Development,189,0204575N,Electronic Warfare (EW) Readiness Support,Y,46609,U
+1319N, Navy,NAVY,07,Operational Systems Development,190,0205601N,HARM Improvement,Y,52708,U
+1319N, Navy,NAVY,07,Operational Systems Development,191,0205604N,Tactical Data Links,Y,149997,U
+1319N, Navy,NAVY,07,Operational Systems Development,192,0205620N,Surface ASW Combat System Integration,Y,24460,U
+1319N, Navy,NAVY,07,Operational Systems Development,193,0205632N,MK-48 ADCAP,Y,42206,U
+1319N, Navy,NAVY,07,Operational Systems Development,194,0205633N,Aviation Improvements,Y,117759,U
+1319N, Navy,NAVY,07,Operational Systems Development,195,0205675N,Operational Nuclear Power Systems,Y,101323,U
+1319N, Navy,NAVY,07,Operational Systems Development,196,0206313M,Marine Corps Communications Systems,Y,67763,U
+1319N, Navy,NAVY,07,Operational Systems Development,197,0206335M,Common Aviation Command and Control System (CAC2S),Y,13431,U
+1319N, Navy,NAVY,07,Operational Systems Development,198,0206623M,Marine Corps Ground Combat/Supporting Arms Systems,Y,56769,U
+1319N, Navy,NAVY,07,Operational Systems Development,199,0206624M,Marine Corps Combat Services Support,Y,20729,U
+1319N, Navy,NAVY,07,Operational Systems Development,200,0206625M,USMC Intelligence/Electronic Warfare Systems (MIP),Y,13152,U
+1319N, Navy,NAVY,07,Operational Systems Development,201,0206629M,Amphibious Assault Vehicle,Y,48535,U
+1319N, Navy,NAVY,07,Operational Systems Development,202,0207161N,Tactical AIM Missiles,Y,76016,U
+1319N, Navy,NAVY,07,Operational Systems Development,203,0207163N,Advanced Medium Range Air-to-Air Missile (AMRAAM),Y,32172,U
+1319N, Navy,NAVY,07,Operational Systems Development,208,0303109N,Satellite Communications (SPACE),Y,53239,U
+1319N, Navy,NAVY,07,Operational Systems Development,209,0303138N,Consolidated Afloat Network Enterprise Services (CANES),Y,21677,U
+1319N, Navy,NAVY,07,Operational Systems Development,210,0303140N,Information Systems Security Program,Y,28102,U
+1319N, Navy,NAVY,07,Operational Systems Development,211,0303150M,WWMCCS/Global Command and Control System,Y,294,U
+1319N, Navy,NAVY,07,Operational Systems Development,213,0305160N,Navy Meteorological and Ocean Sensors-Space (METOC),Y,599,U
+1319N, Navy,NAVY,07,Operational Systems Development,214,0305192N,Military Intelligence Program (MIP) Activities,Y,6207,U
+1319N, Navy,NAVY,07,Operational Systems Development,215,0305204N,Tactical Unmanned Aerial Vehicles,Y,8550,U
+1319N, Navy,NAVY,07,Operational Systems Development,216,0305205N,UAS Integration and Interoperability,Y,41831,U
+1319N, Navy,NAVY,07,Operational Systems Development,217,0305208M,Distributed Common Ground/Surface Systems,Y,1105,U
+1319N, Navy,NAVY,07,Operational Systems Development,218,0305208N,Distributed Common Ground/Surface Systems,Y,33149,U
+1319N, Navy,NAVY,07,Operational Systems Development,219,0305220N,RQ-4 UAV,Y,227188,U
+1319N, Navy,NAVY,07,Operational Systems Development,220,0305231N,MQ-8 UAV,Y,52770,U
+1319N, Navy,NAVY,07,Operational Systems Development,221,0305232M,RQ-11 UAV,Y,635,U
+1319N, Navy,NAVY,07,Operational Systems Development,222,0305233N,RQ-7 UAV,Y,688,U
+1319N, Navy,NAVY,07,Operational Systems Development,223,0305234N,Small (Level 0) Tactical UAS (STUASL0),Y,4647,U
+1319N, Navy,NAVY,07,Operational Systems Development,224,0305239M,RQ-21A,Y,6435,U
+1319N, Navy,NAVY,07,Operational Systems Development,225,0305241N,Multi-Intelligence Sensor Development,Y,49145,U
+1319N, Navy,NAVY,07,Operational Systems Development,226,0305242M,Unmanned Aerial Systems (UAS) Payloads (MIP),Y,9246,U
+1319N, Navy,NAVY,07,Operational Systems Development,227,0305421N,RQ-4 Modernization,Y,150854,U
+1319N, Navy,NAVY,07,Operational Systems Development,228,0308601N,Modeling and Simulation Support,Y,4757,U
+1319N, Navy,NAVY,07,Operational Systems Development,229,0702207N,Depot Maintenance (Non-IF),Y,24185,U
+1319N, Navy,NAVY,07,Operational Systems Development,231,0708730N,Maritime Technology (MARITECH),Y,4321,U
+1319N, Navy,NAVY,07,Operational Systems Development,999,9999999999N,Classified Programs,Y,1287932,U
+3600F, AF,AF,01,Basic Research,1,0601102F,Defense Research Sciences,Y,329721,U
+3600F, AF,AF,01,Basic Research,2,0601103F,University Research Initiatives,Y,141754,U
+3600F, AF,AF,01,Basic Research,3,0601108F,High Energy Laser Research Initiatives,Y,13778,U
+3600F, AF,AF,02,Applied Research,4,0602102F,Materials,Y,125234,U
+3600F, AF,AF,02,Applied Research,5,0602201F,Aerospace Vehicle Technologies,Y,123438,U
+3600F, AF,AF,02,Applied Research,6,0602202F,Human Effectiveness Applied Research,Y,100530,U
+3600F, AF,AF,02,Applied Research,7,0602203F,Aerospace Propulsion,Y,182326,U
+3600F, AF,AF,02,Applied Research,8,0602204F,Aerospace Sensors,Y,147291,U
+3600F, AF,AF,02,Applied Research,9,0602601F,Space Technology,Y,116122,U
+3600F, AF,AF,02,Applied Research,10,0602602F,Conventional Munitions,Y,99851,U
+3600F, AF,AF,02,Applied Research,11,0602605F,Directed Energy Technology,Y,115604,U
+3600F, AF,AF,02,Applied Research,12,0602788F,Dominant Information Sciences and Methods,Y,164909,U
+3600F, AF,AF,02,Applied Research,13,0602890F,High Energy Laser Research,Y,42037,U
+3600F, AF,AF,03,Advanced Technology Development,14,0603112F,Advanced Materials for Weapon Systems,Y,37665,U
+3600F, AF,AF,03,Advanced Technology Development,15,0603199F,Sustainment Science and Technology (S&T),Y,18378,U
+3600F, AF,AF,03,Advanced Technology Development,16,0603203F,Advanced Aerospace Sensors,Y,42183,U
+3600F, AF,AF,03,Advanced Technology Development,17,0603211F,Aerospace Technology Dev/Demo,Y,100733,U
+3600F, AF,AF,03,Advanced Technology Development,18,0603216F,Aerospace Propulsion and Power Technology,Y,168821,U
+3600F, AF,AF,03,Advanced Technology Development,19,0603270F,Electronic Combat Technology,Y,47032,U
+3600F, AF,AF,03,Advanced Technology Development,20,0603401F,Advanced Spacecraft Technology,Y,54897,U
+3600F, AF,AF,03,Advanced Technology Development,21,0603444F,Maui Space Surveillance System (MSSS),Y,12853,U
+3600F, AF,AF,03,Advanced Technology Development,22,0603456F,Human Effectiveness Advanced Technology Development,Y,25448,U
+3600F, AF,AF,03,Advanced Technology Development,23,0603601F,Conventional Weapons Technology,Y,48536,U
+3600F, AF,AF,03,Advanced Technology Development,24,0603605F,Advanced Weapons Technology,Y,30195,U
+3600F, AF,AF,03,Advanced Technology Development,25,0603680F,Manufacturing Technology Program,Y,42630,U
+3600F, AF,AF,03,Advanced Technology Development,26,0603788F,Battlespace Knowledge Development and Demonstration,Y,46414,U
+3600F, AF,AF,04,Advanced Component Development & Prototypes,27,0603260F,Intelligence Advanced Development,Y,5032,U
+3600F, AF,AF,04,Advanced Component Development & Prototypes,29,0603438F,Space Control Technology,Y,4070,U
+3600F, AF,AF,04,Advanced Component Development & Prototypes,30,0603742F,Combat Identification Technology,Y,21790,U
+3600F, AF,AF,04,Advanced Component Development & Prototypes,31,0603790F,NATO Research and Development,Y,4736,U
+3600F, AF,AF,04,Advanced Component Development & Prototypes,33,0603830F,Space Security and Defense Program,Y,30771,U
+3600F, AF,AF,04,Advanced Component Development & Prototypes,34,0603851F,Intercontinental Ballistic Missile - Dem/Val,Y,39765,U
+3600F, AF,AF,04,Advanced Component Development & Prototypes,36,0604015F,Long Range Strike,Y,1246228,U
+3600F, AF,AF,04,Advanced Component Development & Prototypes,37,0604317F,Technology Transfer,Y,3512,U
+3600F, AF,AF,04,Advanced Component Development & Prototypes,38,0604327F,Hard and Deeply Buried Target Defeat System (HDBTDS) Program,Y,54637,U
+3600F, AF,AF,04,Advanced Component Development & Prototypes,40,0604422F,Weather System Follow-on,Y,76108,U
+3600F, AF,AF,04,Advanced Component Development & Prototypes,44,0604857F,Operationally Responsive Space,Y,6457,U
+3600F, AF,AF,04,Advanced Component Development & Prototypes,45,0604858F,Tech Transition Program,Y,246514,U
+3600F, AF,AF,04,Advanced Component Development & Prototypes,46,0605230F,Ground Based Strategic Deterrent,Y,75166,U
+3600F, AF,AF,04,Advanced Component Development & Prototypes,49,0207110F,Next Generation Air Dominance,Y,8830,U
+3600F, AF,AF,04,Advanced Component Development & Prototypes,50,0207455F,Three Dimensional Long-Range Radar (3DELRR),Y,14939,U
+3600F, AF,AF,04,Advanced Component Development & Prototypes,51,0305164F,NAVSTAR Global Positioning System (User Equipment) (SPACE),Y,142288,U
+3600F, AF,AF,04,Advanced Component Development & Prototypes,52,0306250F,Cyber Operations Technology Development,Y,81732,U
+3600F, AF,AF,05,System Development & Demonstration,55,0604270F,Electronic Warfare Development,Y,929,U
+3600F, AF,AF,05,System Development & Demonstration,56,0604281F,Tactical Data Networks Enterprise,Y,60256,U
+3600F, AF,AF,05,System Development & Demonstration,57,0604287F,Physical Security Equipment,Y,5973,U
+3600F, AF,AF,05,System Development & Demonstration,58,0604329F,Small Diameter Bomb (SDB)  - EMD,Y,32624,U
+3600F, AF,AF,05,System Development & Demonstration,59,0604421F,Counterspace Systems,Y,24208,U
+3600F, AF,AF,05,System Development & Demonstration,60,0604425F,Space Situation Awareness Systems,Y,32374,U
+3600F, AF,AF,05,System Development & Demonstration,61,0604426F,Space Fence,Y,243909,U
+3600F, AF,AF,05,System Development & Demonstration,62,0604429F,Airborne Electronic Attack,Y,8358,U
+3600F, AF,AF,05,System Development & Demonstration,63,0604441F,Space Based Infrared System (SBIRS) High EMD,Y,292235,U
+3600F, AF,AF,05,System Development & Demonstration,64,0604602F,Armament/Ordnance Development,Y,40154,U
+3600F, AF,AF,05,System Development & Demonstration,65,0604604F,Submunitions,Y,2506,U
+3600F, AF,AF,05,System Development & Demonstration,66,0604617F,Agile Combat Support,Y,57678,U
+3600F, AF,AF,05,System Development & Demonstration,67,0604706F,Life Support Systems,Y,8187,U
+3600F, AF,AF,05,System Development & Demonstration,68,0604735F,Combat Training Ranges,Y,15795,U
+3600F, AF,AF,05,System Development & Demonstration,69,0604800F,F-35 - EMD,Y,589441,U
+3600F, AF,AF,05,System Development & Demonstration,71,0604853F,Evolved Expendable Launch Vehicle Program (SPACE) - EMD,Y,84438,U
+3600F, AF,AF,05,System Development & Demonstration,72,0604932F,Long Range Standoff Weapon,Y,36643,U
+3600F, AF,AF,05,System Development & Demonstration,73,0604933F,ICBM Fuze Modernization,Y,142551,U
+3600F, AF,AF,05,System Development & Demonstration,74,0605213F,F-22 Modernization Increment 3.2B,Y,140640,U
+3600F, AF,AF,05,System Development & Demonstration,75,0605214F,Ground Attack Weapons Fuze Development,Y,3598,U
+3600F, AF,AF,05,System Development & Demonstration,76,0605221F,KC-46,Y,602364,U
+3600F, AF,AF,05,System Development & Demonstration,77,0605223F,Advanced Pilot Training,Y,11395,U
+3600F, AF,AF,05,System Development & Demonstration,78,0605229F,CSAR HH-60 Recapitalization,Y,156085,U
+3600F, AF,AF,05,System Development & Demonstration,80,0605431F,Advanced EHF MILSATCOM (SPACE),Y,228230,U
+3600F, AF,AF,05,System Development & Demonstration,81,0605432F,Polar MILSATCOM (SPACE),Y,72084,U
+3600F, AF,AF,05,System Development & Demonstration,82,0605433F,Wideband Global SATCOM (SPACE),Y,56343,U
+3600F, AF,AF,05,System Development & Demonstration,83,0605458F,Air & Space Ops Center 10.2 RDT&E,Y,47629,U
+3600F, AF,AF,05,System Development & Demonstration,84,0605931F,B-2 Defensive Management System,Y,271961,U
+3600F, AF,AF,05,System Development & Demonstration,85,0101125F,Nuclear Weapons Modernization,Y,212121,U
+3600F, AF,AF,05,System Development & Demonstration,86,0207171F,F-15 EPAWSS,Y,186481,U
+3600F, AF,AF,05,System Development & Demonstration,87,0207701F,Full Combat Mission Training,Y,18082,U
+3600F, AF,AF,05,System Development & Demonstration,88,0305176F,Combat Survivor Evader Locator,Y,993,U
+3600F, AF,AF,05,System Development & Demonstration,89,0307581F,NextGen JSTARS,Y,44343,U
+3600F, AF,AF,05,System Development & Demonstration,91,0401319F,Presidential Aircraft Replacement (PAR),Y,102620,U
+3600F, AF,AF,05,System Development & Demonstration,92,0701212F,Automated Test Systems,Y,14563,U
+3600F, AF,AF,06,Management Support,93,0604256F,Threat Simulator Development,Y,23844,U
+3600F, AF,AF,06,Management Support,94,0604759F,Major T&E Investment,Y,68302,U
+3600F, AF,AF,06,Management Support,95,0605101F,RAND Project Air Force,Y,34918,U
+3600F, AF,AF,06,Management Support,97,0605712F,Initial Operational Test & Evaluation,Y,10476,U
+3600F, AF,AF,06,Management Support,98,0605807F,Test and Evaluation Support,Y,673908,U
+3600F, AF,AF,06,Management Support,99,0605860F,Rocket Systems Launch Program (SPACE),Y,21858,U
+3600F, AF,AF,06,Management Support,100,0605864F,Space Test Program (STP),Y,28228,U
+3600F, AF,AF,06,Management Support,101,0605976F,Facilities Restoration and Modernization - Test and Evaluation Support,Y,40518,U
+3600F, AF,AF,06,Management Support,102,0605978F,Facilities Sustainment - Test and Evaluation Support,Y,27895,U
+3600F, AF,AF,06,Management Support,103,0606017F,Requirements Analysis and Maturation,Y,16507,U
+3600F, AF,AF,06,Management Support,104,0606116F,Space Test and Training Range Development,Y,18997,U
+3600F, AF,AF,06,Management Support,106,0606392F,Space and Missile Center (SMC) Civilian Workforce,Y,185305,U
+3600F, AF,AF,06,Management Support,107,0308602F,ENTEPRISE INFORMATION SERVICES (EIS),Y,4841,U
+3600F, AF,AF,06,Management Support,108,0702806F,Acquisition and Management Support,Y,15357,U
+3600F, AF,AF,06,Management Support,109,0804731F,General Skill Training,Y,1315,U
+3600F, AF,AF,06,Management Support,111,1001004F,International Activities,Y,2315,U
+3600F, AF,AF,07,Operational Systems Development,112,0603423F,Global Positioning System III - Operational Control Segment,Y,350232,U
+3600F, AF,AF,07,Operational Systems Development,113,0604233F,Specialized Undergraduate Flight Training,Y,10465,U
+3600F, AF,AF,07,Operational Systems Development,114,0604445F,Wide Area Surveillance,Y,24577,U
+3600F, AF,AF,07,Operational Systems Development,117,0605018F,AF Integrated Personnel and Pay System (AF-IPPS),Y,69694,U
+3600F, AF,AF,07,Operational Systems Development,118,0605024F,Anti-Tamper Technology Executive Agency,Y,26718,U
+3600F, AF,AF,07,Operational Systems Development,119,0605278F,HC/MC-130 Recap RDT&E,Y,10807,U
+3600F, AF,AF,07,Operational Systems Development,121,0101113F,B-52 Squadrons,Y,74520,U
+3600F, AF,AF,07,Operational Systems Development,122,0101122F,Air-Launched Cruise Missile (ALCM),Y,451,U
+3600F, AF,AF,07,Operational Systems Development,123,0101126F,B-1B Squadrons,Y,2245,U
+3600F, AF,AF,07,Operational Systems Development,124,0101127F,B-2 Squadrons,Y,108183,U
+3600F, AF,AF,07,Operational Systems Development,125,0101213F,Minuteman Squadrons,Y,178929,U
+3600F, AF,AF,07,Operational Systems Development,126,0101313F,Strat War Planning System - USSTRATCOM,Y,28481,U
+3600F, AF,AF,07,Operational Systems Development,127,0101314F,Night Fist - USSTRATCOM,Y,87,U
+3600F, AF,AF,07,Operational Systems Development,128,0101316F,Worldwide Joint Strategic Communications,Y,5315,U
+3600F, AF,AF,07,Operational Systems Development,131,0105921F,Service Support to STRATCOM - Space Activities,Y,8090,U
+3600F, AF,AF,07,Operational Systems Development,132,0205219F,MQ-9 UAV,Y,123439,U
+3600F, AF,AF,07,Operational Systems Development,133,0205671F,Joint Counter RCIED Electronic Warfare,Y,300,U
+3600F, AF,AF,07,Operational Systems Development,135,0207133F,F-16 Squadrons,Y,148297,U
+3600F, AF,AF,07,Operational Systems Development,136,0207134F,F-15E Squadrons,Y,179283,U
+3600F, AF,AF,07,Operational Systems Development,137,0207136F,Manned Destructive Suppression,Y,14860,U
+3600F, AF,AF,07,Operational Systems Development,138,0207138F,F-22A Squadrons,Y,262552,U
+3600F, AF,AF,07,Operational Systems Development,139,0207142F,F-35 Squadrons,Y,115395,U
+3600F, AF,AF,07,Operational Systems Development,140,0207161F,Tactical AIM Missiles,Y,43360,U
+3600F, AF,AF,07,Operational Systems Development,141,0207163F,Advanced Medium Range Air-to-Air Missile (AMRAAM),Y,46160,U
+3600F, AF,AF,07,Operational Systems Development,143,0207224F,Combat Rescue and Recovery,Y,412,U
+3600F, AF,AF,07,Operational Systems Development,144,0207227F,Combat Rescue - Pararescue,Y,657,U
+3600F, AF,AF,07,Operational Systems Development,145,0207247F,AF TENCAP,Y,31428,U
+3600F, AF,AF,07,Operational Systems Development,146,0207249F,Precision Attack Systems Procurement,Y,1105,U
+3600F, AF,AF,07,Operational Systems Development,147,0207253F,Compass Call,Y,14249,U
+3600F, AF,AF,07,Operational Systems Development,148,0207268F,Aircraft Engine Component Improvement Program,Y,103942,U
+3600F, AF,AF,07,Operational Systems Development,149,0207325F,Joint Air-to-Surface Standoff Missile (JASSM),Y,12793,U
+3600F, AF,AF,07,Operational Systems Development,150,0207410F,Air & Space Operations Center (AOC),Y,21193,U
+3600F, AF,AF,07,Operational Systems Development,151,0207412F,Control and Reporting Center (CRC),Y,559,U
+3600F, AF,AF,07,Operational Systems Development,152,0207417F,Airborne Warning and Control System (AWACS),Y,161812,U
+3600F, AF,AF,07,Operational Systems Development,153,0207418F,Tactical Airborne Control Systems,Y,6001,U
+3600F, AF,AF,07,Operational Systems Development,155,0207431F,Combat Air Intelligence System Activities,Y,7793,U
+3600F, AF,AF,07,Operational Systems Development,156,0207444F,Tactical Air Control Party-Mod,Y,12465,U
+3600F, AF,AF,07,Operational Systems Development,157,0207448F,C2ISR Tactical Data Link,Y,1681,U
+3600F, AF,AF,07,Operational Systems Development,159,0207452F,DCAPES,Y,16796,U
+3600F, AF,AF,07,Operational Systems Development,161,0207590F,Seek Eagle,Y,21564,U
+3600F, AF,AF,07,Operational Systems Development,162,0207601F,USAF Modeling and Simulation,Y,24994,U
+3600F, AF,AF,07,Operational Systems Development,163,0207605F,Wargaming and Simulation Centers,Y,6035,U
+3600F, AF,AF,07,Operational Systems Development,164,0207697F,Distributed Training and Exercises,Y,4358,U
+3600F, AF,AF,07,Operational Systems Development,165,0208006F,Mission Planning Systems,Y,55835,U
+3600F, AF,AF,07,Operational Systems Development,167,0208087F,AF Offensive Cyberspace Operations,Y,12874,U
+3600F, AF,AF,07,Operational Systems Development,168,0208088F,AF Defensive Cyberspace Operations,Y,7681,U
+3600F, AF,AF,07,Operational Systems Development,171,0301017F,Global Sensor Integrated on Network (GSIN),Y,5974,U
+3600F, AF,AF,07,Operational Systems Development,177,0301400F,Space Superiority Intelligence,Y,13815,U
+3600F, AF,AF,07,Operational Systems Development,178,0302015F,E-4B National Airborne Operations Center (NAOC),Y,80360,U
+3600F, AF,AF,07,Operational Systems Development,179,0303001F,Family of Advanced BLoS Terminals (FAB-T),Y,3907,U
+3600F, AF,AF,07,Operational Systems Development,180,0303131F,Minimum Essential Emergency Communications Network (MEECN),Y,75062,U
+3600F, AF,AF,07,Operational Systems Development,181,0303140F,Information Systems Security Program,Y,46599,U
+3600F, AF,AF,07,Operational Systems Development,183,0303142F,Global Force Management - Data Initiative,Y,2470,U
+3600F, AF,AF,07,Operational Systems Development,186,0304260F,Airborne SIGINT Enterprise,Y,112775,U
+3600F, AF,AF,07,Operational Systems Development,189,0305099F,Global Air Traffic Management (GATM),Y,4235,U
+3600F, AF,AF,07,Operational Systems Development,192,0305110F,Satellite Control Network (SPACE),Y,7879,U
+3600F, AF,AF,07,Operational Systems Development,193,0305111F,Weather Service,Y,29955,U
+3600F, AF,AF,07,Operational Systems Development,194,0305114F,Air Traffic Control Approach and Landing System (ATCALS),Y,21485,U
+3600F, AF,AF,07,Operational Systems Development,195,0305116F,Aerial Targets,Y,2515,U
+3600F, AF,AF,07,Operational Systems Development,198,0305128F,Security and Investigative Activities,Y,472,U
+3600F, AF,AF,07,Operational Systems Development,199,0305145F,Arms Control Implementation,Y,12137,U
+3600F, AF,AF,07,Operational Systems Development,200,0305146F,Defense Joint Counterintelligence Activities,Y,361,U
+3600F, AF,AF,07,Operational Systems Development,203,0305173F,Space and Missile Test and Evaluation Center,Y,3162,U
+3600F, AF,AF,07,Operational Systems Development,204,0305174F,Space Innovation Integration and Rapid Technology Development,Y,1543,U
+3600F, AF,AF,07,Operational Systems Development,205,0305179F,Integrated Broadcast Service (IBS),Y,7860,U
+3600F, AF,AF,07,Operational Systems Development,206,0305182F,Spacelift Range System  (SPACE),Y,6902,U
+3600F, AF,AF,07,Operational Systems Development,207,0305202F,Dragon U-2,Y,34471,U
+3600F, AF,AF,07,Operational Systems Development,209,0305206F,Airborne Reconnaissance Systems,Y,50154,U
+3600F, AF,AF,07,Operational Systems Development,210,0305207F,Manned Reconnaissance Systems,Y,13245,U
+3600F, AF,AF,07,Operational Systems Development,211,0305208F,Distributed Common Ground/Surface Systems,Y,22784,U
+3600F, AF,AF,07,Operational Systems Development,212,0305219F,MQ-1 Predator A UAV,Y,716,U
+3600F, AF,AF,07,Operational Systems Development,213,0305220F,RQ-4 UAV,Y,208053,U
+3600F, AF,AF,07,Operational Systems Development,214,0305221F,Network-Centric Collaborative Targeting,Y,21587,U
+3600F, AF,AF,07,Operational Systems Development,215,0305236F,Common Data Link Executive Agent (CDL EA),Y,43986,U
+3600F, AF,AF,07,Operational Systems Development,216,0305238F,NATO AGS,Y,197486,U
+3600F, AF,AF,07,Operational Systems Development,217,0305240F,Support to DCGS Enterprise,Y,28434,U
+3600F, AF,AF,07,Operational Systems Development,218,0305265F,GPS III Space Segment,Y,180902,U
+3600F, AF,AF,07,Operational Systems Development,220,0305614F,JSPOC Mission System,Y,81911,U
+3600F, AF,AF,07,Operational Systems Development,221,0305881F,Rapid Cyber Acquisition,Y,3149,U
+3600F, AF,AF,07,Operational Systems Development,222,0305913F,NUDET Detection System (SPACE),Y,14447,U
+3600F, AF,AF,07,Operational Systems Development,223,0305940F,Space Situation Awareness Operations,Y,20077,U
+3600F, AF,AF,07,Operational Systems Development,225,0308699F,Shared Early Warning (SEW),Y,853,U
+3600F, AF,AF,07,Operational Systems Development,226,0401115F,C-130 Airlift Squadron,Y,33962,U
+3600F, AF,AF,07,Operational Systems Development,227,0401119F,C-5 Airlift Squadrons (IF),Y,42864,U
+3600F, AF,AF,07,Operational Systems Development,228,0401130F,C-17 Aircraft (IF),Y,54807,U
+3600F, AF,AF,07,Operational Systems Development,229,0401132F,C-130J Program,Y,31010,U
+3600F, AF,AF,07,Operational Systems Development,230,0401134F,Large Aircraft IR Countermeasures (LAIRCM),Y,6802,U
+3600F, AF,AF,07,Operational Systems Development,231,0401219F,KC-10s,Y,1799,U
+3600F, AF,AF,07,Operational Systems Development,232,0401314F,Operational Support Airlift,Y,48453,U
+3600F, AF,AF,07,Operational Systems Development,233,0401318F,CV-22,Y,36576,U
+3600F, AF,AF,07,Operational Systems Development,235,0408011F,Special Tactics / Combat Control,Y,7963,U
+3600F, AF,AF,07,Operational Systems Development,236,0702207F,Depot Maintenance (Non-IF),Y,1525,U
+3600F, AF,AF,07,Operational Systems Development,237,0708610F,Logistics Information Technology (LOGIT),Y,112676,U
+3600F, AF,AF,07,Operational Systems Development,238,0708611F,Support Systems Development,Y,12657,U
+3600F, AF,AF,07,Operational Systems Development,239,0804743F,Other Flight Training,Y,1836,U
+3600F, AF,AF,07,Operational Systems Development,240,0808716F,Other Personnel Activities,Y,121,U
+3600F, AF,AF,07,Operational Systems Development,241,0901202F,Joint Personnel Recovery Agency,Y,5911,U
+3600F, AF,AF,07,Operational Systems Development,242,0901218F,Civilian Compensation Program,Y,3604,U
+3600F, AF,AF,07,Operational Systems Development,243,0901220F,Personnel Administration,Y,4598,U
+3600F, AF,AF,07,Operational Systems Development,244,0901226F,Air Force Studies and Analysis Agency,Y,1103,U
+3600F, AF,AF,07,Operational Systems Development,246,0901538F,Financial Management Information Systems Development,Y,101840,U
+3600F, AF,AF,07,Operational Systems Development,999,9999999999AF,Classified Programs,Y,12796942,U
+0400D, DW,DTRA,01,Basic Research,1,0601000BR,DTRA Basic Research Initiative,Y,38436,U
+0400D, DW,DARPA,01,Basic Research,2,0601101E,Defense Research Sciences,Y,333119,U
+0400D, DW,OSD,01,Basic Research,3,0601110D8Z,Basic Research Initiatives,Y,42022,U
+0400D, DW,DARPA,01,Basic Research,4,0601117E,Basic Operational Medical Research Science,Y,56544,U
+0400D, DW,OSD,01,Basic Research,5,0601120D8Z,National Defense Education Program,Y,49453,U
+0400D, DW,OSD,01,Basic Research,6,0601228D8Z,Historically Black Colleges and Universities/Minority Institutions,Y,25834,U
+0400D, DW,CBDP,01,Basic Research,7,0601384BP,Chemical and Biological Defense Program,Y,46261,U
+0400D, DW,OSD,02,Applied Research,8,0602000D8Z,Joint Munitions Technology,Y,19352,U
+0400D, DW,DARPA,02,Applied Research,9,0602115E,Biomedical Technology,Y,114262,U
+0400D, DW,OSD,02,Applied Research,10,0602234D8Z,Lincoln Laboratory Research Program,Y,51026,U
+0400D, DW,OSD,02,Applied Research,11,0602251D8Z,Applied Research for the Advancement of S&T Priorities,Y,48226,U
+0400D, DW,DARPA,02,Applied Research,12,0602303E,Information & Communications Technology,Y,356358,U
+0400D, DW,DARPA,02,Applied Research,14,0602383E,Biological Warfare Defense,Y,29265,U
+0400D, DW,CBDP,02,Applied Research,15,0602384BP,Chemical and Biological Defense Program,Y,208111,U
+0400D, DW,OSD,02,Applied Research,16,0602668D8Z,Cyber Security Research,Y,13727,U
+0400D, DW,DARPA,02,Applied Research,18,0602702E,Tactical Technology,Y,314582,U
+0400D, DW,DARPA,02,Applied Research,19,0602715E,Materials and Biological Technology,Y,220115,U
+0400D, DW,DARPA,02,Applied Research,20,0602716E,Electronics Technology,Y,174798,U
+0400D, DW,DTRA,02,Applied Research,21,0602718BR,Weapons of Mass Destruction Defeat Technologies,Y,155415,U
+0400D, DW,OSD,02,Applied Research,22,0602751D8Z,Software Engineering Institute (SEI) Applied Research,Y,8824,U
+0400D, DW,SOCOM,02,Applied Research,23,1160401BB,SOF Technology Development,Y,37517,U
+0400D, DW,OSD,03,Advanced Technology Development,24,0603000D8Z,Joint Munitions Advanced Technology,Y,25915,U
+0400D, DW,OSD,03,Advanced Technology Development,26,0603122D8Z,Combating Terrorism Technology Support,Y,71171,U
+0400D, DW,OSD,03,Advanced Technology Development,27,0603133D8Z,Foreign Comparative Testing,Y,21782,U
+0400D, DW,DTRA,03,Advanced Technology Development,28,0603160BR,Counterproliferation Initiatives - Proliferation Prevention and Defeat,Y,290654,U
+0400D, DW,MDA,03,Advanced Technology Development,30,0603176C,Advanced Concepts and Performance Assessment,Y,12139,U
+0400D, DW,MDA,03,Advanced Technology Development,31,0603177C,Discrimination Sensor Technology,Y,28200,U
+0400D, DW,MDA,03,Advanced Technology Development,32,0603178C,Weapons Technology,Y,45389,U
+0400D, DW,MDA,03,Advanced Technology Development,33,0603179C,Advanced C4ISR,Y,9876,U
+0400D, DW,MDA,03,Advanced Technology Development,34,0603180C,Advanced Research,Y,17364,U
+0400D, DW,OSD,03,Advanced Technology Development,35,0603225D8Z,Joint DoD-DoE Munitions Technology Development,Y,18802,U
+0400D, DW,DLA,03,Advanced Technology Development,36,0603264S,Agile Transportation for the 21st Century (AT21) - Theater Capability,Y,2679,U
+0400D, DW,MDA,03,Advanced Technology Development,37,0603274C,Special Program - MDA Technology,Y,64708,U
+0400D, DW,DARPA,03,Advanced Technology Development,38,0603286E,Advanced Aerospace Systems,Y,185043,U
+0400D, DW,DARPA,03,Advanced Technology Development,39,0603287E,Space Programs and Technology,Y,126692,U
+0400D, DW,OSD,03,Advanced Technology Development,40,0603288D8Z,Analytic Assessments,Y,14645,U
+0400D, DW,OSD,03,Advanced Technology Development,41,0603289D8Z,Advanced Innovative Analysis and Concepts,Y,59830,U
+0400D, DW,MDA,03,Advanced Technology Development,42,0603294C,Common Kill Vehicle Technology,Y,46753,U
+0400D, DW,CBDP,03,Advanced Technology Development,43,0603384BP,Chemical and Biological Defense Program - Advanced Development,Y,140094,U
+0400D, DW,OSD,03,Advanced Technology Development,44,0603527D8Z,RETRACT LARCH,Y,118666,U
+0400D, DW,OSD,03,Advanced Technology Development,45,0603618D8Z,Joint Electronic Advanced Technology,Y,43966,U
+0400D, DW,OSD,03,Advanced Technology Development,46,0603648D8Z,Joint Capability Technology Demonstrations,Y,141540,U
+0400D, DW,OSD,03,Advanced Technology Development,47,0603662D8Z,Networked Communications Capabilities,Y,6980,U
+0400D, DW,OSD,03,Advanced Technology Development,50,0603680D8Z,Defense-Wide Manufacturing Science and Technology Program,Y,157056,U
+0400D, DW,OSD,03,Advanced Technology Development,51,0603699D8Z,Emerging Capabilities Technology Development,Y,33515,U
+0400D, DW,DLA,03,Advanced Technology Development,52,0603712S,Generic Logistics R&D Technology Demonstrations,Y,16543,U
+0400D, DW,DLA,03,Advanced Technology Development,53,0603713S,Deployment and Distribution Enterprise Technology,Y,29888,U
+0400D, DW,OSD,03,Advanced Technology Development,54,0603716D8Z,Strategic Environmental Research Program,Y,65836,U
+0400D, DW,DLA,03,Advanced Technology Development,55,0603720S,Microelectronics Technology Development and Support,Y,79037,U
+0400D, DW,OSD,03,Advanced Technology Development,56,0603727D8Z,Joint Warfighting Program,Y,9626,U
+0400D, DW,DARPA,03,Advanced Technology Development,57,0603739E,Advanced Electronics Technologies,Y,79021,U
+0400D, DW,DARPA,03,Advanced Technology Development,58,0603760E,Command Control and Communications Systems,Y,201335,U
+0400D, DW,DARPA,03,Advanced Technology Development,59,0603766E,Network-Centric Warfare Technology,Y,452861,U
+0400D, DW,DARPA,03,Advanced Technology Development,60,0603767E,Sensor Technology,Y,257127,U
+0400D, DW,DHRA,03,Advanced Technology Development,61,0603769SE,Distributed Learning Advanced Technology Development,Y,10771,U
+0400D, DW,OSD,03,Advanced Technology Development,62,0603781D8Z,Software Engineering Institute,Y,15202,U
+0400D, DW,OSD,03,Advanced Technology Development,63,0603826D8Z,Quick Reaction Special Projects,Y,90500,U
+0400D, DW,OSD,03,Advanced Technology Development,66,0603833D8Z,Engineering Science & Technology,Y,18377,U
+0400D, DW,OSD,03,Advanced Technology Development,67,0603941D8Z,Test & Evaluation Science & Technology,Y,82589,U
+0400D, DW,OSD,03,Advanced Technology Development,68,0604055D8Z,Operational Energy Capability Improvement,Y,37420,U
+0400D, DW,OSD,03,Advanced Technology Development,69,0303310D8Z,CWMD Systems,Y,42488,U
+0400D, DW,SOCOM,03,Advanced Technology Development,70,1160402BB,SOF Advanced Technology Development,Y,57741,U
+0400D, DW,OSD,04,Advanced Component Development And Prototypes,71,0603161D8Z,Nuclear and Conventional Physical Security Equipment RDT&E ADC&P,Y,31710,U
+0400D, DW,OSD,04,Advanced Component Development And Prototypes,73,0603600D8Z,WALKOFF,Y,90567,U
+0400D, DW,OSD,04,Advanced Component Development And Prototypes,74,0603714D8Z,Advanced Sensors Application Program,Y,15900,U
+0400D, DW,OSD,04,Advanced Component Development And Prototypes,75,0603851D8Z,Environmental Security Technical Certification Program,Y,52758,U
+0400D, DW,MDA,04,Advanced Component Development And Prototypes,76,0603881C,Ballistic Missile Defense Terminal Defense Segment,Y,228021,U
+0400D, DW,MDA,04,Advanced Component Development And Prototypes,77,0603882C,Ballistic Missile Defense Midcourse Defense Segment,Y,1284891,U
+0400D, DW,CBDP,04,Advanced Component Development And Prototypes,78,0603884BP,Chemical and Biological Defense Program - Dem/Val,Y,172754,U
+0400D, DW,MDA,04,Advanced Component Development And Prototypes,79,0603884C,Ballistic Missile Defense Sensors,Y,233588,U
+0400D, DW,MDA,04,Advanced Component Development And Prototypes,80,0603890C,BMD Enabling Programs,Y,409088,U
+0400D, DW,MDA,04,Advanced Component Development And Prototypes,81,0603891C,Special Programs - MDA,Y,400387,U
+0400D, DW,MDA,04,Advanced Component Development And Prototypes,82,0603892C,AEGIS BMD,Y,843355,U
+0400D, DW,MDA,04,Advanced Component Development And Prototypes,83,0603893C,Space Tracking & Surveillance System,Y,31632,U
+0400D, DW,MDA,04,Advanced Component Development And Prototypes,84,0603895C,Ballistic Missile Defense System Space Programs,Y,23289,U
+0400D, DW,MDA,04,Advanced Component Development And Prototypes,85,0603896C,Ballistic Missile Defense Command and Control Battle Management and Communicati,Y,450085,U
+0400D, DW,MDA,04,Advanced Component Development And Prototypes,86,0603898C,Ballistic Missile Defense Joint Warfighter Support,Y,49570,U
+0400D, DW,MDA,04,Advanced Component Development And Prototypes,87,0603904C,Missile Defense Integration & Operations Center (MDIOC),Y,49211,U
+0400D, DW,MDA,04,Advanced Component Development And Prototypes,88,0603906C,Regarding Trench,Y,9583,U
+0400D, DW,MDA,04,Advanced Component Development And Prototypes,89,0603907C,Sea Based X-Band Radar (SBX),Y,72866,U
+0400D, DW,MDA,04,Advanced Component Development And Prototypes,90,0603913C,Israeli Cooperative Programs,Y,102795,U
+0400D, DW,MDA,04,Advanced Component Development And Prototypes,91,0603914C,Ballistic Missile Defense Test,Y,274323,U
+0400D, DW,MDA,04,Advanced Component Development And Prototypes,92,0603915C,Ballistic Missile Defense Targets,Y,513256,U
+0400D, DW,OSD,04,Advanced Component Development And Prototypes,93,0603920D8Z,Humanitarian Demining,Y,10129,U
+0400D, DW,OSD,04,Advanced Component Development And Prototypes,94,0603923D8Z,Coalition Warfare,Y,10350,U
+0400D, DW,OSD,04,Advanced Component Development And Prototypes,95,0604016D8Z,Department of Defense Corrosion Program,Y,1518,U
+0400D, DW,MDA,04,Advanced Component Development And Prototypes,96,0604115C,Technology Maturation Initiatives,Y,96300,U
+0400D, DW,OSD,04,Advanced Component Development And Prototypes,97,0604250D8Z,Advanced Innovative Technologies,Y,469798,U
+0400D, DW,OSD,04,Advanced Component Development And Prototypes,98,0604400D8Z,Department of Defense (DoD) Unmanned Aircraft System (UAS) Common Development,Y,3129,U
+0400D, DW,TJS,04,Advanced Component Development And Prototypes,103,0604826J,Joint C5 Capability Development Integration and interoperability Assessments,Y,25200,U
+0400D, DW,MDA,04,Advanced Component Development And Prototypes,105,0604873C,Long Range Discrimination Radar (LRDR),Y,137564,U
+0400D, DW,MDA,04,Advanced Component Development And Prototypes,106,0604874C,Improved Homeland Defense Interceptors,Y,278944,U
+0400D, DW,MDA,04,Advanced Component Development And Prototypes,107,0604876C,Ballistic Missile Defense Terminal Defense Segment Test,Y,26225,U
+0400D, DW,MDA,04,Advanced Component Development And Prototypes,108,0604878C,Aegis BMD Test,Y,55148,U
+0400D, DW,MDA,04,Advanced Component Development And Prototypes,109,0604879C,Ballistic Missile Defense Sensor Test,Y,86764,U
+0400D, DW,MDA,04,Advanced Component Development And Prototypes,110,0604880C,Land-Based SM-3 (LBSM3),Y,34970,U
+0400D, DW,MDA,04,Advanced Component Development And Prototypes,111,0604881C,AEGIS SM-3 Block IIA Co-Development,Y,172645,U
+0400D, DW,MDA,04,Advanced Component Development And Prototypes,112,0604887C,Ballistic Missile Defense Midcourse Segment Test,Y,64618,U
+0400D, DW,OSD,04,Advanced Component Development And Prototypes,114,0303191D8Z,Joint Electromagnetic Technology (JET) Program,Y,2660,U
+0400D, DW,MDA,04,Advanced Component Development And Prototypes,115,0305103C,Cyber Security Initiative,Y,963,U
+0400D, DW,OSD,05,System Development And Demonstration,116,0604161D8Z,Nuclear and Conventional Physical Security Equipment RDT&E SDD,Y,8800,U
+0400D, DW,OSD,05,System Development And Demonstration,117,0604165D8Z,Prompt Global Strike Capability Development,Y,78817,U
+0400D, DW,CBDP,05,System Development And Demonstration,118,0604384BP,Chemical and Biological Defense Program - EMD,Y,303647,U
+0400D, DW,DISA,05,System Development And Demonstration,119,0604764K,Advanced IT Services Joint Program Office (AITS-JPO),Y,23424,U
+0400D, DW,OSD,05,System Development And Demonstration,120,0604771D8Z,Joint Tactical Information Distribution System (JTIDS),Y,14285,U
+0400D, DW,DTRA,05,System Development And Demonstration,121,0605000BR,Weapons of Mass Destruction Defeat Capabilities,Y,7156,U
+0400D, DW,DCMA,05,System Development And Demonstration,122,0605013BL,Information Technology Development,Y,12542,U
+0400D, DW,DHRA,05,System Development And Demonstration,123,0605021SE,Homeland Personnel Security Initiative,Y,191,U
+0400D, DW,OSD,05,System Development And Demonstration,124,0605022D8Z,Defense Exportability Program,Y,3273,U
+0400D, DW,OSD,05,System Development And Demonstration,125,0605027D8Z,OUSD(C) IT Development Initiatives,Y,5962,U
+0400D, DW,DLA,05,System Development And Demonstration,126,0605070S,DOD Enterprise Systems Development and Demonstration,Y,13412,U
+0400D, DW,OSD,05,System Development And Demonstration,127,0605075D8Z,DCMO Policy and Integration,Y,2223,U
+0400D, DW,DLA,05,System Development And Demonstration,128,0605080S,Defense Agency Intiatives (DAI) - Financial System,Y,31660,U
+0400D, DW,DLA,05,System Development And Demonstration,129,0605090S,Defense Retired and Annuitant Pay System (DRAS),Y,13085,U
+0400D, DW,OSD,05,System Development And Demonstration,130,0605210D8Z,Defense-Wide Electronic Procurement Capabilities,Y,7209,U
+0400D, DW,DISA,05,System Development And Demonstration,131,0303141K,Global Combat Support System,Y,15158,U
+0400D, DW,OSD,05,System Development And Demonstration,132,0305304D8Z,DoD Enterprise Energy Information Management (EEIM),Y,4414,U
+0400D, DW,OSD,06,Management Support,133,0604774D8Z,Defense Readiness Reporting System (DRRS),Y,5581,U
+0400D, DW,OSD,06,Management Support,134,0604875D8Z,Joint Systems Architecture Development,Y,3081,U
+0400D, DW,OSD,06,Management Support,135,0604940D8Z,Central Test and Evaluation Investment Development (CTEIP),Y,229125,U
+0400D, DW,OSD,06,Management Support,136,0604942D8Z,Assessments and Evaluations,Y,28674,U
+0400D, DW,OSD,06,Management Support,138,0605100D8Z,Joint Mission Environment Test Capability (JMETC),Y,45235,U
+0400D, DW,OSD,06,Management Support,139,0605104D8Z,Technical Studies Support and Analysis,Y,24936,U
+0400D, DW,TJS,06,Management Support,141,0605126J,Joint Integrated Air and Missile Defense Organization (JIAMDO),Y,35471,U
+0400D, DW,OSD,06,Management Support,144,0605142D8Z,Systems Engineering,Y,37655,U
+0400D, DW,OSD,06,Management Support,145,0605151D8Z,Studies and Analysis Support - OSD,Y,3015,U
+0400D, DW,OSD,06,Management Support,146,0605161D8Z,Nuclear Matters-Physical Security,Y,5287,U
+0400D, DW,OSD,06,Management Support,147,0605170D8Z,Support to Networks and Information Integration,Y,5289,U
+0400D, DW,OSD,06,Management Support,148,0605200D8Z,General Support to USD (Intelligence),Y,2120,U
+0400D, DW,CBDP,06,Management Support,149,0605384BP,Chemical and Biological Defense Program,Y,102264,U
+0400D, DW,OSD,06,Management Support,158,0605790D8Z,Small Business Innovation Research (SBIR)/ Small Business Technology Transfer,Y,2169,U
+0400D, DW,OSD,06,Management Support,159,0605798D8Z,Defense Technology Analysis,Y,13960,U
+0400D, DW,DTIC,06,Management Support,160,0605801KA,Defense Technical Information Center (DTIC),Y,51775,U
+0400D, DW,DHRA,06,Management Support,161,0605803SE,R&D in Support of DoD Enlistment Testing and Evaluation,Y,9533,U
+0400D, DW,OSD,06,Management Support,162,0605804D8Z,Development Test and Evaluation,Y,17371,U
+0400D, DW,DARPA,06,Management Support,163,0605898E,Management HQ - R&D,Y,71571,U
+0400D, DW,OSD,06,Management Support,164,0606100D8Z,Budget and Program Assessments,Y,4123,U
+0400D, DW,OSD,06,Management Support,165,0203345D8Z,Defense Operations Security Initiative (DOSI),Y,1946,U
+0400D, DW,TJS,06,Management Support,166,0204571J,Joint Staff Analytical Support,Y,7673,U
+0400D, DW,TJS,06,Management Support,169,0303166J,Support to Information Operations (IO) Capabilities,Y,10413,U
+0400D, DW,OSD,06,Management Support,170,0303260D8Z,Defense Military Deception Program Office (DMDPO),Y,971,U
+0400D, DW,OSD,06,Management Support,171,0305193D8Z,Cyber Intelligence,Y,6579,U
+0400D, DW,OSD,06,Management Support,173,0804767D8Z,COCOM Exercise Engagement and Training Transformation (CE2T2) - MHA,Y,43811,U
+0400D, DW,MDA,06,Management Support,174,0901598C,Management HQ - MDA,Y,35871,U
+0400D, DW,WHS,06,Management Support,176,0903230D8W,WHS - Mission Operations Support - IT,Y,1072,U
+0400D, DW,BLACK,06,Management Support,999,9999999999B1,Classified Programs,Y,49500,U
+0400D, DW,DSS,07,Operational System Development,178,0604130V,Enterprise Security System (ESS),Y,7929,U
+0400D, DW,DSCA,07,Operational System Development,179,0605127T,Regional International Outreach (RIO) and Partnership for Peace Information Mana,Y,1750,U
+0400D, DW,DSCA,07,Operational System Development,180,0605147T,Overseas Humanitarian Assistance Shared Information System (OHASIS),Y,294,U
+0400D, DW,OSD,07,Operational System Development,181,0607210D8Z,Industrial Base Analysis and Sustainment Support,Y,22576,U
+0400D, DW,OSD,07,Operational System Development,182,0607310D8Z,CWMD Systems: Operational Systems Development,Y,1901,U
+0400D, DW,DSCA,07,Operational System Development,183,0607327T,Global Theater Security Cooperation Management Information Systems (G-TSCMIS),Y,8474,U
+0400D, DW,CBDP,07,Operational System Development,184,0607384BP,Chemical and Biological Defense (Operational Systems Development),Y,33561,U
+0400D, DW,TJS,07,Operational System Development,186,0208043J,Planning and Decision Aid System (PDAS),Y,3061,U
+0400D, DW,DISA,07,Operational System Development,187,0208045K,C4I Interoperability,Y,64921,U
+0400D, DW,DISA,07,Operational System Development,189,0301144K,Joint/Allied Coalition Information Sharing,Y,3645,U
+0400D, DW,DISA,07,Operational System Development,193,0302016K,National Military Command System-Wide Support,Y,963,U
+0400D, DW,DISA,07,Operational System Development,194,0302019K,Defense Info Infrastructure Engineering and Integration,Y,10186,U
+0400D, DW,DISA,07,Operational System Development,195,0303126K,Long-Haul Communications - DCS,Y,36883,U
+0400D, DW,DISA,07,Operational System Development,196,0303131K,Minimum Essential Emergency Communications Network (MEECN),Y,13735,U
+0400D, DW,NSA,07,Operational System Development,197,0303135G,Public Key Infrastructure (PKI),Y,6101,U
+0400D, DW,NSA,07,Operational System Development,198,0303136G,Key Management Infrastructure (KMI),Y,43867,U
+0400D, DW,OSD,07,Operational System Development,199,0303140D8Z,Information Systems Security Program,Y,8957,U
+0400D, DW,NSA,07,Operational System Development,200,0303140G,Information Systems Security Program,Y,146890,U
+0400D, DW,DISA,07,Operational System Development,201,0303150K,Global Command and Control System,Y,21503,U
+0400D, DW,DISA,07,Operational System Development,202,0303153K,Defense Spectrum Organization,Y,20342,U
+0400D, DW,DISA,07,Operational System Development,203,0303170K,Net-Centric Enterprise Services (NCES),Y,444,U
+0400D, DW,DISA,07,Operational System Development,205,0303610K,Teleport Program,Y,1736,U
+0400D, DW,SOCOM,07,Operational System Development,206,0304210BB,Special Applications for Contingencies,Y,65060,U
+0400D, DW,DISA,07,Operational System Development,210,0305103K,Cyber Security Initiative,Y,2976,U
+0400D, DW,OSD,07,Operational System Development,215,0305186D8Z,Policy R&D Programs,Y,4182,U
+0400D, DW,OSD,07,Operational System Development,216,0305199D8Z,Net Centricity,Y,18130,U
+0400D, DW,SOCOM,07,Operational System Development,218,0305208BB,Distributed Common Ground/Surface Systems,Y,5302,U
+0400D, DW,DISA,07,Operational System Development,221,0305208K,Distributed Common Ground/Surface Systems,Y,3239,U
+0400D, DW,DSS,07,Operational System Development,225,0305327V,Insider Threat,Y,11733,U
+0400D, DW,OSD,07,Operational System Development,226,0305387D8Z,Homeland Defense Technology Transfer Program,Y,2119,U
+0400D, DW,DLA,07,Operational System Development,234,0708011S,Industrial Preparedness,Y,24605,U
+0400D, DW,DLA,07,Operational System Development,235,0708012S,Logistics Support Activities,Y,1770,U
+0400D, DW,TJS,07,Operational System Development,236,0902298J,Management HQ - OJCS,Y,2978,U
+0400D, DW,SOCOM,07,Operational System Development,237,1105219BB,MQ-9 UAV,Y,18151,U
+0400D, DW,SOCOM,07,Operational System Development,238,1105232BB,RQ-11 UAV,Y,758,U
+0400D, DW,SOCOM,07,Operational System Development,240,1160403BB,Aviation Systems,Y,173934,U
+0400D, DW,SOCOM,07,Operational System Development,241,1160405BB,Intelligence Systems Development,Y,6866,U
+0400D, DW,SOCOM,07,Operational System Development,242,1160408BB,Operational Enhancements,Y,63008,U
+0400D, DW,SOCOM,07,Operational System Development,243,1160431BB,Warrior Systems,Y,25342,U
+0400D, DW,SOCOM,07,Operational System Development,244,1160432BB,Special Programs,Y,3401,U
+0400D, DW,SOCOM,07,Operational System Development,245,1160480BB,SOF Tactical Vehicles,Y,3212,U
+0400D, DW,SOCOM,07,Operational System Development,246,1160483BB,Maritime Systems,Y,63597,U
+0400D, DW,SOCOM,07,Operational System Development,247,1160489BB,Global Video Surveillance Activities,Y,3933,U
+0400D, DW,SOCOM,07,Operational System Development,248,1160490BB,Operational Enhancements Intelligence,Y,10623,U
+0400D, DW,BLACK,07,Operational System Development,999,9999999999B2,Classified Programs,Y,3701359,U
+0460D,Operational Test & Eval Defense,OTE,06,Management Support,1,0605118OTE,Operational Test and Evaluation,Y,76838,U
+0460D,Operational Test & Eval Defense,OTE,06,Management Support,2,0605131OTE,Live Fire Test and Evaluation,Y,46882,U
+0460D,Operational Test & Eval Defense,OTE,06,Management Support,3,0605814OTE,Operational Test Activities and Analyses,Y,46838,U
+0107D,Office of the Inspector General,IG,02,RDT&E,1,0901517X,Inspector General DoD Audit Intelligence and Non-Criminal Investigative Activ,N,4700,U
+0130D,Defense Health Program,DHA,02,RDT&E,1,0601101HP,In-House Laboratory Independent Research,N,3599,U
+0130D,Defense Health Program,DHA,02,RDT&E,2,0601117HP,Basic Operational Medical Research Science,N,7397,U
+0130D,Defense Health Program,DHA,02,RDT&E,3,0602115HP,Applied Biomedical Technology,N,58251,U
+0130D,Defense Health Program,DHA,02,RDT&E,4,0602787HP,Medical Technology,N,1222,U
+0130D,Defense Health Program,DHA,02,RDT&E,5,0603002HP,Medical Advanced Technology,N,305,U
+0130D,Defense Health Program,DHA,02,RDT&E,6,0603115HP,Medical Technology Development,N,231051,U
+0130D,Defense Health Program,DHA,02,RDT&E,7,0604110HP,Medical Products Support and Advanced Concept Development,N,103443,U
+0130D,Defense Health Program,DHA,02,RDT&E,8,0605013HP,Information Technology Development,N,19312,U
+0130D,Defense Health Program,DHA,02,RDT&E,9,0605023HP,Information Technology Development - Integrated Electronic Health Record,N,9216,U
+0130D,Defense Health Program,DHA,02,RDT&E,10,0605025HP,Information Technology Development ? Theater Medical Information Program-Joint,N,22100,U
+0130D,Defense Health Program,DHA,02,RDT&E,11,0605026HP,Information Technology Development- DoD Healthcare Management System Modernizati,N,438376,U
+0130D,Defense Health Program,DHA,02,RDT&E,12,0605039DHA,DoD Medical Information Exchange and Interoperability,N,11000,U
+0130D,Defense Health Program,DHA,02,RDT&E,13,0605145HP,Medical Products and Support Systems Development,N,15906,U
+0130D,Defense Health Program,DHA,02,RDT&E,15,0606105HP,Medical Program-Wide Activities,N,41567,U
+0130D,Defense Health Program,DHA,02,RDT&E,16,0607100HP,Medical Products and Capabilities Enhancement Activities,N,17356,U
+0390D,Chem Agents & Munitions Destruction,ARMY,02,NONTITLE-RDTE,1,0708081D,Chemical Materials Agency,N,10003,U
+0390D,Chem Agents & Munitions Destruction,ARMY,02,NONTITLE-RDTE,2,0708083D,Assembled Chemical Weapons Alternatives,N,569339,U
+4557N,National Defense Sealift Fund,NAVY,04,NONTITLE-RDTE,1,0408042N,National Defense Sealift Fund,N,25197,U
