@@ -9,71 +9,71 @@
 "Subdivision":[
 {
 "Name":"Intelligence Advanced Development",
-"Total":"5032"
+"Total": 5032
 },
 {
 "Name":"Space Control Technology",
-"Total":"4070"
+"Total": 4070
 },
 {
 "Name":"Combat Identification Technology",
-"Total":"21790"
+"Total": 21790
 },
 {
 "Name":"NATO Research and Development",
-"Total":"4736"
+"Total": 4736
 },
 {
 "Name":"Space Security and Defense Program",
-"Total":"30771"
+"Total": 30771
 },
 {
 "Name":"Intercontinental Ballistic Missile - Dem/Val",
-"Total":"39765"
+"Total": 39765
 },
 {
 "Name":"Long Range Strike",
-"Total":"1246228"
+"Total": 1246228
 },
 {
 "Name":"Technology Transfer",
-"Total":"3512"
+"Total": 3512
 },
 {
 "Name":"Hard and Deeply Buried Target Defeat System (HDBTDS) Program",
-"Total":"54637"
+"Total": 54637
 },
 {
 "Name":"Weather System Follow-on",
-"Total":"76108"
+"Total": 76108
 },
 {
 "Name":"Operationally Responsive Space",
-"Total":"6457"
+"Total": 6457
 },
 {
 "Name":"Tech Transition Program",
-"Total":"246514"
+"Total": 246514
 },
 {
 "Name":"Ground Based Strategic Deterrent",
-"Total":"75166"
+"Total": 75166
 },
 {
 "Name":"Next Generation Air Dominance",
-"Total":"8830"
+"Total": 8830
 },
 {
 "Name":"Three Dimensional Long-Range Radar (3DELRR)",
-"Total":"14939"
+"Total": 14939
 },
 {
 "Name":"NAVSTAR Global Positioning System (User Equipment) (SPACE)",
-"Total":"142288"
+"Total": 142288
 },
 {
 "Name":"Cyber Operations Technology Development",
-"Total":"81732"
+"Total": 81732
 }
 ]
 },
@@ -82,55 +82,55 @@
 "Subdivision":[
 {
 "Name":"Advanced Materials for Weapon Systems",
-"Total":"37665"
+"Total": 37665
 },
 {
 "Name":"Sustainment Science and Technology (S&T)",
-"Total":"18378"
+"Total": 18378
 },
 {
 "Name":"Advanced Aerospace Sensors",
-"Total":"42183"
+"Total": 42183
 },
 {
 "Name":"Aerospace Technology Dev/Demo",
-"Total":"100733"
+"Total": 100733
 },
 {
 "Name":"Aerospace Propulsion and Power Technology",
-"Total":"168821"
+"Total": 168821
 },
 {
 "Name":"Electronic Combat Technology",
-"Total":"47032"
+"Total": 47032
 },
 {
 "Name":"Advanced Spacecraft Technology",
-"Total":"54897"
+"Total": 54897
 },
 {
 "Name":"Maui Space Surveillance System (MSSS)",
-"Total":"12853"
+"Total": 12853
 },
 {
 "Name":"Human Effectiveness Advanced Technology Development",
-"Total":"25448"
+"Total": 25448
 },
 {
 "Name":"Conventional Weapons Technology",
-"Total":"48536"
+"Total": 48536
 },
 {
 "Name":"Advanced Weapons Technology",
-"Total":"30195"
+"Total": 30195
 },
 {
 "Name":"Manufacturing Technology Program",
-"Total":"42630"
+"Total": 42630
 },
 {
 "Name":"Battlespace Knowledge Development and Demonstration",
-"Total":"46414"
+"Total": 46414
 }
 ]
 },
@@ -139,43 +139,43 @@
 "Subdivision":[
 {
 "Name":"Conventional Munitions",
-"Total":"99851"
+"Total": 99851
 },
 {
 "Name":"Directed Energy Technology",
-"Total":"115604"
+"Total": 115604
 },
 {
 "Name":"Dominant Information Sciences and Methods",
-"Total":"164909"
+"Total": 164909
 },
 {
 "Name":"High Energy Laser Research",
-"Total":"42037"
+"Total": 42037
 },
 {
 "Name":"Materials",
-"Total":"125234"
+"Total": 125234
 },
 {
 "Name":"Aerospace Vehicle Technologies",
-"Total":"123438"
+"Total": 123438
 },
 {
 "Name":"Human Effectiveness Applied Research",
-"Total":"100530"
+"Total": 100530
 },
 {
 "Name":"Aerospace Propulsion",
-"Total":"182326"
+"Total": 182326
 },
 {
 "Name":"Aerospace Sensors",
-"Total":"147291"
+"Total": 147291
 },
 {
 "Name":"Space Technology",
-"Total":"116122"
+"Total": 116122
 }
 ]
 },
@@ -184,15 +184,15 @@
 "Subdivision":[
 {
 "Name":"Defense Research Sciences",
-"Total":"329721"
+"Total": 329721
 },
 {
 "Name":"University Research Initiatives",
-"Total":"141754"
+"Total": 141754
 },
 {
 "Name":"High Energy Laser Research Initiatives",
-"Total":"13778"
+"Total": 13778
 }
 ]
 },
@@ -201,67 +201,67 @@
 "Subdivision":[
 {
 "Name":"Space Test Program (STP)",
-"Total":"28228"
+"Total": 28228
 },
 {
 "Name":"Facilities Restoration and Modernization - Test and Evaluation Support",
-"Total":"40518"
+"Total": 40518
 },
 {
 "Name":"Facilities Sustainment - Test and Evaluation Support",
-"Total":"27895"
+"Total": 27895
 },
 {
 "Name":"Requirements Analysis and Maturation",
-"Total":"16507"
+"Total": 16507
 },
 {
 "Name":"Space Test and Training Range Development",
-"Total":"18997"
+"Total": 18997
 },
 {
 "Name":"Space and Missile Center (SMC) Civilian Workforce",
-"Total":"185305"
+"Total": 185305
 },
 {
 "Name":"ENTEPRISE INFORMATION SERVICES (EIS)",
-"Total":"4841"
+"Total": 4841
 },
 {
 "Name":"Acquisition and Management Support",
-"Total":"15357"
+"Total": 15357
 },
 {
 "Name":"General Skill Training",
-"Total":"1315"
+"Total": 1315
 },
 {
 "Name":"International Activities",
-"Total":"2315"
+"Total": 2315
 },
 {
 "Name":"Threat Simulator Development",
-"Total":"23844"
+"Total": 23844
 },
 {
 "Name":"Major T&E Investment",
-"Total":"68302"
+"Total": 68302
 },
 {
 "Name":"RAND Project Air Force",
-"Total":"34918"
+"Total": 34918
 },
 {
 "Name":"Initial Operational Test & Evaluation",
-"Total":"10476"
+"Total": 10476
 },
 {
 "Name":"Test and Evaluation Support",
-"Total":"673908"
+"Total": 673908
 },
 {
 "Name":"Rocket Systems Launch Program (SPACE)",
-"Total":"21858"
+"Total": 21858
 }
 ]
 },
@@ -270,411 +270,411 @@
 "Subdivision":[
 {
 "Name":"Global Positioning System III - Operational Control Segment",
-"Total":"350232"
+"Total": 350232
 },
 {
 "Name":"Specialized Undergraduate Flight Training",
-"Total":"10465"
+"Total": 10465
 },
 {
 "Name":"Wide Area Surveillance",
-"Total":"24577"
+"Total": 24577
 },
 {
 "Name":"AF Integrated Personnel and Pay System (AF-IPPS)",
-"Total":"69694"
+"Total": 69694
 },
 {
 "Name":"Anti-Tamper Technology Executive Agency",
-"Total":"26718"
+"Total": 26718
 },
 {
 "Name":"HC/MC-130 Recap RDT&E",
-"Total":"10807"
+"Total": 10807
 },
 {
 "Name":"B-52 Squadrons",
-"Total":"74520"
+"Total": 74520
 },
 {
 "Name":"Air-Launched Cruise Missile (ALCM)",
-"Total":"451"
+"Total": 451
 },
 {
 "Name":"B-1B Squadrons",
-"Total":"2245"
+"Total": 2245
 },
 {
 "Name":"B-2 Squadrons",
-"Total":"108183"
+"Total": 108183
 },
 {
 "Name":"Minuteman Squadrons",
-"Total":"178929"
+"Total": 178929
 },
 {
 "Name":"Strat War Planning System - USSTRATCOM",
-"Total":"28481"
+"Total": 28481
 },
 {
 "Name":"Night Fist - USSTRATCOM",
-"Total":"87"
+"Total": 87
 },
 {
 "Name":"Worldwide Joint Strategic Communications",
-"Total":"5315"
+"Total": 5315
 },
 {
 "Name":"Service Support to STRATCOM - Space Activities",
-"Total":"8090"
+"Total": 8090
 },
 {
 "Name":"MQ-9 UAV",
-"Total":"123439"
+"Total": 123439
 },
 {
 "Name":"Joint Counter RCIED Electronic Warfare",
-"Total":"300"
+"Total": 300
 },
 {
 "Name":"F-16 Squadrons",
-"Total":"148297"
+"Total": 148297
 },
 {
 "Name":"F-15E Squadrons",
-"Total":"179283"
+"Total": 179283
 },
 {
 "Name":"Manned Destructive Suppression",
-"Total":"14860"
+"Total": 14860
 },
 {
 "Name":"F-22A Squadrons",
-"Total":"262552"
+"Total": 262552
 },
 {
 "Name":"F-35 Squadrons",
-"Total":"115395"
+"Total": 115395
 },
 {
 "Name":"Tactical AIM Missiles",
-"Total":"43360"
+"Total": 43360
 },
 {
 "Name":"Advanced Medium Range Air-to-Air Missile (AMRAAM)",
-"Total":"46160"
+"Total": 46160
 },
 {
 "Name":"Combat Rescue and Recovery",
-"Total":"412"
+"Total": 412
 },
 {
 "Name":"Combat Rescue - Pararescue",
-"Total":"657"
+"Total": 657
 },
 {
 "Name":"AF TENCAP",
-"Total":"31428"
+"Total": 31428
 },
 {
 "Name":"Precision Attack Systems Procurement",
-"Total":"1105"
+"Total": 1105
 },
 {
 "Name":"Compass Call",
-"Total":"14249"
+"Total": 14249
 },
 {
 "Name":"Aircraft Engine Component Improvement Program",
-"Total":"103942"
+"Total": 103942
 },
 {
 "Name":"Joint Air-to-Surface Standoff Missile (JASSM)",
-"Total":"12793"
+"Total": 12793
 },
 {
 "Name":"Air & Space Operations Center (AOC)",
-"Total":"21193"
+"Total": 21193
 },
 {
 "Name":"Control and Reporting Center (CRC)",
-"Total":"559"
+"Total": 559
 },
 {
 "Name":"Airborne Warning and Control System (AWACS)",
-"Total":"161812"
+"Total": 161812
 },
 {
 "Name":"Tactical Airborne Control Systems",
-"Total":"6001"
+"Total": 6001
 },
 {
 "Name":"Combat Air Intelligence System Activities",
-"Total":"7793"
+"Total": 7793
 },
 {
 "Name":"Tactical Air Control Party-Mod",
-"Total":"12465"
+"Total": 12465
 },
 {
 "Name":"C2ISR Tactical Data Link",
-"Total":"1681"
+"Total": 1681
 },
 {
 "Name":"DCAPES",
-"Total":"16796"
+"Total": 16796
 },
 {
 "Name":"Seek Eagle",
-"Total":"21564"
+"Total": 21564
 },
 {
 "Name":"USAF Modeling and Simulation",
-"Total":"24994"
+"Total": 24994
 },
 {
 "Name":"Wargaming and Simulation Centers",
-"Total":"6035"
+"Total": 6035
 },
 {
 "Name":"Distributed Training and Exercises",
-"Total":"4358"
+"Total": 4358
 },
 {
 "Name":"Mission Planning Systems",
-"Total":"55835"
+"Total": 55835
 },
 {
 "Name":"AF Offensive Cyberspace Operations",
-"Total":"12874"
+"Total": 12874
 },
 {
 "Name":"AF Defensive Cyberspace Operations",
-"Total":"7681"
+"Total": 7681
 },
 {
 "Name":"Global Sensor Integrated on Network (GSIN)",
-"Total":"5974"
+"Total": 5974
 },
 {
 "Name":"Space Superiority Intelligence",
-"Total":"13815"
+"Total": 13815
 },
 {
 "Name":"E-4B National Airborne Operations Center (NAOC)",
-"Total":"80360"
+"Total": 80360
 },
 {
 "Name":"Family of Advanced BLoS Terminals (FAB-T)",
-"Total":"3907"
+"Total": 3907
 },
 {
 "Name":"Minimum Essential Emergency Communications Network (MEECN)",
-"Total":"75062"
+"Total": 75062
 },
 {
 "Name":"Information Systems Security Program",
-"Total":"46599"
+"Total": 46599
 },
 {
 "Name":"Global Force Management - Data Initiative",
-"Total":"2470"
+"Total": 2470
 },
 {
 "Name":"Airborne SIGINT Enterprise",
-"Total":"112775"
+"Total": 112775
 },
 {
 "Name":"Global Air Traffic Management (GATM)",
-"Total":"4235"
+"Total": 4235
 },
 {
 "Name":"Satellite Control Network (SPACE)",
-"Total":"7879"
+"Total": 7879
 },
 {
 "Name":"Weather Service",
-"Total":"29955"
+"Total": 29955
 },
 {
 "Name":"Air Traffic Control Approach and Landing System (ATCALS)",
-"Total":"21485"
+"Total": 21485
 },
 {
 "Name":"Aerial Targets",
-"Total":"2515"
+"Total": 2515
 },
 {
 "Name":"Security and Investigative Activities",
-"Total":"472"
+"Total": 472
 },
 {
 "Name":"Arms Control Implementation",
-"Total":"12137"
+"Total": 12137
 },
 {
 "Name":"Defense Joint Counterintelligence Activities",
-"Total":"361"
+"Total": 361
 },
 {
 "Name":"Space and Missile Test and Evaluation Center",
-"Total":"3162"
+"Total": 3162
 },
 {
 "Name":"Space Innovation Integration and Rapid Technology Development",
-"Total":"1543"
+"Total": 1543
 },
 {
 "Name":"Integrated Broadcast Service (IBS)",
-"Total":"7860"
+"Total": 7860
 },
 {
 "Name":"Spacelift Range System  (SPACE)",
-"Total":"6902"
+"Total": 6902
 },
 {
 "Name":"Dragon U-2",
-"Total":"34471"
+"Total": 34471
 },
 {
 "Name":"Airborne Reconnaissance Systems",
-"Total":"50154"
+"Total": 50154
 },
 {
 "Name":"Manned Reconnaissance Systems",
-"Total":"13245"
+"Total": 13245
 },
 {
 "Name":"Distributed Common Ground/Surface Systems",
-"Total":"22784"
+"Total": 22784
 },
 {
 "Name":"MQ-1 Predator A UAV",
-"Total":"716"
+"Total": 716
 },
 {
 "Name":"RQ-4 UAV",
-"Total":"208053"
+"Total": 208053
 },
 {
 "Name":"Network-Centric Collaborative Targeting",
-"Total":"21587"
+"Total": 21587
 },
 {
 "Name":"Common Data Link Executive Agent (CDL EA)",
-"Total":"43986"
+"Total": 43986
 },
 {
 "Name":"NATO AGS",
-"Total":"197486"
+"Total": 197486
 },
 {
 "Name":"Support to DCGS Enterprise",
-"Total":"28434"
+"Total": 28434
 },
 {
 "Name":"GPS III Space Segment",
-"Total":"180902"
+"Total": 180902
 },
 {
 "Name":"JSPOC Mission System",
-"Total":"81911"
+"Total": 81911
 },
 {
 "Name":"Rapid Cyber Acquisition",
-"Total":"3149"
+"Total": 3149
 },
 {
 "Name":"NUDET Detection System (SPACE)",
-"Total":"14447"
+"Total": 14447
 },
 {
 "Name":"Space Situation Awareness Operations",
-"Total":"20077"
+"Total": 20077
 },
 {
 "Name":"Shared Early Warning (SEW)",
-"Total":"853"
+"Total": 853
 },
 {
 "Name":"C-130 Airlift Squadron",
-"Total":"33962"
+"Total": 33962
 },
 {
 "Name":"C-5 Airlift Squadrons (IF)",
-"Total":"42864"
+"Total": 42864
 },
 {
 "Name":"C-17 Aircraft (IF)",
-"Total":"54807"
+"Total": 54807
 },
 {
 "Name":"C-130J Program",
-"Total":"31010"
+"Total": 31010
 },
 {
 "Name":"Large Aircraft IR Countermeasures (LAIRCM)",
-"Total":"6802"
+"Total": 6802
 },
 {
 "Name":"KC-10s",
-"Total":"1799"
+"Total": 1799
 },
 {
 "Name":"Operational Support Airlift",
-"Total":"48453"
+"Total": 48453
 },
 {
 "Name":"CV-22",
-"Total":"36576"
+"Total": 36576
 },
 {
 "Name":"Special Tactics / Combat Control",
-"Total":"7963"
+"Total": 7963
 },
 {
 "Name":"Depot Maintenance (Non-IF)",
-"Total":"1525"
+"Total": 1525
 },
 {
 "Name":"Logistics Information Technology (LOGIT)",
-"Total":"112676"
+"Total": 112676
 },
 {
 "Name":"Support Systems Development",
-"Total":"12657"
+"Total": 12657
 },
 {
 "Name":"Other Flight Training",
-"Total":"1836"
+"Total": 1836
 },
 {
 "Name":"Other Personnel Activities",
-"Total":"121"
+"Total": 121
 },
 {
 "Name":"Joint Personnel Recovery Agency",
-"Total":"5911"
+"Total": 5911
 },
 {
 "Name":"Civilian Compensation Program",
-"Total":"3604"
+"Total": 3604
 },
 {
 "Name":"Personnel Administration",
-"Total":"4598"
+"Total": 4598
 },
 {
 "Name":"Air Force Studies and Analysis Agency",
-"Total":"1103"
+"Total": 1103
 },
 {
 "Name":"Financial Management Information Systems Development",
-"Total":"101840"
+"Total": 101840
 },
 {
 "Name":"Classified Programs",
-"Total":"12796942"
+"Total": 12796942
 }
 ]
 },
@@ -683,143 +683,143 @@
 "Subdivision":[
 {
 "Name":"Electronic Warfare Development",
-"Total":"929"
+"Total": 929
 },
 {
 "Name":"Tactical Data Networks Enterprise",
-"Total":"60256"
+"Total": 60256
 },
 {
 "Name":"Physical Security Equipment",
-"Total":"5973"
+"Total": 5973
 },
 {
 "Name":"Small Diameter Bomb (SDB)  - EMD",
-"Total":"32624"
+"Total": 32624
 },
 {
 "Name":"Counterspace Systems",
-"Total":"24208"
+"Total": 24208
 },
 {
 "Name":"Space Situation Awareness Systems",
-"Total":"32374"
+"Total": 32374
 },
 {
 "Name":"Space Fence",
-"Total":"243909"
+"Total": 243909
 },
 {
 "Name":"Airborne Electronic Attack",
-"Total":"8358"
+"Total": 8358
 },
 {
 "Name":"Space Based Infrared System (SBIRS) High EMD",
-"Total":"292235"
+"Total": 292235
 },
 {
 "Name":"Armament/Ordnance Development",
-"Total":"40154"
+"Total": 40154
 },
 {
 "Name":"Submunitions",
-"Total":"2506"
+"Total": 2506
 },
 {
 "Name":"Agile Combat Support",
-"Total":"57678"
+"Total": 57678
 },
 {
 "Name":"Life Support Systems",
-"Total":"8187"
+"Total": 8187
 },
 {
 "Name":"Combat Training Ranges",
-"Total":"15795"
+"Total": 15795
 },
 {
 "Name":"F-35 - EMD",
-"Total":"589441"
+"Total": 589441
 },
 {
 "Name":"Evolved Expendable Launch Vehicle Program (SPACE) - EMD",
-"Total":"84438"
+"Total": 84438
 },
 {
 "Name":"Long Range Standoff Weapon",
-"Total":"36643"
+"Total": 36643
 },
 {
 "Name":"ICBM Fuze Modernization",
-"Total":"142551"
+"Total": 142551
 },
 {
 "Name":"F-22 Modernization Increment 3.2B",
-"Total":"140640"
+"Total": 140640
 },
 {
 "Name":"Ground Attack Weapons Fuze Development",
-"Total":"3598"
+"Total": 3598
 },
 {
 "Name":"KC-46",
-"Total":"602364"
+"Total": 602364
 },
 {
 "Name":"Advanced Pilot Training",
-"Total":"11395"
+"Total": 11395
 },
 {
 "Name":"CSAR HH-60 Recapitalization",
-"Total":"156085"
+"Total": 156085
 },
 {
 "Name":"Advanced EHF MILSATCOM (SPACE)",
-"Total":"228230"
+"Total": 228230
 },
 {
 "Name":"Polar MILSATCOM (SPACE)",
-"Total":"72084"
+"Total": 72084
 },
 {
 "Name":"Wideband Global SATCOM (SPACE)",
-"Total":"56343"
+"Total": 56343
 },
 {
 "Name":"Air & Space Ops Center 10.2 RDT&E",
-"Total":"47629"
+"Total": 47629
 },
 {
 "Name":"B-2 Defensive Management System",
-"Total":"271961"
+"Total": 271961
 },
 {
 "Name":"Nuclear Weapons Modernization",
-"Total":"212121"
+"Total": 212121
 },
 {
 "Name":"F-15 EPAWSS",
-"Total":"186481"
+"Total": 186481
 },
 {
 "Name":"Full Combat Mission Training",
-"Total":"18082"
+"Total": 18082
 },
 {
 "Name":"Combat Survivor Evader Locator",
-"Total":"993"
+"Total": 993
 },
 {
 "Name":"NextGen JSTARS",
-"Total":"44343"
+"Total": 44343
 },
 {
 "Name":"Presidential Aircraft Replacement (PAR)",
-"Total":"102620"
+"Total": 102620
 },
 {
 "Name":"Automated Test Systems",
-"Total":"14563"
+"Total": 14563
 }
 ]
 }
@@ -833,71 +833,71 @@
 "Subdivision":[
 {
 "Name":"Army Missle Defense Systems Integration",
-"Total":"10347"
+"Total": 10347
 },
 {
 "Name":"Army Space Systems Integration",
-"Total":"25061"
+"Total": 25061
 },
 {
 "Name":"Landmine Warfare and Barrier - Adv Dev",
-"Total":"49636"
+"Total": 49636
 },
 {
 "Name":"Smoke Obscurant and Target Defeating Sys-Adv Dev",
-"Total":"13426"
+"Total": 13426
 },
 {
 "Name":"Tank and Medium Caliber Ammunition",
-"Total":"46749"
+"Total": 46749
 },
 {
 "Name":"Soldier Support and Survivability",
-"Total":"7758"
+"Total": 7758
 },
 {
 "Name":"Tactical Electronic Surveillance System - Adv Dev",
-"Total":"13472"
+"Total": 13472
 },
 {
 "Name":"Night Vision Systems Advanced Development",
-"Total":"7292"
+"Total": 7292
 },
 {
 "Name":"Environmental Quality Technology - Dem/Val",
-"Total":"8813"
+"Total": 8813
 },
 {
 "Name":"NATO Research and Development",
-"Total":"6075"
+"Total": 6075
 },
 {
 "Name":"Logistics and Engineer Equipment - Adv Dev",
-"Total":"21233"
+"Total": 21233
 },
 {
 "Name":"Medical Systems - Adv Dev",
-"Total":"31962"
+"Total": 31962
 },
 {
 "Name":"Soldier Systems - Advanced Development",
-"Total":"22194"
+"Total": 22194
 },
 {
 "Name":"Analysis Of Alternatives",
-"Total":"9805"
+"Total": 9805
 },
 {
 "Name":"Technology Maturation Initiatives",
-"Total":"40917"
+"Total": 40917
 },
 {
 "Name":"Assured Positioning Navigation and Timing (PNT)",
-"Total":"30058"
+"Total": 30058
 },
 {
 "Name":"Indirect Fire Protection Capability Increment 2-Intercept (IFPC2)",
-"Total":"155361"
+"Total": 155361
 }
 ]
 },
@@ -906,99 +906,99 @@
 "Subdivision":[
 {
 "Name":"Warfighter Advanced Technology",
-"Total":"46973"
+"Total": 46973
 },
 {
 "Name":"Medical Advanced Technology",
-"Total":"69584"
+"Total": 69584
 },
 {
 "Name":"Aviation Advanced Technology",
-"Total":"89736"
+"Total": 89736
 },
 {
 "Name":"Weapons and Munitions Advanced Technology",
-"Total":"57663"
+"Total": 57663
 },
 {
 "Name":"Combat Vehicle and Automotive Advanced Technology",
-"Total":"113071"
+"Total": 113071
 },
 {
 "Name":"Space Application Advanced Technology",
-"Total":"5554"
+"Total": 5554
 },
 {
 "Name":"Manpower Personnel and Training Advanced Technology",
-"Total":"12636"
+"Total": 12636
 },
 {
 "Name":"TRACTOR HIKE",
-"Total":"7502"
+"Total": 7502
 },
 {
 "Name":"Next Generation Training & Simulation Systems",
-"Total":"17425"
+"Total": 17425
 },
 {
 "Name":"TRACTOR ROSE",
-"Total":"11912"
+"Total": 11912
 },
 {
 "Name":"Combating Terrorism - Technology Development",
-"Total":"27520"
+"Total": 27520
 },
 {
 "Name":"TRACTOR NAIL",
-"Total":"2381"
+"Total": 2381
 },
 {
 "Name":"TRACTOR EGGS",
-"Total":"2431"
+"Total": 2431
 },
 {
 "Name":"Electronic Warfare Technology",
-"Total":"26874"
+"Total": 26874
 },
 {
 "Name":"Missile and Rocket Advanced Technology",
-"Total":"49449"
+"Total": 49449
 },
 {
 "Name":"TRACTOR CAGE",
-"Total":"10999"
+"Total": 10999
 },
 {
 "Name":"High Performance Computing Modernization Program",
-"Total":"177159"
+"Total": 177159
 },
 {
 "Name":"Landmine Warfare and Barrier Advanced Technology",
-"Total":"13993"
+"Total": 13993
 },
 {
 "Name":"Joint Service Small Arms Program",
-"Total":"5105"
+"Total": 5105
 },
 {
 "Name":"Night Vision Advanced Technology",
-"Total":"40929"
+"Total": 40929
 },
 {
 "Name":"Environmental Quality Technology Demonstrations",
-"Total":"10727"
+"Total": 10727
 },
 {
 "Name":"Military Engineering Advanced Technology",
-"Total":"20145"
+"Total": 20145
 },
 {
 "Name":"Advanced Tactical Computer Science and Sensor Technology",
-"Total":"38163"
+"Total": 38163
 },
 {
 "Name":"C3 Advanced Technology",
-"Total":"37816"
+"Total": 37816
 }
 ]
 },
@@ -1007,99 +1007,99 @@
 "Subdivision":[
 {
 "Name":"Missile Technology",
-"Total":"45053"
+"Total": 45053
 },
 {
 "Name":"Advanced Weapons Technology",
-"Total":"29428"
+"Total": 29428
 },
 {
 "Name":"Advanced Concepts and Simulation",
-"Total":"27862"
+"Total": 27862
 },
 {
 "Name":"Combat Vehicle and Automotive Technology",
-"Total":"68839"
+"Total": 68839
 },
 {
 "Name":"Ballistics Technology",
-"Total":"92801"
+"Total": 92801
 },
 {
 "Name":"Chemical Smoke and Equipment Defeating Technology",
-"Total":"3866"
+"Total": 3866
 },
 {
 "Name":"Joint Service Small Arms Program",
-"Total":"5487"
+"Total": 5487
 },
 {
 "Name":"Weapons and Munitions Technology",
-"Total":"48340"
+"Total": 48340
 },
 {
 "Name":"Electronics and Electronic Devices",
-"Total":"55301"
+"Total": 55301
 },
 {
 "Name":"Night Vision Technology",
-"Total":"33807"
+"Total": 33807
 },
 {
 "Name":"Countermine Systems",
-"Total":"25068"
+"Total": 25068
 },
 {
 "Name":"Human Factors Engineering Technology",
-"Total":"23681"
+"Total": 23681
 },
 {
 "Name":"Environmental Quality Technology",
-"Total":"20850"
+"Total": 20850
 },
 {
 "Name":"Command Control Communications Technology",
-"Total":"36160"
+"Total": 36160
 },
 {
 "Name":"Computer and Software Technology",
-"Total":"12656"
+"Total": 12656
 },
 {
 "Name":"Military Engineering Technology",
-"Total":"63409"
+"Total": 63409
 },
 {
 "Name":"Manpower/Personnel/Training Technology",
-"Total":"24735"
+"Total": 24735
 },
 {
 "Name":"Warfighter Technology",
-"Total":"35795"
+"Total": 35795
 },
 {
 "Name":"Medical Technology",
-"Total":"76853"
+"Total": 76853
 },
 {
 "Name":"Materials Technology",
-"Total":"28314"
+"Total": 28314
 },
 {
 "Name":"Sensors and Electronic Survivability",
-"Total":"38374"
+"Total": 38374
 },
 {
 "Name":"TRACTOR HIP",
-"Total":"6879"
+"Total": 6879
 },
 {
 "Name":"Aviation Technology",
-"Total":"56884"
+"Total": 56884
 },
 {
 "Name":"Electronic Warfare Technology",
-"Total":"19243"
+"Total": 19243
 }
 ]
 },
@@ -1108,19 +1108,19 @@
 "Subdivision":[
 {
 "Name":"In-House Laboratory Independent Research",
-"Total":"13018"
+"Total": 13018
 },
 {
 "Name":"Defense Research Sciences",
-"Total":"239118"
+"Total": 239118
 },
 {
 "Name":"University Research Initiatives",
-"Total":"72603"
+"Total": 72603
 },
 {
 "Name":"University and Industry Research Centers",
-"Total":"100340"
+"Total": 100340
 }
 ]
 },
@@ -1129,11 +1129,11 @@
 "Subdivision":[
 {
 "Name":"Chemical Materials Agency",
-"Total":"10003"
+"Total": 10003
 },
 {
 "Name":"Assembled Chemical Weapons Alternatives",
-"Total":"569339"
+"Total": 569339
 }
 ]
 },
@@ -1142,163 +1142,163 @@
 "Subdivision":[
 {
 "Name":"MLRS Product Improvement Program",
-"Total":"18397"
+"Total": 18397
 },
 {
 "Name":"TRACTOR PULL",
-"Total":"9461"
+"Total": 9461
 },
 {
 "Name":"Weapons and Munitions Product Improvement Programs",
-"Total":"4945"
+"Total": 4945
 },
 {
 "Name":"TRACTOR SMOKE",
-"Total":"7569"
+"Total": 7569
 },
 {
 "Name":"Apache Product Improvement Program",
-"Total":"69862"
+"Total": 69862
 },
 {
 "Name":"Blackhawk Product Improvement Program",
-"Total":"66653"
+"Total": 66653
 },
 {
 "Name":"Chinook Product Improvement Program",
-"Total":"37407"
+"Total": 37407
 },
 {
 "Name":"Fixed Wing Product Improvement Program",
-"Total":"1151"
+"Total": 1151
 },
 {
 "Name":"Improved Turbine Engine Program",
-"Total":"51164"
+"Total": 51164
 },
 {
 "Name":"Emerging Technologies from NIE",
-"Total":"2481"
+"Total": 2481
 },
 {
 "Name":"Logistics Automation",
-"Total":"1673"
+"Total": 1673
 },
 {
 "Name":"Family of Biometrics",
-"Total":"13237"
+"Total": 13237
 },
 {
 "Name":"Patriot Product Improvement",
-"Total":"105816"
+"Total": 105816
 },
 {
 "Name":"Aerostat Joint Project - COCOM Exercise",
-"Total":"40565"
+"Total": 40565
 },
 {
 "Name":"Joint Automated Deep Operation Coordination System (JADOCS)",
-"Total":"35719"
+"Total": 35719
 },
 {
 "Name":"Combat Vehicle Improvement Programs",
-"Total":"257167"
+"Total": 257167
 },
 {
 "Name":"Maneuver Control System",
-"Total":"15445"
+"Total": 15445
 },
 {
 "Name":"Aircraft Engine Component Improvement Program",
-"Total":"364"
+"Total": 364
 },
 {
 "Name":"Digitization",
-"Total":"4361"
+"Total": 4361
 },
 {
 "Name":"Missile/Air Defense Product Improvement Program",
-"Total":"3154"
+"Total": 3154
 },
 {
 "Name":"Other Missile Product Improvement Programs",
-"Total":"35951"
+"Total": 35951
 },
 {
 "Name":"TRACTOR CARD",
-"Total":"34686"
+"Total": 34686
 },
 {
 "Name":"Integrated Base Defense - Operational System Dev",
-"Total":"10750"
+"Total": 10750
 },
 {
 "Name":"Materials Handling Equipment",
-"Total":"402"
+"Total": 402
 },
 {
 "Name":"Lower Tier Air and Missile Defense (AMD) System",
-"Total":"64159"
+"Total": 64159
 },
 {
 "Name":"Guided Multiple-Launch Rocket System (GMLRS)",
-"Total":"17527"
+"Total": 17527
 },
 {
 "Name":"Joint Tactical Ground System",
-"Total":"20515"
+"Total": 20515
 },
 {
 "Name":"Security and Intelligence Activities",
-"Total":"12368"
+"Total": 12368
 },
 {
 "Name":"Information Systems Security Program",
-"Total":"31154"
+"Total": 31154
 },
 {
 "Name":"Global Combat Support System",
-"Total":"12274"
+"Total": 12274
 },
 {
 "Name":"SATCOM Ground Environment (SPACE)",
-"Total":"9355"
+"Total": 9355
 },
 {
 "Name":"WWMCCS/Global Command and Control System",
-"Total":"7053"
+"Total": 7053
 },
 {
 "Name":"Integrated Broadcast Service (IBS)",
-"Total":"750"
+"Total": 750
 },
 {
 "Name":"Tactical Unmanned Aerial Vehicles",
-"Total":"13225"
+"Total": 13225
 },
 {
 "Name":"Airborne Reconnaissance Systems",
-"Total":"22870"
+"Total": 22870
 },
 {
 "Name":"Distributed Common Ground/Surface Systems",
-"Total":"25592"
+"Total": 25592
 },
 {
 "Name":"RQ-7 UAV",
-"Total":"7297"
+"Total": 7297
 },
 {
 "Name":"Win-T Increment 2 - Initial Networking",
-"Total":"3800"
+"Total": 3800
 },
 {
 "Name":"End Item Industrial Preparedness Activities",
-"Total":"48442"
+"Total": 48442
 },
 {
 "Name":"Classified Programs",
-"Total":"4536"
+"Total": 4536
 }
 ]
 },
@@ -1307,87 +1307,87 @@
 "Subdivision":[
 {
 "Name":"Threat Simulator Development",
-"Total":"20035"
+"Total": 20035
 },
 {
 "Name":"Target Systems Development",
-"Total":"16684"
+"Total": 16684
 },
 {
 "Name":"Major T&E Investment",
-"Total":"62580"
+"Total": 62580
 },
 {
 "Name":"Rand Arroyo Center",
-"Total":"20853"
+"Total": 20853
 },
 {
 "Name":"Army Kwajalein Atoll",
-"Total":"205145"
+"Total": 205145
 },
 {
 "Name":"Concepts Experimentation Program",
-"Total":"19430"
+"Total": 19430
 },
 {
 "Name":"Army Test Ranges and Facilities",
-"Total":"277646"
+"Total": 277646
 },
 {
 "Name":"Army Technical Test Instrumentation and Targets",
-"Total":"51550"
+"Total": 51550
 },
 {
 "Name":"Survivability/Lethality Analysis",
-"Total":"33246"
+"Total": 33246
 },
 {
 "Name":"Aircraft Certification",
-"Total":"4760"
+"Total": 4760
 },
 {
 "Name":"Meteorological Support to RDT&E Activities",
-"Total":"8303"
+"Total": 8303
 },
 {
 "Name":"Materiel Systems Analysis",
-"Total":"20403"
+"Total": 20403
 },
 {
 "Name":"Exploitation of Foreign Items",
-"Total":"10396"
+"Total": 10396
 },
 {
 "Name":"Support of Operational Testing",
-"Total":"49337"
+"Total": 49337
 },
 {
 "Name":"Army Evaluation Center",
-"Total":"52694"
+"Total": 52694
 },
 {
 "Name":"Army Modeling & Sim X-Cmd Collaboration & Integ",
-"Total":"938"
+"Total": 938
 },
 {
 "Name":"Programwide Activities",
-"Total":"60319"
+"Total": 60319
 },
 {
 "Name":"Technical Information Activities",
-"Total":"28478"
+"Total": 28478
 },
 {
 "Name":"Munitions Standardization Effectiveness and Safety",
-"Total":"32604"
+"Total": 32604
 },
 {
 "Name":"Environmental Quality Technology Mgmt Support",
-"Total":"3186"
+"Total": 3186
 },
 {
 "Name":"Management HQ - R&D",
-"Total":"48955"
+"Total": 48955
 }
 ]
 },
@@ -1396,207 +1396,207 @@
 "Subdivision":[
 {
 "Name":"Command Control Communications Systems - Eng Dev",
-"Total":"2726"
+"Total": 2726
 },
 {
 "Name":"Medical Materiel/Medical Biological Defense Equipment - Eng Dev",
-"Total":"45412"
+"Total": 45412
 },
 {
 "Name":"Landmine Warfare/Barrier - Eng Dev",
-"Total":"55215"
+"Total": 55215
 },
 {
 "Name":"Army Tactical Command & Control Hardware & Software",
-"Total":"163643"
+"Total": 163643
 },
 {
 "Name":"Radar Development",
-"Total":"12309"
+"Total": 12309
 },
 {
 "Name":"General Fund Enterprise Business System (GFEBS)",
-"Total":"15700"
+"Total": 15700
 },
 {
 "Name":"Firefinder",
-"Total":"6243"
+"Total": 6243
 },
 {
 "Name":"Soldier Systems - Warrior Dem/Val",
-"Total":"18776"
+"Total": 18776
 },
 {
 "Name":"Artillery Systems - EMD",
-"Total":"1953"
+"Total": 1953
 },
 {
 "Name":"Information Technology Development",
-"Total":"67358"
+"Total": 67358
 },
 {
 "Name":"Integrated Personnel and Pay System-Army (IPPS-A)",
-"Total":"136011"
+"Total": 136011
 },
 {
 "Name":"Armored Multi-Purpose Vehicle (AMPV)",
-"Total":"230210"
+"Total": 230210
 },
 {
 "Name":"Joint Tactical Network Center (JTNC)",
-"Total":"13357"
+"Total": 13357
 },
 {
 "Name":"Joint Tactical Network (JTN)",
-"Total":"18055"
+"Total": 18055
 },
 {
 "Name":"TRACTOR TIRE",
-"Total":"5677"
+"Total": 5677
 },
 {
 "Name":"Common Infrared Countermeasures (CIRCM)",
-"Total":"77570"
+"Total": 77570
 },
 {
 "Name":"Aircraft Survivability Development",
-"Total":"18112"
+"Total": 18112
 },
 {
 "Name":"WIN-T Increment 3 - Full Networking",
-"Total":"39700"
+"Total": 39700
 },
 {
 "Name":"AMF Joint Tactical Radio System (JTRS)",
-"Total":"12987"
+"Total": 12987
 },
 {
 "Name":"Joint Air-to-Ground Missile (JAGM)",
-"Total":"88866"
+"Total": 88866
 },
 {
 "Name":"PAC-3/MSE Missile",
-"Total":"2272"
+"Total": 2272
 },
 {
 "Name":"Army Integrated Air and Missile Defense (AIAMD)",
-"Total":"214099"
+"Total": 214099
 },
 {
 "Name":"Manned Ground Vehicle",
-"Total":"49247"
+"Total": 49247
 },
 {
 "Name":"Aerial Common Sensor",
-"Total":"2"
+"Total": 2
 },
 {
 "Name":"National Capabilities Integration (MIP)",
-"Total":"10599"
+"Total": 10599
 },
 {
 "Name":"Joint Light Tactical Vehicle (JLTV) Engineering and Manufacturing Development Ph",
-"Total":"32486"
+"Total": 32486
 },
 {
 "Name":"Aviation Ground Support Equipment",
-"Total":"8880"
+"Total": 8880
 },
 {
 "Name":"Paladin Integrated Management (PIM)",
-"Total":"152288"
+"Total": 152288
 },
 {
 "Name":"TROJAN - RH12",
-"Total":"5022"
+"Total": 5022
 },
 {
 "Name":"Electronic Warfare Development",
-"Total":"12686"
+"Total": 12686
 },
 {
 "Name":"Aircraft Avionics",
-"Total":"12939"
+"Total": 12939
 },
 {
 "Name":"Electronic Warfare Development",
-"Total":"18843"
+"Total": 18843
 },
 {
 "Name":"Joint Tactical Radio",
-"Total":"9861"
+"Total": 9861
 },
 {
 "Name":"Mid-tier Networking Vehicular Radio (MNVR)",
-"Total":"8763"
+"Total": 8763
 },
 {
 "Name":"All Source Analysis System",
-"Total":"4309"
+"Total": 4309
 },
 {
 "Name":"TRACTOR CAGE",
-"Total":"15138"
+"Total": 15138
 },
 {
 "Name":"Infantry Support Weapons",
-"Total":"74128"
+"Total": 74128
 },
 {
 "Name":"JAVELIN",
-"Total":"3945"
+"Total": 3945
 },
 {
 "Name":"Air Traffic Control",
-"Total":"10076"
+"Total": 10076
 },
 {
 "Name":"Tactical Unmanned Ground Vehicle (TUGV)",
-"Total":"40374"
+"Total": 40374
 },
 {
 "Name":"Night Vision Systems - Eng Dev",
-"Total":"67582"
+"Total": 67582
 },
 {
 "Name":"Combat Feeding Clothing and Equipment",
-"Total":"1763"
+"Total": 1763
 },
 {
 "Name":"Non-System Training Devices - Eng Dev",
-"Total":"27155"
+"Total": 27155
 },
 {
 "Name":"Air Defense Command Control and Intelligence - Eng Dev",
-"Total":"24569"
+"Total": 24569
 },
 {
 "Name":"Constructive Simulation Systems Development",
-"Total":"23364"
+"Total": 23364
 },
 {
 "Name":"Automatic Test Equipment Development",
-"Total":"8960"
+"Total": 8960
 },
 {
 "Name":"Distributive Interactive Simulations (DIS) - Eng Dev",
-"Total":"9138"
+"Total": 9138
 },
 {
 "Name":"Combined Arms Tactical Trainer (CATT) Core",
-"Total":"21622"
+"Total": 21622
 },
 {
 "Name":"Brigade Analysis Integration and Evaluation",
-"Total":"99242"
+"Total": 99242
 },
 {
 "Name":"Weapons and Munitions - Eng Dev",
-"Total":"21379"
+"Total": 21379
 },
 {
 "Name":"Logistics and Engineer Equipment - Eng Dev",
-"Total":"48339"
+"Total": 48339
 }
 ]
 }
@@ -1610,7 +1610,7 @@
 "Subdivision":[
 {
 "Name":"Classified Programs",
-"Total":"49500"
+"Total": 49500
 }
 ]
 },
@@ -1619,7 +1619,7 @@
 "Subdivision":[
 {
 "Name":"Classified Programs",
-"Total":"3701359"
+"Total": 3701359
 }
 ]
 }
@@ -1633,7 +1633,7 @@
 "Subdivision":[
 {
 "Name":"Chemical and Biological Defense Program - Dem/Val",
-"Total":"172754"
+"Total": 172754
 }
 ]
 },
@@ -1642,7 +1642,7 @@
 "Subdivision":[
 {
 "Name":"Chemical and Biological Defense Program - Advanced Development",
-"Total":"140094"
+"Total": 140094
 }
 ]
 },
@@ -1651,7 +1651,7 @@
 "Subdivision":[
 {
 "Name":"Chemical and Biological Defense Program",
-"Total":"208111"
+"Total": 208111
 }
 ]
 },
@@ -1660,7 +1660,7 @@
 "Subdivision":[
 {
 "Name":"Chemical and Biological Defense Program",
-"Total":"46261"
+"Total": 46261
 }
 ]
 },
@@ -1669,7 +1669,7 @@
 "Subdivision":[
 {
 "Name":"Chemical and Biological Defense Program",
-"Total":"102264"
+"Total": 102264
 }
 ]
 },
@@ -1678,7 +1678,7 @@
 "Subdivision":[
 {
 "Name":"Chemical and Biological Defense (Operational Systems Development)",
-"Total":"33561"
+"Total": 33561
 }
 ]
 },
@@ -1687,7 +1687,7 @@
 "Subdivision":[
 {
 "Name":"Chemical and Biological Defense Program - EMD",
-"Total":"303647"
+"Total": 303647
 }
 ]
 }
@@ -1701,27 +1701,27 @@
 "Subdivision":[
 {
 "Name":"Advanced Aerospace Systems",
-"Total":"185043"
+"Total": 185043
 },
 {
 "Name":"Space Programs and Technology",
-"Total":"126692"
+"Total": 126692
 },
 {
 "Name":"Advanced Electronics Technologies",
-"Total":"79021"
+"Total": 79021
 },
 {
 "Name":"Command Control and Communications Systems",
-"Total":"201335"
+"Total": 201335
 },
 {
 "Name":"Network-Centric Warfare Technology",
-"Total":"452861"
+"Total": 452861
 },
 {
 "Name":"Sensor Technology",
-"Total":"257127"
+"Total": 257127
 }
 ]
 },
@@ -1730,27 +1730,27 @@
 "Subdivision":[
 {
 "Name":"Information & Communications Technology",
-"Total":"356358"
+"Total": 356358
 },
 {
 "Name":"Biological Warfare Defense",
-"Total":"29265"
+"Total": 29265
 },
 {
 "Name":"Tactical Technology",
-"Total":"314582"
+"Total": 314582
 },
 {
 "Name":"Materials and Biological Technology",
-"Total":"220115"
+"Total": 220115
 },
 {
 "Name":"Electronics Technology",
-"Total":"174798"
+"Total": 174798
 },
 {
 "Name":"Biomedical Technology",
-"Total":"114262"
+"Total": 114262
 }
 ]
 },
@@ -1759,11 +1759,11 @@
 "Subdivision":[
 {
 "Name":"Defense Research Sciences",
-"Total":"333119"
+"Total": 333119
 },
 {
 "Name":"Basic Operational Medical Research Science",
-"Total":"56544"
+"Total": 56544
 }
 ]
 },
@@ -1772,7 +1772,7 @@
 "Subdivision":[
 {
 "Name":"Management HQ - R&D",
-"Total":"71571"
+"Total": 71571
 }
 ]
 }
@@ -1786,7 +1786,7 @@
 "Subdivision":[
 {
 "Name":"Information Technology Development",
-"Total":"12542"
+"Total": 12542
 }
 ]
 }
@@ -1800,63 +1800,63 @@
 "Subdivision":[
 {
 "Name":"Information Technology Development ? Theater Medical Information Program-Joint",
-"Total":"22100"
+"Total": 22100
 },
 {
 "Name":"In-House Laboratory Independent Research",
-"Total":"3599"
+"Total": 3599
 },
 {
 "Name":"Information Technology Development- DoD Healthcare Management System Modernizati",
-"Total":"438376"
+"Total": 438376
 },
 {
 "Name":"DoD Medical Information Exchange and Interoperability",
-"Total":"11000"
+"Total": 11000
 },
 {
 "Name":"Medical Products and Support Systems Development",
-"Total":"15906"
+"Total": 15906
 },
 {
 "Name":"Medical Program-Wide Activities",
-"Total":"41567"
+"Total": 41567
 },
 {
 "Name":"Medical Products and Capabilities Enhancement Activities",
-"Total":"17356"
+"Total": 17356
 },
 {
 "Name":"Basic Operational Medical Research Science",
-"Total":"7397"
+"Total": 7397
 },
 {
 "Name":"Applied Biomedical Technology",
-"Total":"58251"
+"Total": 58251
 },
 {
 "Name":"Medical Technology",
-"Total":"1222"
+"Total": 1222
 },
 {
 "Name":"Medical Advanced Technology",
-"Total":"305"
+"Total": 305
 },
 {
 "Name":"Medical Technology Development",
-"Total":"231051"
+"Total": 231051
 },
 {
 "Name":"Medical Products Support and Advanced Concept Development",
-"Total":"103443"
+"Total": 103443
 },
 {
 "Name":"Information Technology Development",
-"Total":"19312"
+"Total": 19312
 },
 {
 "Name":"Information Technology Development - Integrated Electronic Health Record",
-"Total":"9216"
+"Total": 9216
 }
 ]
 }
@@ -1870,7 +1870,7 @@
 "Subdivision":[
 {
 "Name":"Distributed Learning Advanced Technology Development",
-"Total":"10771"
+"Total": 10771
 }
 ]
 },
@@ -1879,7 +1879,7 @@
 "Subdivision":[
 {
 "Name":"R&D in Support of DoD Enlistment Testing and Evaluation",
-"Total":"9533"
+"Total": 9533
 }
 ]
 },
@@ -1888,7 +1888,7 @@
 "Subdivision":[
 {
 "Name":"Homeland Personnel Security Initiative",
-"Total":"191"
+"Total": 191
 }
 ]
 }
@@ -1902,51 +1902,51 @@
 "Subdivision":[
 {
 "Name":"C4I Interoperability",
-"Total":"64921"
+"Total": 64921
 },
 {
 "Name":"Joint/Allied Coalition Information Sharing",
-"Total":"3645"
+"Total": 3645
 },
 {
 "Name":"National Military Command System-Wide Support",
-"Total":"963"
+"Total": 963
 },
 {
 "Name":"Defense Info Infrastructure Engineering and Integration",
-"Total":"10186"
+"Total": 10186
 },
 {
 "Name":"Long-Haul Communications - DCS",
-"Total":"36883"
+"Total": 36883
 },
 {
 "Name":"Minimum Essential Emergency Communications Network (MEECN)",
-"Total":"13735"
+"Total": 13735
 },
 {
 "Name":"Global Command and Control System",
-"Total":"21503"
+"Total": 21503
 },
 {
 "Name":"Defense Spectrum Organization",
-"Total":"20342"
+"Total": 20342
 },
 {
 "Name":"Net-Centric Enterprise Services (NCES)",
-"Total":"444"
+"Total": 444
 },
 {
 "Name":"Teleport Program",
-"Total":"1736"
+"Total": 1736
 },
 {
 "Name":"Cyber Security Initiative",
-"Total":"2976"
+"Total": 2976
 },
 {
 "Name":"Distributed Common Ground/Surface Systems",
-"Total":"3239"
+"Total": 3239
 }
 ]
 },
@@ -1955,11 +1955,11 @@
 "Subdivision":[
 {
 "Name":"Advanced IT Services Joint Program Office (AITS-JPO)",
-"Total":"23424"
+"Total": 23424
 },
 {
 "Name":"Global Combat Support System",
-"Total":"15158"
+"Total": 15158
 }
 ]
 }
@@ -1973,19 +1973,19 @@
 "Subdivision":[
 {
 "Name":"Agile Transportation for the 21st Century (AT21) - Theater Capability",
-"Total":"2679"
+"Total": 2679
 },
 {
 "Name":"Generic Logistics R&D Technology Demonstrations",
-"Total":"16543"
+"Total": 16543
 },
 {
 "Name":"Deployment and Distribution Enterprise Technology",
-"Total":"29888"
+"Total": 29888
 },
 {
 "Name":"Microelectronics Technology Development and Support",
-"Total":"79037"
+"Total": 79037
 }
 ]
 },
@@ -1994,11 +1994,11 @@
 "Subdivision":[
 {
 "Name":"Industrial Preparedness",
-"Total":"24605"
+"Total": 24605
 },
 {
 "Name":"Logistics Support Activities",
-"Total":"1770"
+"Total": 1770
 }
 ]
 },
@@ -2007,15 +2007,15 @@
 "Subdivision":[
 {
 "Name":"DOD Enterprise Systems Development and Demonstration",
-"Total":"13412"
+"Total": 13412
 },
 {
 "Name":"Defense Agency Intiatives (DAI) - Financial System",
-"Total":"31660"
+"Total": 31660
 },
 {
 "Name":"Defense Retired and Annuitant Pay System (DRAS)",
-"Total":"13085"
+"Total": 13085
 }
 ]
 }
@@ -2029,15 +2029,15 @@
 "Subdivision":[
 {
 "Name":"Regional International Outreach (RIO) and Partnership for Peace Information Mana",
-"Total":"1750"
+"Total": 1750
 },
 {
 "Name":"Overseas Humanitarian Assistance Shared Information System (OHASIS)",
-"Total":"294"
+"Total": 294
 },
 {
 "Name":"Global Theater Security Cooperation Management Information Systems (G-TSCMIS)",
-"Total":"8474"
+"Total": 8474
 }
 ]
 }
@@ -2051,11 +2051,11 @@
 "Subdivision":[
 {
 "Name":"Enterprise Security System (ESS)",
-"Total":"7929"
+"Total": 7929
 },
 {
 "Name":"Insider Threat",
-"Total":"11733"
+"Total": 11733
 }
 ]
 }
@@ -2069,7 +2069,7 @@
 "Subdivision":[
 {
 "Name":"Defense Technical Information Center (DTIC)",
-"Total":"51775"
+"Total": 51775
 }
 ]
 }
@@ -2083,7 +2083,7 @@
 "Subdivision":[
 {
 "Name":"Counterproliferation Initiatives - Proliferation Prevention and Defeat",
-"Total":"290654"
+"Total": 290654
 }
 ]
 },
@@ -2092,7 +2092,7 @@
 "Subdivision":[
 {
 "Name":"Weapons of Mass Destruction Defeat Technologies",
-"Total":"155415"
+"Total": 155415
 }
 ]
 },
@@ -2101,7 +2101,7 @@
 "Subdivision":[
 {
 "Name":"DTRA Basic Research Initiative",
-"Total":"38436"
+"Total": 38436
 }
 ]
 },
@@ -2110,7 +2110,7 @@
 "Subdivision":[
 {
 "Name":"Weapons of Mass Destruction Defeat Capabilities",
-"Total":"7156"
+"Total": 7156
 }
 ]
 }
@@ -2124,7 +2124,7 @@
 "Subdivision":[
 {
 "Name":"Inspector General DoD Audit Intelligence and Non-Criminal Investigative Activ",
-"Total":"4700"
+"Total": 4700
 }
 ]
 }
@@ -2138,107 +2138,107 @@
 "Subdivision":[
 {
 "Name":"Long Range Discrimination Radar (LRDR)",
-"Total":"137564"
+"Total": 137564
 },
 {
 "Name":"Improved Homeland Defense Interceptors",
-"Total":"278944"
+"Total": 278944
 },
 {
 "Name":"Ballistic Missile Defense Terminal Defense Segment Test",
-"Total":"26225"
+"Total": 26225
 },
 {
 "Name":"Aegis BMD Test",
-"Total":"55148"
+"Total": 55148
 },
 {
 "Name":"Ballistic Missile Defense Sensor Test",
-"Total":"86764"
+"Total": 86764
 },
 {
 "Name":"Land-Based SM-3 (LBSM3)",
-"Total":"34970"
+"Total": 34970
 },
 {
 "Name":"AEGIS SM-3 Block IIA Co-Development",
-"Total":"172645"
+"Total": 172645
 },
 {
 "Name":"Ballistic Missile Defense Midcourse Segment Test",
-"Total":"64618"
+"Total": 64618
 },
 {
 "Name":"Cyber Security Initiative",
-"Total":"963"
+"Total": 963
 },
 {
 "Name":"Ballistic Missile Defense Terminal Defense Segment",
-"Total":"228021"
+"Total": 228021
 },
 {
 "Name":"Ballistic Missile Defense Midcourse Defense Segment",
-"Total":"1284891"
+"Total": 1284891
 },
 {
 "Name":"Ballistic Missile Defense Sensors",
-"Total":"233588"
+"Total": 233588
 },
 {
 "Name":"BMD Enabling Programs",
-"Total":"409088"
+"Total": 409088
 },
 {
 "Name":"Special Programs - MDA",
-"Total":"400387"
+"Total": 400387
 },
 {
 "Name":"AEGIS BMD",
-"Total":"843355"
+"Total": 843355
 },
 {
 "Name":"Space Tracking & Surveillance System",
-"Total":"31632"
+"Total": 31632
 },
 {
 "Name":"Ballistic Missile Defense System Space Programs",
-"Total":"23289"
+"Total": 23289
 },
 {
 "Name":"Ballistic Missile Defense Command and Control Battle Management and Communicati",
-"Total":"450085"
+"Total": 450085
 },
 {
 "Name":"Ballistic Missile Defense Joint Warfighter Support",
-"Total":"49570"
+"Total": 49570
 },
 {
 "Name":"Missile Defense Integration & Operations Center (MDIOC)",
-"Total":"49211"
+"Total": 49211
 },
 {
 "Name":"Regarding Trench",
-"Total":"9583"
+"Total": 9583
 },
 {
 "Name":"Sea Based X-Band Radar (SBX)",
-"Total":"72866"
+"Total": 72866
 },
 {
 "Name":"Israeli Cooperative Programs",
-"Total":"102795"
+"Total": 102795
 },
 {
 "Name":"Ballistic Missile Defense Test",
-"Total":"274323"
+"Total": 274323
 },
 {
 "Name":"Ballistic Missile Defense Targets",
-"Total":"513256"
+"Total": 513256
 },
 {
 "Name":"Technology Maturation Initiatives",
-"Total":"96300"
+"Total": 96300
 }
 ]
 },
@@ -2247,31 +2247,31 @@
 "Subdivision":[
 {
 "Name":"Advanced Concepts and Performance Assessment",
-"Total":"12139"
+"Total": 12139
 },
 {
 "Name":"Discrimination Sensor Technology",
-"Total":"28200"
+"Total": 28200
 },
 {
 "Name":"Weapons Technology",
-"Total":"45389"
+"Total": 45389
 },
 {
 "Name":"Advanced C4ISR",
-"Total":"9876"
+"Total": 9876
 },
 {
 "Name":"Advanced Research",
-"Total":"17364"
+"Total": 17364
 },
 {
 "Name":"Special Program - MDA Technology",
-"Total":"64708"
+"Total": 64708
 },
 {
 "Name":"Common Kill Vehicle Technology",
-"Total":"46753"
+"Total": 46753
 }
 ]
 },
@@ -2280,7 +2280,7 @@
 "Subdivision":[
 {
 "Name":"Management HQ - MDA",
-"Total":"35871"
+"Total": 35871
 }
 ]
 }
@@ -2294,247 +2294,247 @@
 "Subdivision":[
 {
 "Name":"Air/Ocean Tactical Applications",
-"Total":"41832"
+"Total": 41832
 },
 {
 "Name":"Aviation Survivability",
-"Total":"5404"
+"Total": 5404
 },
 {
 "Name":"Deployable Joint Command and  Control",
-"Total":"3086"
+"Total": 3086
 },
 {
 "Name":"Aircraft Systems",
-"Total":"11643"
+"Total": 11643
 },
 {
 "Name":"ASW Systems Development",
-"Total":"5555"
+"Total": 5555
 },
 {
 "Name":"Tactical Airborne Reconnaissance",
-"Total":"3087"
+"Total": 3087
 },
 {
 "Name":"Advanced Combat Systems Technology",
-"Total":"1636"
+"Total": 1636
 },
 {
 "Name":"Surface and Shallow Water Mine Countermeasures",
-"Total":"118588"
+"Total": 118588
 },
 {
 "Name":"Surface Ship Torpedo Defense",
-"Total":"77385"
+"Total": 77385
 },
 {
 "Name":"Carrier Systems Development",
-"Total":"8348"
+"Total": 8348
 },
 {
 "Name":"PILOT FISH",
-"Total":"123246"
+"Total": 123246
 },
 {
 "Name":"RETRACT LARCH",
-"Total":"28819"
+"Total": 28819
 },
 {
 "Name":"RETRACT JUNIPER",
-"Total":"112678"
+"Total": 112678
 },
 {
 "Name":"Radiological Control",
-"Total":"710"
+"Total": 710
 },
 {
 "Name":"Surface ASW",
-"Total":"1096"
+"Total": 1096
 },
 {
 "Name":"Advanced Submarine System Development",
-"Total":"87160"
+"Total": 87160
 },
 {
 "Name":"Submarine Tactical Warfare Systems",
-"Total":"10371"
+"Total": 10371
 },
 {
 "Name":"Ship Concept Advanced Design",
-"Total":"11888"
+"Total": 11888
 },
 {
 "Name":"Ship Preliminary Design & Feasibility Studies",
-"Total":"4332"
+"Total": 4332
 },
 {
 "Name":"Advanced Nuclear Power Systems",
-"Total":"482040"
+"Total": 482040
 },
 {
 "Name":"Advanced Surface Machinery Systems",
-"Total":"25904"
+"Total": 25904
 },
 {
 "Name":"CHALK EAGLE",
-"Total":"511802"
+"Total": 511802
 },
 {
 "Name":"Littoral Combat Ship (LCS)",
-"Total":"118416"
+"Total": 118416
 },
 {
 "Name":"Combat System Integration",
-"Total":"35901"
+"Total": 35901
 },
 {
 "Name":"Ohio Replacement",
-"Total":"971393"
+"Total": 971393
 },
 {
 "Name":"LCS Mission Modules",
-"Total":"206149"
+"Total": 206149
 },
 {
 "Name":"Automated Test and Re-Test (ATRT)",
-"Total":"8000"
+"Total": 8000
 },
 {
 "Name":"Conventional Munitions",
-"Total":"7678"
+"Total": 7678
 },
 {
 "Name":"Marine Corps Assault Vehicles",
-"Total":"219082"
+"Total": 219082
 },
 {
 "Name":"Marine Corps Ground Combat/Support System",
-"Total":"623"
+"Total": 623
 },
 {
 "Name":"Joint Service Explosive Ordnance Development",
-"Total":"18260"
+"Total": 18260
 },
 {
 "Name":"Cooperative Engagement",
-"Total":"76247"
+"Total": 76247
 },
 {
 "Name":"Ocean Engineering Technology Development",
-"Total":"4520"
+"Total": 4520
 },
 {
 "Name":"Environmental Protection",
-"Total":"20711"
+"Total": 20711
 },
 {
 "Name":"Navy Energy Program",
-"Total":"47761"
+"Total": 47761
 },
 {
 "Name":"Facilities Improvement",
-"Total":"5226"
+"Total": 5226
 },
 {
 "Name":"CHALK CORAL",
-"Total":"182771"
+"Total": 182771
 },
 {
 "Name":"Navy Logistic Productivity",
-"Total":"3866"
+"Total": 3866
 },
 {
 "Name":"RETRACT MAPLE",
-"Total":"360065"
+"Total": 360065
 },
 {
 "Name":"LINK PLUMERIA",
-"Total":"237416"
+"Total": 237416
 },
 {
 "Name":"RETRACT ELM",
-"Total":"37944"
+"Total": 37944
 },
 {
 "Name":"LINK EVERGREEN",
-"Total":"47312"
+"Total": 47312
 },
 {
 "Name":"Special Processes",
-"Total":"17408"
+"Total": 17408
 },
 {
 "Name":"NATO Research and Development",
-"Total":"9359"
+"Total": 9359
 },
 {
 "Name":"Land Attack Technology",
-"Total":"887"
+"Total": 887
 },
 {
 "Name":"Joint Non-Lethal Weapons Testing",
-"Total":"29448"
+"Total": 29448
 },
 {
 "Name":"Joint Precision Approach and Landing Systems - Dem/Val",
-"Total":"91479"
+"Total": 91479
 },
 {
 "Name":"Directed Energy and Electric Weapon Systems",
-"Total":"67360"
+"Total": 67360
 },
 {
 "Name":"Gerald R. Ford Class Nuclear Aircraft Carrier (CVN 78 - 80)",
-"Total":"48105"
+"Total": 48105
 },
 {
 "Name":"Remote Minehunting System (RMS)",
-"Total":"20089"
+"Total": 20089
 },
 {
 "Name":"Tactical Air Directional Infrared Countermeasures (TADIRCM)",
-"Total":"18969"
+"Total": 18969
 },
 {
 "Name":"ASE Self-Protection Optimization",
-"Total":"7874"
+"Total": 7874
 },
 {
 "Name":"MH-XX",
-"Total":"5298"
+"Total": 5298
 },
 {
 "Name":"LX (R)",
-"Total":"46486"
+"Total": 46486
 },
 {
 "Name":"Joint Counter Radio Controlled IED Electronic Warfare (JCREW)",
-"Total":"3817"
+"Total": 3817
 },
 {
 "Name":"Precision Strike Weapons Development Program",
-"Total":"9595"
+"Total": 9595
 },
 {
 "Name":"Space and Electronic Warfare (SEW) Architecture/Engineering Support",
-"Total":"29581"
+"Total": 29581
 },
 {
 "Name":"Offensive Anti-Surface Warfare Weapon Development",
-"Total":"285849"
+"Total": 285849
 },
 {
 "Name":"Joint Light Tactical Vehicle (JLTV) Engineering and Manufacturing Development Ph",
-"Total":"36656"
+"Total": 36656
 },
 {
 "Name":"ASW Systems Development - MIP",
-"Total":"9835"
+"Total": 9835
 },
 {
 "Name":"Electronic Warfare Development - MIP",
-"Total":"580"
+"Total": 580
 }
 ]
 },
@@ -2543,47 +2543,47 @@
 "Subdivision":[
 {
 "Name":"Power Projection Advanced Technology",
-"Total":"37093"
+"Total": 37093
 },
 {
 "Name":"Force Protection Advanced Technology",
-"Total":"38044"
+"Total": 38044
 },
 {
 "Name":"Electromagnetic Systems Advanced Technology",
-"Total":"34899"
+"Total": 34899
 },
 {
 "Name":"USMC Advanced Technology Demonstration (ATD)",
-"Total":"137562"
+"Total": 137562
 },
 {
 "Name":"Joint Non-Lethal Weapons Technology Development",
-"Total":"12745"
+"Total": 12745
 },
 {
 "Name":"Future Naval Capabilities Advanced Technology Development",
-"Total":"258860"
+"Total": 258860
 },
 {
 "Name":"Manufacturing Technology Program",
-"Total":"57074"
+"Total": 57074
 },
 {
 "Name":"Warfighter Protection Advanced Technology",
-"Total":"4807"
+"Total": 4807
 },
 {
 "Name":"Undersea Warfare Advanced Technology",
-"Total":"13748"
+"Total": 13748
 },
 {
 "Name":"Navy Warfighting Experiments and Demonstrations",
-"Total":"66041"
+"Total": 66041
 },
 {
 "Name":"Mine and Expeditionary Warfare Advanced Technology",
-"Total":"1991"
+"Total": 1991
 }
 ]
 },
@@ -2592,47 +2592,47 @@
 "Subdivision":[
 {
 "Name":"Ocean Warfighting Environment Applied Research",
-"Total":"42252"
+"Total": 42252
 },
 {
 "Name":"Joint Non-Lethal Weapons Applied Research",
-"Total":"6119"
+"Total": 6119
 },
 {
 "Name":"Undersea Warfare Applied Research",
-"Total":"123750"
+"Total": 123750
 },
 {
 "Name":"Future Naval Capabilities Applied Research",
-"Total":"179686"
+"Total": 179686
 },
 {
 "Name":"Mine and Expeditionary Warfare Applied Research",
-"Total":"37418"
+"Total": 37418
 },
 {
 "Name":"Power Projection Applied Research",
-"Total":"68723"
+"Total": 68723
 },
 {
 "Name":"Force Protection Applied Research",
-"Total":"154963"
+"Total": 154963
 },
 {
 "Name":"Marine Corps Landing Force Technology",
-"Total":"49001"
+"Total": 49001
 },
 {
 "Name":"Common Picture Applied Research",
-"Total":"42551"
+"Total": 42551
 },
 {
 "Name":"Warfighter Sustainment Applied Research",
-"Total":"45056"
+"Total": 45056
 },
 {
 "Name":"Electromagnetic Systems Applied Research",
-"Total":"115051"
+"Total": 115051
 }
 ]
 },
@@ -2641,15 +2641,15 @@
 "Subdivision":[
 {
 "Name":"University Research Initiatives",
-"Total":"116196"
+"Total": 116196
 },
 {
 "Name":"In-House Laboratory Independent Research",
-"Total":"19126"
+"Total": 19126
 },
 {
 "Name":"Defense Research Sciences",
-"Total":"451606"
+"Total": 451606
 }
 ]
 },
@@ -2658,71 +2658,71 @@
 "Subdivision":[
 {
 "Name":"Threat Simulator Development",
-"Total":"30769"
+"Total": 30769
 },
 {
 "Name":"Target Systems Development",
-"Total":"112606"
+"Total": 112606
 },
 {
 "Name":"Major T&E Investment",
-"Total":"61234"
+"Total": 61234
 },
 {
 "Name":"Joint Theater Air and Missile Defense Organization",
-"Total":"6995"
+"Total": 6995
 },
 {
 "Name":"Studies and Analysis Support - Navy",
-"Total":"4011"
+"Total": 4011
 },
 {
 "Name":"Center for Naval Analyses",
-"Total":"48563"
+"Total": 48563
 },
 {
 "Name":"Next Generation Fighter",
-"Total":"5000"
+"Total": 5000
 },
 {
 "Name":"Technical Information Services",
-"Total":"925"
+"Total": 925
 },
 {
 "Name":"Management Technical  & International Support",
-"Total":"78143"
+"Total": 78143
 },
 {
 "Name":"Strategic Technical Support",
-"Total":"3258"
+"Total": 3258
 },
 {
 "Name":"RDT&E Science and Technology Management",
-"Total":"76948"
+"Total": 76948
 },
 {
 "Name":"RDT&E Ship and Aircraft Support",
-"Total":"132122"
+"Total": 132122
 },
 {
 "Name":"Test and Evaluation Support",
-"Total":"351912"
+"Total": 351912
 },
 {
 "Name":"Operational Test and Evaluation Capability",
-"Total":"17985"
+"Total": 17985
 },
 {
 "Name":"Navy Space and Electronic Warfare (SEW) Support",
-"Total":"5316"
+"Total": 5316
 },
 {
 "Name":"SEW Surveillance/Reconnaissance Support",
-"Total":"6519"
+"Total": 6519
 },
 {
 "Name":"Marine Corps Program Wide Support",
-"Total":"13649"
+"Total": 13649
 }
 ]
 },
@@ -2731,7 +2731,7 @@
 "Subdivision":[
 {
 "Name":"National Defense Sealift Fund",
-"Total":"25197"
+"Total": 25197
 }
 ]
 },
@@ -2740,211 +2740,211 @@
 "Subdivision":[
 {
 "Name":"Strategic Sub & Weapons System Support",
-"Total":"107039"
+"Total": 107039
 },
 {
 "Name":"SSBN Security Technology Program",
-"Total":"46506"
+"Total": 46506
 },
 {
 "Name":"Submarine Acoustic Warfare Development",
-"Total":"3900"
+"Total": 3900
 },
 {
 "Name":"Navy Strategic Communications",
-"Total":"16569"
+"Total": 16569
 },
 {
 "Name":"Rapid Technology Transition (RTT)",
-"Total":"18632"
+"Total": 18632
 },
 {
 "Name":"F/A-18 Squadrons",
-"Total":"133265"
+"Total": 133265
 },
 {
 "Name":"Fleet Telecommunications (Tactical)",
-"Total":"62867"
+"Total": 62867
 },
 {
 "Name":"Surface Support",
-"Total":"36045"
+"Total": 36045
 },
 {
 "Name":"Tomahawk and Tomahawk Mission Planning Center (TMPC)",
-"Total":"25228"
+"Total": 25228
 },
 {
 "Name":"Integrated Surveillance System",
-"Total":"54218"
+"Total": 54218
 },
 {
 "Name":"Amphibious Tactical Support Units (Displacement Craft)",
-"Total":"11335"
+"Total": 11335
 },
 {
 "Name":"Ground/Air Task Oriented Radar (G/ATOR)",
-"Total":"80129"
+"Total": 80129
 },
 {
 "Name":"Consolidated Training Systems Development",
-"Total":"39087"
+"Total": 39087
 },
 {
 "Name":"Cryptologic Direct Support",
-"Total":"1915"
+"Total": 1915
 },
 {
 "Name":"Electronic Warfare (EW) Readiness Support",
-"Total":"46609"
+"Total": 46609
 },
 {
 "Name":"HARM Improvement",
-"Total":"52708"
+"Total": 52708
 },
 {
 "Name":"Tactical Data Links",
-"Total":"149997"
+"Total": 149997
 },
 {
 "Name":"Surface ASW Combat System Integration",
-"Total":"24460"
+"Total": 24460
 },
 {
 "Name":"MK-48 ADCAP",
-"Total":"42206"
+"Total": 42206
 },
 {
 "Name":"Aviation Improvements",
-"Total":"117759"
+"Total": 117759
 },
 {
 "Name":"Operational Nuclear Power Systems",
-"Total":"101323"
+"Total": 101323
 },
 {
 "Name":"Marine Corps Communications Systems",
-"Total":"67763"
+"Total": 67763
 },
 {
 "Name":"Common Aviation Command and Control System (CAC2S)",
-"Total":"13431"
+"Total": 13431
 },
 {
 "Name":"Marine Corps Ground Combat/Supporting Arms Systems",
-"Total":"56769"
+"Total": 56769
 },
 {
 "Name":"Marine Corps Combat Services Support",
-"Total":"20729"
+"Total": 20729
 },
 {
 "Name":"USMC Intelligence/Electronic Warfare Systems (MIP)",
-"Total":"13152"
+"Total": 13152
 },
 {
 "Name":"Amphibious Assault Vehicle",
-"Total":"48535"
+"Total": 48535
 },
 {
 "Name":"Tactical AIM Missiles",
-"Total":"76016"
+"Total": 76016
 },
 {
 "Name":"Advanced Medium Range Air-to-Air Missile (AMRAAM)",
-"Total":"32172"
+"Total": 32172
 },
 {
 "Name":"Satellite Communications (SPACE)",
-"Total":"53239"
+"Total": 53239
 },
 {
 "Name":"Consolidated Afloat Network Enterprise Services (CANES)",
-"Total":"21677"
+"Total": 21677
 },
 {
 "Name":"Information Systems Security Program",
-"Total":"28102"
+"Total": 28102
 },
 {
 "Name":"WWMCCS/Global Command and Control System",
-"Total":"294"
+"Total": 294
 },
 {
 "Name":"Navy Meteorological and Ocean Sensors-Space (METOC)",
-"Total":"599"
+"Total": 599
 },
 {
 "Name":"Military Intelligence Program (MIP) Activities",
-"Total":"6207"
+"Total": 6207
 },
 {
 "Name":"Tactical Unmanned Aerial Vehicles",
-"Total":"8550"
+"Total": 8550
 },
 {
 "Name":"UAS Integration and Interoperability",
-"Total":"41831"
+"Total": 41831
 },
 {
 "Name":"Distributed Common Ground/Surface Systems",
-"Total":"1105"
+"Total": 1105
 },
 {
 "Name":"Distributed Common Ground/Surface Systems",
-"Total":"33149"
+"Total": 33149
 },
 {
 "Name":"RQ-4 UAV",
-"Total":"227188"
+"Total": 227188
 },
 {
 "Name":"MQ-8 UAV",
-"Total":"52770"
+"Total": 52770
 },
 {
 "Name":"RQ-11 UAV",
-"Total":"635"
+"Total": 635
 },
 {
 "Name":"RQ-7 UAV",
-"Total":"688"
+"Total": 688
 },
 {
 "Name":"Small (Level 0) Tactical UAS (STUASL0)",
-"Total":"4647"
+"Total": 4647
 },
 {
 "Name":"RQ-21A",
-"Total":"6435"
+"Total": 6435
 },
 {
 "Name":"Multi-Intelligence Sensor Development",
-"Total":"49145"
+"Total": 49145
 },
 {
 "Name":"Unmanned Aerial Systems (UAS) Payloads (MIP)",
-"Total":"9246"
+"Total": 9246
 },
 {
 "Name":"RQ-4 Modernization",
-"Total":"150854"
+"Total": 150854
 },
 {
 "Name":"Modeling and Simulation Support",
-"Total":"4757"
+"Total": 4757
 },
 {
 "Name":"Depot Maintenance (Non-IF)",
-"Total":"24185"
+"Total": 24185
 },
 {
 "Name":"Maritime Technology (MARITECH)",
-"Total":"4321"
+"Total": 4321
 },
 {
 "Name":"Classified Programs",
-"Total":"1287932"
+"Total": 1287932
 }
 ]
 },
@@ -2953,251 +2953,251 @@
 "Subdivision":[
 {
 "Name":"Air Crew Systems Development",
-"Total":"12679"
+"Total": 12679
 },
 {
 "Name":"EA-18",
-"Total":"56921"
+"Total": 56921
 },
 {
 "Name":"Electronic Warfare Development",
-"Total":"23685"
+"Total": 23685
 },
 {
 "Name":"Executive Helo Development",
-"Total":"507093"
+"Total": 507093
 },
 {
 "Name":"Next Generation Jammer (NGJ)",
-"Total":"411767"
+"Total": 411767
 },
 {
 "Name":"Joint Tactical Radio System - Navy (JTRS-Navy)",
-"Total":"25071"
+"Total": 25071
 },
 {
 "Name":"Surface Combatant Combat System Engineering",
-"Total":"443433"
+"Total": 443433
 },
 {
 "Name":"LPD-17 Class Systems Integration",
-"Total":"747"
+"Total": 747
 },
 {
 "Name":"Small Diameter Bomb (SDB)",
-"Total":"97002"
+"Total": 97002
 },
 {
 "Name":"Standard Missile Improvements",
-"Total":"129649"
+"Total": 129649
 },
 {
 "Name":"Airborne MCM",
-"Total":"11647"
+"Total": 11647
 },
 {
 "Name":"Marine Air Ground Task Force (MAGTF) Electronic Warfare (EW) for Aviation",
-"Total":"2778"
+"Total": 2778
 },
 {
 "Name":"Naval Integrated Fire Control - Counter Air Systems Engineering",
-"Total":"23695"
+"Total": 23695
 },
 {
 "Name":"Unmanned Carrier Launched Airborne Surveillance and Strike (UCLASS) System",
-"Total":"134708"
+"Total": 134708
 },
 {
 "Name":"Advanced Above Water Sensors",
-"Total":"43914"
+"Total": 43914
 },
 {
 "Name":"SSN-688 and Trident Modernization",
-"Total":"109908"
+"Total": 109908
 },
 {
 "Name":"Air Control",
-"Total":"57928"
+"Total": 57928
 },
 {
 "Name":"Shipboard Aviation Systems",
-"Total":"120217"
+"Total": 120217
 },
 {
 "Name":"Air and Missile Defense Radar (AMDR) System",
-"Total":"241754"
+"Total": 241754
 },
 {
 "Name":"New Design SSN",
-"Total":"122556"
+"Total": 122556
 },
 {
 "Name":"Submarine Tactical Warfare System",
-"Total":"48213"
+"Total": 48213
 },
 {
 "Name":"Ship Contract Design/ Live Fire T&E",
-"Total":"49712"
+"Total": 49712
 },
 {
 "Name":"Navy Tactical Computer Resources",
-"Total":"4096"
+"Total": 4096
 },
 {
 "Name":"Virginia Payload Module (VPM)",
-"Total":"167719"
+"Total": 167719
 },
 {
 "Name":"Mine Development",
-"Total":"15122"
+"Total": 15122
 },
 {
 "Name":"Lightweight Torpedo Development",
-"Total":"33738"
+"Total": 33738
 },
 {
 "Name":"Joint Service Explosive Ordnance Development",
-"Total":"8123"
+"Total": 8123
 },
 {
 "Name":"Personnel Training Simulation and Human Factors",
-"Total":"7686"
+"Total": 7686
 },
 {
 "Name":"Joint Standoff Weapon Systems",
-"Total":"405"
+"Total": 405
 },
 {
 "Name":"Ship Self Defense (Detect & Control)",
-"Total":"153836"
+"Total": 153836
 },
 {
 "Name":"Ship Self Defense (Engage: Hard Kill)",
-"Total":"99619"
+"Total": 99619
 },
 {
 "Name":"Ship Self Defense (Engage: Soft Kill/EW)",
-"Total":"116798"
+"Total": 116798
 },
 {
 "Name":"Intelligence Engineering",
-"Total":"4353"
+"Total": 4353
 },
 {
 "Name":"Medical Development",
-"Total":"9443"
+"Total": 9443
 },
 {
 "Name":"Navigation/ID System",
-"Total":"32469"
+"Total": 32469
 },
 {
 "Name":"Joint Strike Fighter (JSF) - EMD",
-"Total":"537901"
+"Total": 537901
 },
 {
 "Name":"Joint Strike Fighter (JSF) - EMD",
-"Total":"504736"
+"Total": 504736
 },
 {
 "Name":"Joint Strike Fighter Follow On Development - Marine Corps",
-"Total":"59265"
+"Total": 59265
 },
 {
 "Name":"Joint Strike Fighter Follow On Development - Navy",
-"Total":"47579"
+"Total": 47579
 },
 {
 "Name":"Information Technology Development",
-"Total":"5914"
+"Total": 5914
 },
 {
 "Name":"Information Technology Development",
-"Total":"89711"
+"Total": 89711
 },
 {
 "Name":"CH-53K RDTE",
-"Total":"632092"
+"Total": 632092
 },
 {
 "Name":"Ship to Shore Connector (SSC)",
-"Total":"7778"
+"Total": 7778
 },
 {
 "Name":"Joint Air-to-Ground Missile (JAGM)",
-"Total":"25898"
+"Total": 25898
 },
 {
 "Name":"Multi-mission Maritime Aircraft (MMA)",
-"Total":"247929"
+"Total": 247929
 },
 {
 "Name":"DDG-1000",
-"Total":"103199"
+"Total": 103199
 },
 {
 "Name":"Tactical Command System - MIP",
-"Total":"998"
+"Total": 998
 },
 {
 "Name":"Tactical Cryptologic Systems",
-"Total":"17785"
+"Total": 17785
 },
 {
 "Name":"Special Applications Program",
-"Total":"35905"
+"Total": 35905
 },
 {
 "Name":"Training System Aircraft",
-"Total":"21708"
+"Total": 21708
 },
 {
 "Name":"Other Helo Development",
-"Total":"11101"
+"Total": 11101
 },
 {
 "Name":"AV-8B Aircraft - Eng Dev",
-"Total":"39878"
+"Total": 39878
 },
 {
 "Name":"Standards Development",
-"Total":"53059"
+"Total": 53059
 },
 {
 "Name":"Multi-Mission Helicopter Upgrade Development",
-"Total":"21358"
+"Total": 21358
 },
 {
 "Name":"Air/Ocean Equipment Engineering",
-"Total":"4515"
+"Total": 4515
 },
 {
 "Name":"P-3 Modernization Program",
-"Total":"1514"
+"Total": 1514
 },
 {
 "Name":"Warfare Support System",
-"Total":"5875"
+"Total": 5875
 },
 {
 "Name":"Tactical Command System",
-"Total":"81553"
+"Total": 81553
 },
 {
 "Name":"Advanced Hawkeye",
-"Total":"272149"
+"Total": 272149
 },
 {
 "Name":"H-1 Upgrades",
-"Total":"27235"
+"Total": 27235
 },
 {
 "Name":"Acoustic Search Sensors",
-"Total":"35763"
+"Total": 35763
 },
 {
 "Name":"V-22A",
-"Total":"87918"
+"Total": 87918
 }
 ]
 }
@@ -3211,15 +3211,15 @@
 "Subdivision":[
 {
 "Name":"Public Key Infrastructure (PKI)",
-"Total":"6101"
+"Total": 6101
 },
 {
 "Name":"Key Management Infrastructure (KMI)",
-"Total":"43867"
+"Total": 43867
 },
 {
 "Name":"Information Systems Security Program",
-"Total":"146890"
+"Total": 146890
 }
 ]
 }
@@ -3233,43 +3233,43 @@
 "Subdivision":[
 {
 "Name":"Joint Electromagnetic Technology (JET) Program",
-"Total":"2660"
+"Total": 2660
 },
 {
 "Name":"Nuclear and Conventional Physical Security Equipment RDT&E ADC&P",
-"Total":"31710"
+"Total": 31710
 },
 {
 "Name":"WALKOFF",
-"Total":"90567"
+"Total": 90567
 },
 {
 "Name":"Advanced Sensors Application Program",
-"Total":"15900"
+"Total": 15900
 },
 {
 "Name":"Environmental Security Technical Certification Program",
-"Total":"52758"
+"Total": 52758
 },
 {
 "Name":"Humanitarian Demining",
-"Total":"10129"
+"Total": 10129
 },
 {
 "Name":"Coalition Warfare",
-"Total":"10350"
+"Total": 10350
 },
 {
 "Name":"Department of Defense Corrosion Program",
-"Total":"1518"
+"Total": 1518
 },
 {
 "Name":"Advanced Innovative Technologies",
-"Total":"469798"
+"Total": 469798
 },
 {
 "Name":"Department of Defense (DoD) Unmanned Aircraft System (UAS) Common Development",
-"Total":"3129"
+"Total": 3129
 }
 ]
 },
@@ -3278,83 +3278,83 @@
 "Subdivision":[
 {
 "Name":"Joint Munitions Advanced Technology",
-"Total":"25915"
+"Total": 25915
 },
 {
 "Name":"Combating Terrorism Technology Support",
-"Total":"71171"
+"Total": 71171
 },
 {
 "Name":"Foreign Comparative Testing",
-"Total":"21782"
+"Total": 21782
 },
 {
 "Name":"Joint DoD-DoE Munitions Technology Development",
-"Total":"18802"
+"Total": 18802
 },
 {
 "Name":"Analytic Assessments",
-"Total":"14645"
+"Total": 14645
 },
 {
 "Name":"Advanced Innovative Analysis and Concepts",
-"Total":"59830"
+"Total": 59830
 },
 {
 "Name":"RETRACT LARCH",
-"Total":"118666"
+"Total": 118666
 },
 {
 "Name":"Joint Electronic Advanced Technology",
-"Total":"43966"
+"Total": 43966
 },
 {
 "Name":"Joint Capability Technology Demonstrations",
-"Total":"141540"
+"Total": 141540
 },
 {
 "Name":"Networked Communications Capabilities",
-"Total":"6980"
+"Total": 6980
 },
 {
 "Name":"Defense-Wide Manufacturing Science and Technology Program",
-"Total":"157056"
+"Total": 157056
 },
 {
 "Name":"Emerging Capabilities Technology Development",
-"Total":"33515"
+"Total": 33515
 },
 {
 "Name":"Strategic Environmental Research Program",
-"Total":"65836"
+"Total": 65836
 },
 {
 "Name":"Joint Warfighting Program",
-"Total":"9626"
+"Total": 9626
 },
 {
 "Name":"Software Engineering Institute",
-"Total":"15202"
+"Total": 15202
 },
 {
 "Name":"Quick Reaction Special Projects",
-"Total":"90500"
+"Total": 90500
 },
 {
 "Name":"Engineering Science & Technology",
-"Total":"18377"
+"Total": 18377
 },
 {
 "Name":"Test & Evaluation Science & Technology",
-"Total":"82589"
+"Total": 82589
 },
 {
 "Name":"Operational Energy Capability Improvement",
-"Total":"37420"
+"Total": 37420
 },
 {
 "Name":"CWMD Systems",
-"Total":"42488"
+"Total": 42488
 }
 ]
 },
@@ -3363,23 +3363,23 @@
 "Subdivision":[
 {
 "Name":"Lincoln Laboratory Research Program",
-"Total":"51026"
+"Total": 51026
 },
 {
 "Name":"Applied Research for the Advancement of S&T Priorities",
-"Total":"48226"
+"Total": 48226
 },
 {
 "Name":"Cyber Security Research",
-"Total":"13727"
+"Total": 13727
 },
 {
 "Name":"Software Engineering Institute (SEI) Applied Research",
-"Total":"8824"
+"Total": 8824
 },
 {
 "Name":"Joint Munitions Technology",
-"Total":"19352"
+"Total": 19352
 }
 ]
 },
@@ -3388,15 +3388,15 @@
 "Subdivision":[
 {
 "Name":"Basic Research Initiatives",
-"Total":"42022"
+"Total": 42022
 },
 {
 "Name":"National Defense Education Program",
-"Total":"49453"
+"Total": 49453
 },
 {
 "Name":"Historically Black Colleges and Universities/Minority Institutions",
-"Total":"25834"
+"Total": 25834
 }
 ]
 },
@@ -3405,79 +3405,79 @@
 "Subdivision":[
 {
 "Name":"Defense Readiness Reporting System (DRRS)",
-"Total":"5581"
+"Total": 5581
 },
 {
 "Name":"Joint Systems Architecture Development",
-"Total":"3081"
+"Total": 3081
 },
 {
 "Name":"Central Test and Evaluation Investment Development (CTEIP)",
-"Total":"229125"
+"Total": 229125
 },
 {
 "Name":"Assessments and Evaluations",
-"Total":"28674"
+"Total": 28674
 },
 {
 "Name":"Joint Mission Environment Test Capability (JMETC)",
-"Total":"45235"
+"Total": 45235
 },
 {
 "Name":"Technical Studies Support and Analysis",
-"Total":"24936"
+"Total": 24936
 },
 {
 "Name":"Systems Engineering",
-"Total":"37655"
+"Total": 37655
 },
 {
 "Name":"Studies and Analysis Support - OSD",
-"Total":"3015"
+"Total": 3015
 },
 {
 "Name":"Nuclear Matters-Physical Security",
-"Total":"5287"
+"Total": 5287
 },
 {
 "Name":"Support to Networks and Information Integration",
-"Total":"5289"
+"Total": 5289
 },
 {
 "Name":"General Support to USD (Intelligence)",
-"Total":"2120"
+"Total": 2120
 },
 {
 "Name":"Small Business Innovation Research (SBIR)/ Small Business Technology Transfer",
-"Total":"2169"
+"Total": 2169
 },
 {
 "Name":"Defense Technology Analysis",
-"Total":"13960"
+"Total": 13960
 },
 {
 "Name":"Development Test and Evaluation",
-"Total":"17371"
+"Total": 17371
 },
 {
 "Name":"Budget and Program Assessments",
-"Total":"4123"
+"Total": 4123
 },
 {
 "Name":"Defense Operations Security Initiative (DOSI)",
-"Total":"1946"
+"Total": 1946
 },
 {
 "Name":"Defense Military Deception Program Office (DMDPO)",
-"Total":"971"
+"Total": 971
 },
 {
 "Name":"Cyber Intelligence",
-"Total":"6579"
+"Total": 6579
 },
 {
 "Name":"COCOM Exercise Engagement and Training Transformation (CE2T2) - MHA",
-"Total":"43811"
+"Total": 43811
 }
 ]
 },
@@ -3486,27 +3486,27 @@
 "Subdivision":[
 {
 "Name":"Industrial Base Analysis and Sustainment Support",
-"Total":"22576"
+"Total": 22576
 },
 {
 "Name":"CWMD Systems: Operational Systems Development",
-"Total":"1901"
+"Total": 1901
 },
 {
 "Name":"Information Systems Security Program",
-"Total":"8957"
+"Total": 8957
 },
 {
 "Name":"Policy R&D Programs",
-"Total":"4182"
+"Total": 4182
 },
 {
 "Name":"Net Centricity",
-"Total":"18130"
+"Total": 18130
 },
 {
 "Name":"Homeland Defense Technology Transfer Program",
-"Total":"2119"
+"Total": 2119
 }
 ]
 },
@@ -3515,35 +3515,35 @@
 "Subdivision":[
 {
 "Name":"Nuclear and Conventional Physical Security Equipment RDT&E SDD",
-"Total":"8800"
+"Total": 8800
 },
 {
 "Name":"Prompt Global Strike Capability Development",
-"Total":"78817"
+"Total": 78817
 },
 {
 "Name":"Joint Tactical Information Distribution System (JTIDS)",
-"Total":"14285"
+"Total": 14285
 },
 {
 "Name":"Defense Exportability Program",
-"Total":"3273"
+"Total": 3273
 },
 {
 "Name":"OUSD(C) IT Development Initiatives",
-"Total":"5962"
+"Total": 5962
 },
 {
 "Name":"DCMO Policy and Integration",
-"Total":"2223"
+"Total": 2223
 },
 {
 "Name":"Defense-Wide Electronic Procurement Capabilities",
-"Total":"7209"
+"Total": 7209
 },
 {
 "Name":"DoD Enterprise Energy Information Management (EEIM)",
-"Total":"4414"
+"Total": 4414
 }
 ]
 }
@@ -3557,15 +3557,15 @@
 "Subdivision":[
 {
 "Name":"Operational Test and Evaluation",
-"Total":"76838"
+"Total": 76838
 },
 {
 "Name":"Live Fire Test and Evaluation",
-"Total":"46882"
+"Total": 46882
 },
 {
 "Name":"Operational Test Activities and Analyses",
-"Total":"46838"
+"Total": 46838
 }
 ]
 }
@@ -3579,7 +3579,7 @@
 "Subdivision":[
 {
 "Name":"SOF Advanced Technology Development",
-"Total":"57741"
+"Total": 57741
 }
 ]
 },
@@ -3588,7 +3588,7 @@
 "Subdivision":[
 {
 "Name":"SOF Technology Development",
-"Total":"37517"
+"Total": 37517
 }
 ]
 },
@@ -3597,55 +3597,55 @@
 "Subdivision":[
 {
 "Name":"Special Applications for Contingencies",
-"Total":"65060"
+"Total": 65060
 },
 {
 "Name":"Distributed Common Ground/Surface Systems",
-"Total":"5302"
+"Total": 5302
 },
 {
 "Name":"MQ-9 UAV",
-"Total":"18151"
+"Total": 18151
 },
 {
 "Name":"RQ-11 UAV",
-"Total":"758"
+"Total": 758
 },
 {
 "Name":"Aviation Systems",
-"Total":"173934"
+"Total": 173934
 },
 {
 "Name":"Intelligence Systems Development",
-"Total":"6866"
+"Total": 6866
 },
 {
 "Name":"Operational Enhancements",
-"Total":"63008"
+"Total": 63008
 },
 {
 "Name":"Warrior Systems",
-"Total":"25342"
+"Total": 25342
 },
 {
 "Name":"Special Programs",
-"Total":"3401"
+"Total": 3401
 },
 {
 "Name":"SOF Tactical Vehicles",
-"Total":"3212"
+"Total": 3212
 },
 {
 "Name":"Maritime Systems",
-"Total":"63597"
+"Total": 63597
 },
 {
 "Name":"Global Video Surveillance Activities",
-"Total":"3933"
+"Total": 3933
 },
 {
 "Name":"Operational Enhancements Intelligence",
-"Total":"10623"
+"Total": 10623
 }
 ]
 }
@@ -3659,7 +3659,7 @@
 "Subdivision":[
 {
 "Name":"Joint C5 Capability Development Integration and interoperability Assessments",
-"Total":"25200"
+"Total": 25200
 }
 ]
 },
@@ -3668,15 +3668,15 @@
 "Subdivision":[
 {
 "Name":"Joint Integrated Air and Missile Defense Organization (JIAMDO)",
-"Total":"35471"
+"Total": 35471
 },
 {
 "Name":"Joint Staff Analytical Support",
-"Total":"7673"
+"Total": 7673
 },
 {
 "Name":"Support to Information Operations (IO) Capabilities",
-"Total":"10413"
+"Total": 10413
 }
 ]
 },
@@ -3685,11 +3685,11 @@
 "Subdivision":[
 {
 "Name":"Planning and Decision Aid System (PDAS)",
-"Total":"3061"
+"Total": 3061
 },
 {
 "Name":"Management HQ - OJCS",
-"Total":"2978"
+"Total": 2978
 }
 ]
 }
@@ -3703,7 +3703,7 @@
 "Subdivision":[
 {
 "Name":"WHS - Mission Operations Support - IT",
-"Total":"1072"
+"Total": 1072
 }
 ]
 }
