@@ -66,25 +66,34 @@ print "{"
 print "\"Name\":\"DoD\","
 print "\"Total\":\"" + str(get_total(orgsbudgetbyactivities)) + "\","
 print "\"Subdivision\":["
-for subbudget in orgsbudgetbyactivities:
+for g, subbudget in enumerate(orgsbudgetbyactivities):
     print "{"
     print "\"Name\":\"" + subbudget[0][0][splitfield1] + "\","
     print "\"Total\":\"" + str(get_total(subbudget)) + "\","
     print "\"Subdivision\":["
-    for underbudget in subbudget:
+    for h, underbudget in enumerate(subbudget):
         print "{"
         print "\"Name\":\"" + underbudget[0][splitfield2] + "\","
         print "\"Total\":\"" + str(get_total(underbudget)) + "\","
         print "\"Subdivision\":["
-        for item in underbudget:
+        for i, item in enumerate(underbudget):
             print "{"
             print "\"Name\":\"" + item["ProgramElementTitle"] + "\","
             print "\"Total\":\"" + str(item["Total"]) + "\""
-            print "},"
+            if i < len(underbudget) - 1:
+                print "},"
+            else:
+                print "}"
         print "]"
-        print "},"
+        if h < len(subbudget) - 1:
+            print "},"
+        else:
+            print "}"
     print "]"
-    print "},"
+    if g < len(orgsbudgetbyactivities) - 1:
+        print "},"
+    else:
+        print "}"
 print "]"
 print "}"
 
