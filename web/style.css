@@ -1,0 +1,21 @@
+body {
+  font-family: "Futura", Arial, sans-serif;
+  margin: auto;
+  position: relative;
+  width: 960px;
+}
+
+body.h1 {
+    font-size: 30px;
+}
+
+form {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+}
+
+path {
+  stroke: #fff;
+  fill-rule: evenodd;
+}

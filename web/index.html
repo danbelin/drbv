@@ -43,7 +43,7 @@ d3.json("budgetbyorg.json", function(error, root) {
       .data(partition.nodes)
     .enter().append("path")
       .attr("d", arc)
-      .style("fill", function(d) { return color((d.children ? d : d.parent).name); })
+      .style("fill", function(d) { return color((d.children ? d : d.parent).Name); })
       .on("click", click)
       .each(stash);
 
